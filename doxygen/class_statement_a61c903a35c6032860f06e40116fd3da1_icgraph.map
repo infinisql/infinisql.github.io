@@ -1,0 +1,21 @@
+<map id="Statement::continueDelete" name="Statement::continueDelete">
+<area shape="rect" id="node3" href="$class_statement.html#a4d278eaa6b77688702b33b4ad73baaf8" title="SELECT, INSERT, UPDATE, DELETE, stored proc branch to. " alt="" coords="232,293,397,323"/>
+<area shape="rect" id="node25" href="$class_transaction.html#af1b4585435a240cae71c2f819ce5bc91" title="continuation of SQL predicate search " alt="" coords="1148,373,1313,419"/>
+<area shape="rect" id="node53" href="$class_transaction.html#af8446c93fc62749f913208ec60a381e8" title="continuation of DELETE " alt="" coords="460,599,625,646"/>
+<area shape="rect" id="node5" href="$class_statement.html#a9f0b670dfa46844eb90de3ca3444d2d2" title="perform search expression " alt="" coords="445,371,640,400"/>
+<area shape="rect" id="node11" href="$class_statement.html#a0a683e44fb4dfcf9063a476428490ada" title="begin query execution " alt="" coords="699,205,848,235"/>
+<area shape="rect" id="node7" href="$class_ast.html#a229d1f25bd5f15a7f8a2b1a44ea26ed9" title="Ast::evaluate" alt="" coords="948,435,1047,464"/>
+<area shape="rect" id="node48" href="$class_transaction.html#a3d0b71c4ec2701fb542956f3d1e493f8" title="SQL predicate search. " alt="" coords="688,371,859,400"/>
+<area shape="rect" id="node13" href="$class_statement.html#a42ca63333686087acb579354fce0720f" title="execute SQL statement " alt="" coords="929,59,1065,88"/>
+<area shape="rect" id="node22" href="$class_statement.html#abb110d0dc3abf1f5dcbb33ff33a7174b" title="continuation for SELECT statement " alt="" coords="909,320,1085,349"/>
+<area shape="rect" id="node33" href="$class_statement.html#ab44eeb418a8a7b4fba8000accc66c81a" title="continuation for UPDATE statement " alt="" coords="907,163,1088,192"/>
+<area shape="rect" id="node43" href="$class_statement.html#a7fde4b03e1c3bdbeeb8b5514bbb80fab" title="continuation for INSERT statement " alt="" coords="912,216,1083,245"/>
+<area shape="rect" id="node15" href="$class_api_interface.html#aa98cd6da46180185e425a6efa84bf950" title="execute SQL statement " alt="" coords="1137,59,1324,88"/>
+<area shape="rect" id="node17" href="$class_pg.html#af7204d6b309e5d68f8bd37fdbcc5929e" title="tokenize, parse, compile and execute SQL query " alt="" coords="1155,5,1307,35"/>
+<area shape="rect" id="node19" href="$class_pg.html#a1d9453abb6c088797e14baea3f2c241b" title="wire protocol handling " alt="" coords="1445,5,1515,35"/>
+<area shape="rect" id="node29" href="$class_transaction.html#acc68e7f9e766d98f3c7318780405f465" title="get all rows from a table " alt="" coords="1148,320,1313,349"/>
+<area shape="rect" id="node27" href="$class_transaction.html#a954645efeb9bb7f6a510dd33cc16851f" title="execute continuation based on MessageTransaction reply " alt="" coords="1375,250,1585,297"/>
+<area shape="rect" id="node37" href="$class_transaction.html#a675020eec1986710d1865eacbba6e81f" title="continuation of UPDATE " alt="" coords="1148,111,1313,158"/>
+<area shape="rect" id="node40" href="$class_transaction.html#a579df7cbb28d6f8d4ddc869ff68ed066" title="continuation of REPLACE (update of field 0 in a row) " alt="" coords="1148,181,1313,227"/>
+<area shape="rect" id="node45" href="$class_transaction.html#a34c98cae060191022da8c08f63875412" title="continuation of INSERT " alt="" coords="1148,250,1313,297"/>
+</map>

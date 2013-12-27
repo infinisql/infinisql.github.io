@@ -1,0 +1,14 @@
+<map id="Larxer::consumeInsert" name="Larxer::consumeInsert">
+<area shape="rect" id="node3" href="$class_larxer.html#a1c46fac97cb30693de0a91b37de6f24d" title="extract expression from stack " alt="" coords="205,209,389,238"/>
+<area shape="rect" id="node10" href="$class_larxer.html#aa08933852130b1798751a00d1d99ac43" title="take item off stack " alt="" coords="1300,301,1417,330"/>
+<area shape="rect" id="node20" href="$class_larxer.html#a9d615ba858b12cdd29c2d533752fefd0" title="extract FROM clause from stack " alt="" coords="1091,482,1240,511"/>
+<area shape="rect" id="node5" href="$class_larxer.html#a9fdc09dab3112330d2636d703130fce2" title="extract list of IN values from stack " alt="" coords="437,209,603,238"/>
+<area shape="rect" id="node8" href="$class_larxer.html#a35c542ecb83affebfd66c2ece93f62f6" title="extract subquery from stack " alt="" coords="652,261,825,290"/>
+<area shape="rect" id="node12" href="$class_larxer.html#a5b0948618498f0ddd0b217aff6f84c4e" title="extract SELECT query from stack " alt="" coords="876,261,1031,290"/>
+<area shape="rect" id="node15" href="$class_larxer.html#a0776cd436d3658c7670263d63cb5c997" title="extract columns from stack " alt="" coords="1080,221,1251,250"/>
+<area shape="rect" id="node18" href="$class_larxer.html#a84c860379cd60980079c0d2aaab513be" title="convert string to integer " alt="" coords="1108,167,1223,197"/>
+<area shape="rect" id="node23" href="$class_larxer.html#a544218ca37a03480d1b231f45438f2ed" title="extract WHERE clause from stack " alt="" coords="1087,61,1244,90"/>
+<area shape="rect" id="node27" href="$class_larxer.html#ab1e8b9e36b063e863c8f1043b410a678" title="extract GROUP BY clause from stack " alt="" coords="1081,274,1249,303"/>
+<area shape="rect" id="node30" href="$class_larxer.html#a4559e82633855f6143826cd53849a169" title="extract HAVING clause from stack " alt="" coords="1085,114,1245,143"/>
+<area shape="rect" id="node34" href="$class_larxer.html#abc40c778db70a5b7f8449297802ee7d1" title="extract ORDER BY clause from stack " alt="" coords="1083,327,1248,357"/>
+</map>

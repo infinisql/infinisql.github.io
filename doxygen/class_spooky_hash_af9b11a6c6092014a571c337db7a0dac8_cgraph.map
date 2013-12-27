@@ -1,0 +1,5 @@
+<map id="SpookyHash::Short" name="SpookyHash::Short">
+<area shape="rect" id="node3" href="$class_spooky_hash.html#a5b01b1a2b3270e9c11244a6702b0db59" title="SpookyHash::ShortEnd" alt="" coords="191,5,348,35"/>
+<area shape="rect" id="node7" href="$class_spooky_hash.html#a2a18b61b405f43f283ba9a20016b5b9f" title="SpookyHash::ShortMix" alt="" coords="191,59,348,88"/>
+<area shape="rect" id="node5" href="$class_spooky_hash.html#a2b3b07af28a0b4f0f920fdb3a31a0c87" title="SpookyHash::Rot64" alt="" coords="399,32,537,61"/>
+</map>

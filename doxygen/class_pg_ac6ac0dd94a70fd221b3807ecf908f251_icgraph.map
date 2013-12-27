@@ -1,0 +1,18 @@
+<map id="Pg::pgclosesocket" name="Pg::pgclosesocket">
+<area shape="rect" id="node3" href="$class_pg.html#a23146f712d62c6b5c4537b55dbc89727" title="close socket " alt="" coords="185,277,300,307"/>
+<area shape="rect" id="node30" href="$class_transaction_agent.html#abe6035d3eb84620ebbdcdfce3d34fc3b" title="TransactionAgent::Transaction\lAgent" alt="" coords="1029,86,1229,133"/>
+<area shape="rect" id="node5" href="$class_pg.html#a1d9453abb6c088797e14baea3f2c241b" title="wire protocol handling " alt="" coords="856,92,925,121"/>
+<area shape="rect" id="node7" href="$class_pg.html#af53fe07c0c0a879e0291e723dff34926" title="continuation function after explicit commit " alt="" coords="352,411,549,440"/>
+<area shape="rect" id="node11" href="$class_pg.html#ac132fbe1a0c46c68ece5004366dd8a62" title="after SQL activity is performed " alt="" coords="821,357,960,387"/>
+<area shape="rect" id="node13" href="$class_pg.html#adc7f4444738cd3201d51fd254c28f353" title="continuation function after implicit commit " alt="" coords="352,357,549,387"/>
+<area shape="rect" id="node19" href="$class_pg.html#a5bdee216f5c823ca136fee3c50a53d7c" title="continuation function after explicit rollback " alt="" coords="349,304,552,333"/>
+<area shape="rect" id="node24" href="$class_pg.html#a9b16e732905412fd19a9b1c75e62ced3" title="write authenticationok status to outbound message buffer " alt="" coords="369,251,532,280"/>
+<area shape="rect" id="node32" href="$class_pg.html#a79e2585fe00a44c7064745113cf6816a" title="write error to outbound message buffer " alt="" coords="376,197,525,227"/>
+<area shape="rect" id="node9" href="$class_pg.html#a55518b7c783c58e23badcc740e96cd8e" title="explicit commit " alt="" coords="603,411,749,440"/>
+<area shape="rect" id="node15" href="$class_pg.html#a5c7a5cc08d6f879c72e2a5e9515ae7a8" title="implicit commit " alt="" coords="603,357,749,387"/>
+<area shape="rect" id="node21" href="$class_pg.html#a26dfda1f20b2fdaac85986fa3dd7ebca" title="explicit rollback " alt="" coords="601,304,751,333"/>
+<area shape="rect" id="node26" href="$class_pg.html#aee8ca6d9759c75c81a8d41679744b31e" title="continuation after login operation " alt="" coords="613,251,739,280"/>
+<area shape="rect" id="node28" href="$class_operation.html#a07d5db6e1d0c41bf4073f3be93e4e7ed" title="perform operation (only for SQL logins) " alt="" coords="801,199,980,228"/>
+<area shape="rect" id="node36" href="$class_pg.html#af7204d6b309e5d68f8bd37fdbcc5929e" title="tokenize, parse, compile and execute SQL query " alt="" coords="600,144,752,173"/>
+<area shape="rect" id="node39" href="$class_pg.html#aaa7af6e009006b5eb3c4ff8324ac2d6c" title="output error based on Transaction::resultCode " alt="" coords="621,197,731,227"/>
+</map>

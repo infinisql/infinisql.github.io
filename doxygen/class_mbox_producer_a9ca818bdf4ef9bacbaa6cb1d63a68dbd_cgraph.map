@@ -1,0 +1,6 @@
+<map id="MboxProducer::sendMsg" name="MboxProducer::sendMsg">
+<area shape="rect" id="node3" href="$class_mbox.html#a5311178f7221ffa942fa128424ac9a86" title="create 128bit integer from Message object " alt="" coords="221,5,408,35"/>
+<area shape="rect" id="node5" href="$class_mbox.html#ae545aa094bc902b10f9b1e042c24e42b" title="return Message pointer from 128bit integer " alt="" coords="267,59,363,88"/>
+<area shape="rect" id="node7" href="$class_mboxes.html#abaaf6c0d67c235bcb17e7f9e935861cf" title="send batched Message objects destined to remote nodes " alt="" coords="237,112,392,141"/>
+<area shape="rect" id="node10" href="$class_message.html#a4508c42d7366a86327ca3076eb1ff007" title="return serialized Message variant string " alt="" coords="252,165,377,195"/>
+</map>

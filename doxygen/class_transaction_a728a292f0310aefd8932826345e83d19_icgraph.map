@@ -1,0 +1,13 @@
+<map id="Transaction::revertback" name="Transaction::revertback">
+<area shape="rect" id="node3" href="$class_transaction.html#a866b5f6e06fb68896ec31d2043a0826a" title="likely deprecated " alt="" coords="220,83,351,112"/>
+<area shape="rect" id="node26" href="$class_transaction.html#a4d8e76c4155f68cb3237907024ad0fe0" title="likely deprecated " alt="" coords="215,136,356,165"/>
+<area shape="rect" id="node5" href="$class_transaction.html#a4240edd50851557679a29d6b20e6096c" title="deprecated " alt="" coords="405,31,560,60"/>
+<area shape="rect" id="node11" href="$class_transaction.html#a6c827f8993701533260f3536af464a0c" title="deprecated " alt="" coords="608,83,824,112"/>
+<area shape="rect" id="node24" href="$class_api_interface.html#ac7238843bdaf0d0d0a04c40501486b2e" title="deprecated " alt="" coords="416,135,549,164"/>
+<area shape="rect" id="node7" href="$class_transaction.html#a7448e0d1155d9ccf687ef6313aacda83" title="deprecated " alt="" coords="613,5,819,35"/>
+<area shape="rect" id="node9" href="$class_transaction.html#a954645efeb9bb7f6a510dd33cc16851f" title="execute continuation based on MessageTransaction reply " alt="" coords="1145,34,1356,81"/>
+<area shape="rect" id="node13" href="$class_transaction.html#a9628fa7732e664c8135ec27ad33be8ab" title="deprecated " alt="" coords="873,95,1095,124"/>
+<area shape="rect" id="node17" href="$class_transaction.html#aa67248e993f0d208e3960ccfedaf1fe4" title="deprecated " alt="" coords="903,148,1065,177"/>
+<area shape="rect" id="node19" href="$class_api_interface.html#a431c71ff495e0821ed348846b05539f1" title="deprecated " alt="" coords="1168,125,1333,155"/>
+<area shape="rect" id="node21" href="$class_api_interface.html#a7f54064551b6d5159c3e859626719fd1" title="deprecated " alt="" coords="1156,178,1345,225"/>
+</map>

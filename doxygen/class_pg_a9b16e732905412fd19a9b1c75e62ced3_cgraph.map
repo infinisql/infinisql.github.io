@@ -1,0 +1,19 @@
+<map id="Pg::putAuthenticationOk" name="Pg::putAuthenticationOk">
+<area shape="rect" id="node3" href="$class_pg.html#a23146f712d62c6b5c4537b55dbc89727" title="close socket " alt="" coords="243,112,357,141"/>
+<area shape="rect" id="node31" href="$class_pg.html#aa3859c82746de187e1eaaa2af79763bb" title="write data to outbound message buffer " alt="" coords="480,217,544,247"/>
+<area shape="rect" id="node33" href="$class_pg.html#afbe09ff203b419a42ad234f906959c8a" title="write server parameters in status message to outbound message buffer " alt="" coords="219,271,381,300"/>
+<area shape="rect" id="node36" href="$class_pg.html#a3ea550f9d0d24a3c7aeb736b83c86bcb" title="put message for reply into outbound buffer " alt="" coords="463,271,561,300"/>
+<area shape="rect" id="node39" href="$class_pg.html#a8422838d3a7e83f6db18eceb18817588" title="write response messages to socket " alt="" coords="244,217,356,247"/>
+<area shape="rect" id="node5" href="$class_api_interface.html#a0ec871d856f976629ce78d5fc3e4e9d5" title="continuation function after implicit commit " alt="" coords="429,41,595,87"/>
+<area shape="rect" id="node7" href="$class_pg.html#ac6ac0dd94a70fd221b3807ecf908f251" title="more socket closing&#45;related activities " alt="" coords="447,111,577,140"/>
+<area shape="rect" id="node9" href="$class_transaction.html#a000e4f0882139eb8470f7472ca14a24e" title="ROLLBACK. " alt="" coords="441,164,583,193"/>
+<area shape="rect" id="node11" href="$class_transaction.html#a58d291fe5c0ee6984aa71a79c7126376" title="send MessageTransaction variant to Engine " alt="" coords="643,112,837,141"/>
+<area shape="rect" id="node13" href="$class_mboxes.html#a956f8e7626423edfd33db7a185b8b352" title="produce Message for Engine associated with specific partition " alt="" coords="887,139,1020,168"/>
+<area shape="rect" id="node29" href="$class_transaction.html#a62cfbd3f256c6b36cfdd16cddf1ab5fe" title="continue back to calling function " alt="" coords="671,216,809,245"/>
+<area shape="rect" id="node15" href="$class_mbox_producer.html#a9ca818bdf4ef9bacbaa6cb1d63a68dbd" title="produce Message onto mailbox " alt="" coords="1071,112,1236,141"/>
+<area shape="rect" id="node26" href="$class_message.html#a8f4edea412ed3bbaa8d3cf2d1d48b8b3" title="put addresses in Message variant envelope " alt="" coords="1076,165,1231,195"/>
+<area shape="rect" id="node17" href="$class_mbox.html#a5311178f7221ffa942fa128424ac9a86" title="create 128bit integer from Message object " alt="" coords="1285,5,1472,35"/>
+<area shape="rect" id="node19" href="$class_mbox.html#ae545aa094bc902b10f9b1e042c24e42b" title="return Message pointer from 128bit integer " alt="" coords="1331,59,1427,88"/>
+<area shape="rect" id="node21" href="$class_mboxes.html#abaaf6c0d67c235bcb17e7f9e935861cf" title="send batched Message objects destined to remote nodes " alt="" coords="1301,112,1456,141"/>
+<area shape="rect" id="node24" href="$class_message.html#a4508c42d7366a86327ca3076eb1ff007" title="return serialized Message variant string " alt="" coords="1316,165,1441,195"/>
+</map>

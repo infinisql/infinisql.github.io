@@ -1,0 +1,19 @@
+var searchData=
+[
+  ['recordarrayoid',['RECORDARRAYOID',['../pgoids_8h.html#a0dfa5334c35cd6667186cd6dc0defcdc',1,'pgoids.h']]],
+  ['recordoid',['RECORDOID',['../pgoids_8h.html#a1911d05c5804bc8f7553ba58ad616109',1,'pgoids.h']]],
+  ['refcursoroid',['REFCURSOROID',['../pgoids_8h.html#a968b07c6e5eb3a774625846052101de1',1,'pgoids.h']]],
+  ['regclassoid',['REGCLASSOID',['../pgoids_8h.html#ac87602893f0898817a48905de50135af',1,'pgoids.h']]],
+  ['regconfigoid',['REGCONFIGOID',['../pgoids_8h.html#ab6e19472f924e5312d9bb8a2c139ffc5',1,'pgoids.h']]],
+  ['regdictionaryoid',['REGDICTIONARYOID',['../pgoids_8h.html#a9ab0c131f05be5a48b78aa4faf214810',1,'pgoids.h']]],
+  ['regoperatoroid',['REGOPERATOROID',['../pgoids_8h.html#a7747fd153c88a61d7bb7861d15df0d08',1,'pgoids.h']]],
+  ['regoperoid',['REGOPEROID',['../pgoids_8h.html#a64eb094f9653ecd0519d33558a1b04be',1,'pgoids.h']]],
+  ['regprocedureoid',['REGPROCEDUREOID',['../pgoids_8h.html#a7dc17e363ca6be5dd75905a9b467135e',1,'pgoids.h']]],
+  ['regprocoid',['REGPROCOID',['../pgoids_8h.html#a1f39af1807d58300763d527aca70605e',1,'pgoids.h']]],
+  ['regtypearrayoid',['REGTYPEARRAYOID',['../pgoids_8h.html#a9765ed2b296f4c8ad92b0f05e2b6ee9a',1,'pgoids.h']]],
+  ['regtypeoid',['REGTYPEOID',['../pgoids_8h.html#a5bac2d92fba6120283ec43d6dd6cfb6f',1,'pgoids.h']]],
+  ['reltimeoid',['RELTIMEOID',['../pgoids_8h.html#a738de11cb739503739775e4e1cfea09b',1,'pgoids.h']]],
+  ['replacedeleteflag',['REPLACEDELETEFLAG',['../defs_8h.html#a48b0c8d33b671d78fed9e42662203741',1,'defs.h']]],
+  ['reusemessages',['REUSEMESSAGES',['../_mbox_8h.html#ad49d934421b76b06f2464d5bf0f18681',1,'Mbox.h']]],
+  ['rtprio',['RTPRIO',['../defs_8h.html#adcb0e8ed9132f58267fed022be664721',1,'defs.h']]]
+];

@@ -1,0 +1,29 @@
+<map id="TransactionAgent::usmReply" name="TransactionAgent::usmReply">
+<area shape="rect" id="node3" href="$class_engine.html#a12c6a0c1b54dd47852aec89270ac647b" title="ADD COLUMN with optional index. " alt="" coords="295,5,428,35"/>
+<area shape="rect" id="node7" href="$class_user_schema_mgr.html#a8f043df82cf418513a25320d0969d251" title="add column " alt="" coords="267,325,456,355"/>
+<area shape="rect" id="node11" href="$class_user_schema_mgr.html#aa5c189e3168812ab0afafbdff16fbcb4" title="change password " alt="" coords="248,379,475,408"/>
+<area shape="rect" id="node14" href="$class_user_schema_mgr.html#a78f1135fcf7826fe46d38db7824b5628" title="create domain " alt="" coords="259,432,464,461"/>
+<area shape="rect" id="node17" href="$class_engine.html#a19a157250fa44c00d1a86106057e5ba6" title="create Schema " alt="" coords="285,59,437,88"/>
+<area shape="rect" id="node20" href="$class_user_schema_mgr.html#abdf3775da0087f56c6347c3d6520a470" title="create schema " alt="" coords="256,485,467,515"/>
+<area shape="rect" id="node23" href="$class_engine.html#ac8391971f3b5a3115fc878717ca4e803" title="CREATE TABLE. " alt="" coords="295,112,428,141"/>
+<area shape="rect" id="node26" href="$class_user_schema_mgr.html#ab548b6a3a6469bf1d7d6d4f44d84dfca" title="create table " alt="" coords="265,539,457,568"/>
+<area shape="rect" id="node29" href="$class_user_schema_mgr.html#a1e440a518936e242b0a3c91c6afefbe8" title="create user " alt="" coords="267,592,456,621"/>
+<area shape="rect" id="node32" href="$class_user_schema_mgr.html#ac87e4b3bc34e142b552ec438e99faa90" title="delete domain " alt="" coords="259,645,464,675"/>
+<area shape="rect" id="node35" href="$class_engine.html#ab9bd51a29bf297fe8ba74d2d5622a61f" title="DELETE INDEX. " alt="" coords="293,165,429,195"/>
+<area shape="rect" id="node38" href="$class_user_schema_mgr.html#a4fda90405506c285d8c355942b7fa000" title="delete index " alt="" coords="264,699,459,728"/>
+<area shape="rect" id="node41" href="$class_engine.html#a427b315c793a06facc49fb0eaac3903d" title="delete schema " alt="" coords="287,219,436,248"/>
+<area shape="rect" id="node44" href="$class_user_schema_mgr.html#a740146ba773d2ba7e4b4c8bbcade5c1e" title="delete schema " alt="" coords="257,752,465,781"/>
+<area shape="rect" id="node47" href="$class_engine.html#a68c8758114eed7a872e2e9365b4502f6" title="DROP TABLE. " alt="" coords="295,272,428,301"/>
+<area shape="rect" id="node50" href="$class_user_schema_mgr.html#a16688e8d33edf383e36398b2e1d29cee" title="delete table " alt="" coords="267,805,456,835"/>
+<area shape="rect" id="node53" href="$class_user_schema_mgr.html#a1d56bc2367b755d0a87e90733798c9c3" title="delete user " alt="" coords="268,859,455,888"/>
+<area shape="rect" id="node56" href="$class_user_schema_mgr.html#a6a36c150f42487446527d7bfbdd71b94" title="login (raw interface) " alt="" coords="284,912,439,941"/>
+<area shape="rect" id="node59" href="$class_transaction_agent.html#a0d82aaa016a2929b3d69e92f107360de" title="continuation for addcolumn " alt="" coords="256,965,467,995"/>
+<area shape="rect" id="node63" href="$class_transaction_agent.html#a609d7a0d69af211f541030c2a551b230" title="continuation function for createschema " alt="" coords="247,1019,476,1048"/>
+<area shape="rect" id="node66" href="$class_transaction_agent.html#adf85a631d7419a162fda6bc80fa90cf6" title="continuation for createtable " alt="" coords="255,1072,468,1101"/>
+<area shape="rect" id="node69" href="$class_transaction_agent.html#abc54267648e414a1d3a1d5361d925a3f" title="continuation for deleteindex " alt="" coords="255,1125,468,1155"/>
+<area shape="rect" id="node72" href="$class_transaction_agent.html#a9795c10a4520371df7fb184f1fde3874" title="continuation for deleteschema " alt="" coords="247,1179,476,1208"/>
+<area shape="rect" id="node75" href="$class_transaction_agent.html#ae76502e778acaa2ffda6132b16408b37" title="continuation for deletetable " alt="" coords="256,1232,467,1261"/>
+<area shape="rect" id="node5" href="$class_engine.html#a7011d511bfa3f3f7d5c4d9fde79c364e" title="execute Engine actor " alt="" coords="584,139,693,168"/>
+<area shape="rect" id="node9" href="$class_user_schema_mgr.html#afd786170810e7cc8a3518389ce38623c" title="UserSchemaMgr::UserSchemaMgr" alt="" coords="525,619,752,648"/>
+<area shape="rect" id="node61" href="$class_transaction_agent.html#abe6035d3eb84620ebbdcdfce3d34fc3b" title="TransactionAgent::Transaction\lAgent" alt="" coords="539,1090,739,1137"/>
+</map>

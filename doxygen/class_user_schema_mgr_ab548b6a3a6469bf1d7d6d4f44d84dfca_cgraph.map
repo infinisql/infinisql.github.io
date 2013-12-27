@@ -1,0 +1,5 @@
+<map id="UserSchemaMgr::createtable" name="UserSchemaMgr::createtable">
+<area shape="rect" id="node3" href="$class_schema.html#a76756f00756a7d9e18f455ec80c98d12" title="CREATE TABLE. " alt="" coords="268,5,415,35"/>
+<area shape="rect" id="node5" href="$class_schema.html#a6fe941e1810b7910fc2a0cb4a9b7a575" title="acquire ever&#45;increasing and unique table identifiers " alt="" coords="263,59,420,88"/>
+<area shape="rect" id="node7" href="$class_transaction_agent.html#aa8b977b4943a2494f949b59489a39bf2" title="reply MessageUserSchema to UserSchemaMgr " alt="" coords="247,112,436,141"/>
+</map>

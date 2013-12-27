@@ -1,0 +1,10 @@
+<map id="/home/infinisql/build/infinisql/infinisqld/api.cc" name="/home/infinisql/build/infinisql/infinisqld/api.cc">
+<area shape="rect" id="node3" href="$gch_8h.html" title="Headers for all external dependencies. " alt="" coords="1933,272,1987,301"/>
+<area shape="rect" id="node94" href="$infinisql_8h.html" title="API for creating stored procedures. Pg objects also inherit from this class, because they perform the..." alt="" coords="3772,427,3849,456"/>
+<area shape="rect" id="node101" href="$_transaction_8h.html" title="Class which performs transactions. Associated with the TransactionAgent which connected to the client..." alt="" coords="2064,117,2165,147"/>
+<area shape="rect" id="node109" href="$_asts_8h.html" title="Abstract Syntax Tree class and Statement class. A SQL statement turns into these in order to be execu..." alt="" coords="3939,272,3997,301"/>
+<area shape="rect" id="node21" href="$spooky_8h.html" title="Spooky Hash from Bob Jenkins. This is public domain. " alt="" coords="1405,427,1480,456"/>
+<area shape="rect" id="node90" href="$_mbox_8h.html" title="Mbox* classes perform inter&#45;actor messaging. Mbox is a lockfree multi producer, single consumer queue..." alt="" coords="2360,349,2424,379"/>
+<area shape="rect" id="node92" href="$defs_8h.html" title="Global struct &amp; enum types, global function declarations, global symbols in general. " alt="" coords="3821,349,3880,379"/>
+<area shape="rect" id="node104" href="$_transaction_agent_8h.html" title="Actor which communicates with clients and executes transactions. Coordinates of activities between se..." alt="" coords="2048,195,2181,224"/>
+</map>

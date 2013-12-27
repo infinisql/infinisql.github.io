@@ -1,0 +1,10 @@
+<map id="SpookyHash::Hash64" name="SpookyHash::Hash64">
+<area shape="rect" id="node3" href="$class_spooky_hash.html#a9d8973d46becbc8036c458fae3efc3a5" title="SpookyHash::Hash128" alt="" coords="205,59,363,88"/>
+<area shape="rect" id="node5" href="$class_spooky_hash.html#ae93bdc4013fbfa7d4ce9bfadf8fe953b" title="SpookyHash::End" alt="" coords="415,5,543,35"/>
+<area shape="rect" id="node11" href="$class_spooky_hash.html#a749e6012af3d67884a323e227105e032" title="SpookyHash::Mix" alt="" coords="416,59,541,88"/>
+<area shape="rect" id="node14" href="$class_spooky_hash.html#af9b11a6c6092014a571c337db7a0dac8" title="SpookyHash::Short" alt="" coords="411,112,547,141"/>
+<area shape="rect" id="node7" href="$class_spooky_hash.html#a9799c4b36e1c73e895e4e7293eb94521" title="SpookyHash::EndPartial" alt="" coords="595,5,760,35"/>
+<area shape="rect" id="node9" href="$class_spooky_hash.html#a2b3b07af28a0b4f0f920fdb3a31a0c87" title="SpookyHash::Rot64" alt="" coords="809,84,948,113"/>
+<area shape="rect" id="node16" href="$class_spooky_hash.html#a2a18b61b405f43f283ba9a20016b5b9f" title="SpookyHash::ShortMix" alt="" coords="599,109,756,139"/>
+<area shape="rect" id="node19" href="$class_spooky_hash.html#a5b01b1a2b3270e9c11244a6702b0db59" title="SpookyHash::ShortEnd" alt="" coords="599,163,756,192"/>
+</map>

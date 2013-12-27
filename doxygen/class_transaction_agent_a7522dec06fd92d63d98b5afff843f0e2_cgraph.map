@@ -1,0 +1,14 @@
+<map id="TransactionAgent::loadprocedure" name="TransactionAgent::loadprocedure">
+<area shape="rect" id="node3" href="$class_transaction_agent.html#a276ba1d319a904b3d2cb5b7760ca7ecc" title="called by loadprocedure " alt="" coords="267,165,480,195"/>
+<area shape="rect" id="node5" href="$defs_8h.html#ab45076c81f7c29fb6899c19ad55c929e" title="convert msgpack to a vector of strings " alt="" coords="577,112,697,141"/>
+<area shape="rect" id="node7" href="$class_mboxes.html#a91b938e3db8b15f7dffbe9a3b04b8d1a" title="produce Message for specific actor " alt="" coords="579,165,696,195"/>
+<area shape="rect" id="node22" href="$class_transaction_agent.html#afeb56ce4d08a9a26fee880cfb60f0d17" title="send raw protocol TCP responses to builtins, ping, login, logout, etc. " alt="" coords="528,219,747,248"/>
+<area shape="rect" id="node9" href="$class_mbox_producer.html#a9ca818bdf4ef9bacbaa6cb1d63a68dbd" title="produce Message onto mailbox " alt="" coords="821,112,987,141"/>
+<area shape="rect" id="node20" href="$class_message.html#a8f4edea412ed3bbaa8d3cf2d1d48b8b3" title="put addresses in Message variant envelope " alt="" coords="827,165,981,195"/>
+<area shape="rect" id="node11" href="$class_mbox.html#a5311178f7221ffa942fa128424ac9a86" title="create 128bit integer from Message object " alt="" coords="1061,5,1248,35"/>
+<area shape="rect" id="node13" href="$class_mbox.html#ae545aa094bc902b10f9b1e042c24e42b" title="return Message pointer from 128bit integer " alt="" coords="1107,59,1203,88"/>
+<area shape="rect" id="node15" href="$class_mboxes.html#abaaf6c0d67c235bcb17e7f9e935861cf" title="send batched Message objects destined to remote nodes " alt="" coords="1077,112,1232,141"/>
+<area shape="rect" id="node18" href="$class_message.html#a4508c42d7366a86327ca3076eb1ff007" title="return serialized Message variant string " alt="" coords="1092,165,1217,195"/>
+<area shape="rect" id="node24" href="$_transaction_agent_8cc.html#a6eddc9f5e393af42f14abc5dcd87b218" title="makeSbuf" alt="" coords="864,219,944,248"/>
+<area shape="rect" id="node26" href="$class_transaction_agent.html#a5b15abb67572d7eac45cfff0030441fb" title="finish TCP connection on raw interface (not SQL interface) " alt="" coords="795,272,1013,301"/>
+</map>

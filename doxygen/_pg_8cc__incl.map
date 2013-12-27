@@ -1,0 +1,14 @@
+<map id="/home/infinisql/build/infinisql/infinisqld/Pg.cc" name="/home/infinisql/build/infinisql/infinisqld/Pg.cc">
+<area shape="rect" id="node3" href="$_pg_8h.html" title="Objects created for every SQL login and associated with a specific TransactionAgent. Takes incoming requests, has them processed and responds to client. " alt="" coords="1418,256,1466,285"/>
+<area shape="rect" id="node91" href="$pgoids_8h.html" title="Symbols necessary to implement the PostgreSQL Frontend/Backend Protocol. " alt="" coords="1874,101,1943,131"/>
+<area shape="rect" id="node93" href="$_transaction_agent_8h.html" title="Actor which communicates with clients and executes transactions. Coordinates of activities between se..." alt="" coords="1716,101,1850,131"/>
+<area shape="rect" id="node5" href="$gch_8h.html" title="Headers for all external dependencies. " alt="" coords="1751,333,1804,363"/>
+<area shape="rect" id="node84" href="$infinisql_8h.html" title="API for creating stored procedures. Pg objects also inherit from this class, because they perform the..." alt="" coords="239,333,316,363"/>
+<area shape="rect" id="node23" href="$spooky_8h.html" title="Spooky Hash from Bob Jenkins. This is public domain. " alt="" coords="2290,411,2364,440"/>
+<area shape="rect" id="node96" href="$_operation_8h.html" title="Class for non&#45;transactional, user and schema&#45;related activities, such as login, createuser, createtable, and so on. " alt="" coords="1791,179,1879,208"/>
+<area shape="rect" id="node100" href="$_table_8h.html" title="Table class. Has Fields and Indices. " alt="" coords="1599,256,1663,285"/>
+<area shape="rect" id="node103" href="$_schema_8h.html" title="Schema class. Contains tables (fields (indices)). One schemata per domain. Corresponds to tablespace ..." alt="" coords="1591,179,1671,208"/>
+<area shape="rect" id="node107" href="$_larxer_8h.html" title="Portmanteau of &quot;lexer&quot; and &quot;parser&quot;. This class tokenizes, parses and converts SQL into executable St..." alt="" coords="1866,256,1935,285"/>
+<area shape="rect" id="node110" href="$_transaction_8h.html" title="Class which performs transactions. Associated with the TransactionAgent which connected to the client..." alt="" coords="1954,179,2055,208"/>
+<area shape="rect" id="node114" href="$_applier_8h.html" title="Applies transactional data modifications as part of synchronous replication. " alt="" coords="1695,179,1767,208"/>
+</map>

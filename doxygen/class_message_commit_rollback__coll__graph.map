@@ -1,0 +1,12 @@
+<map id="MessageCommitRollback" name="MessageCommitRollback">
+<area shape="rect" id="node2" href="$class_message_transaction.html" title="Message variant for transaction processing. " alt="" coords="127,427,268,456"/>
+<area shape="rect" id="node4" href="$class_message.html" title="create Message object " alt="" coords="49,321,124,351"/>
+<area shape="rect" id="node6" href="$struct_message_1_1message__s.html" title="Message POD (serializable by memcpy) data members. " alt="" coords="12,216,161,245"/>
+<area shape="rect" id="node8" href="$struct_topology_1_1address_struct.html" title="Topology::addressStruct" alt="" coords="5,104,168,133"/>
+<area shape="rect" id="node10" href="$struct_message_transaction_1_1transaction__s.html" title="MessageTransaction POD (serializable by memcpy) data members. " alt="" coords="148,313,289,359"/>
+<area shape="rect" id="node14" href="$structrow_or_field__s.html" title="data items describing manipulation request " alt="" coords="335,321,433,351"/>
+<area shape="rect" id="node16" href="$structfield_value__s.html" title="field contents " alt="" coords="337,216,431,245"/>
+<area shape="rect" id="node18" title="STL class. " alt="" coords="275,104,355,133"/>
+<area shape="rect" id="node20" title="STL class. " alt="" coords="252,6,377,53"/>
+<area shape="rect" id="node22" href="$unionfield_input__u.html" title="contents of a field (other than CHARX or VARCHAR) " alt="" coords="379,104,467,133"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="MessageTransaction::unpack" name="MessageTransaction::unpack">
+<area shape="rect" id="node3" href="$class_message_subtransaction_cmd.html#a36164ca86e3f448a97cc94373be9b013" title="deserialize into this " alt="" coords="199,5,388,51"/>
+<area shape="rect" id="node7" href="$class_message_commit_rollback.html#a6bb1a349b4a077c5e0156b49f549618e" title="deserialize into this " alt="" coords="208,74,379,121"/>
+<area shape="rect" id="node5" href="$class_message.html#a6df816ea38609170897acf86be843277" title="deserialize entire message " alt="" coords="437,48,541,77"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="ibGateway" name="ibGateway">
+<area shape="rect" id="node3" href="$class_ib_gateway.html#a1c95ace62b65d00e7170194a2aa9bfb9" title="execute Inbound Gateway " alt="" coords="140,112,295,141"/>
+<area shape="rect" id="node5" href="$class_mboxes.html#aee6924dc31ac0d04aabce26903860c54" title="update Topology of producers " alt="" coords="368,5,483,35"/>
+<area shape="rect" id="node7" href="$class_ib_gateway.html#a7edb17d5e851f6a8ca4134eb57df3d15" title="add file descriptor to remote ObGateway to poll structure " alt="" coords="355,59,496,88"/>
+<area shape="rect" id="node9" href="$defs_8h.html#a1dab4ce3f3310af77ea8211a1f0c767f" title="set real&#45;time priority " alt="" coords="395,112,456,141"/>
+<area shape="rect" id="node11" href="$class_ib_gateway.html#a5b071ddb9c3c7a00b5a7ecd5c8a11645" title="process compressed batch of incoming messages " alt="" coords="344,165,507,195"/>
+<area shape="rect" id="node28" href="$class_ib_gateway.html#afb84591e50a61ab4705a1f926af884f4" title="remove file descriptors from poll struct " alt="" coords="348,219,503,248"/>
+<area shape="rect" id="node13" href="$class_mboxes.html#a91b938e3db8b15f7dffbe9a3b04b8d1a" title="produce Message for specific actor " alt="" coords="556,165,673,195"/>
+<area shape="rect" id="node15" href="$class_message.html#a8f4edea412ed3bbaa8d3cf2d1d48b8b3" title="put addresses in Message variant envelope " alt="" coords="729,139,884,168"/>
+<area shape="rect" id="node17" href="$class_mbox_producer.html#a9ca818bdf4ef9bacbaa6cb1d63a68dbd" title="produce Message onto mailbox " alt="" coords="724,192,889,221"/>
+<area shape="rect" id="node19" href="$class_message.html#a4508c42d7366a86327ca3076eb1ff007" title="return serialized Message variant string " alt="" coords="969,139,1095,168"/>
+<area shape="rect" id="node21" href="$class_mboxes.html#abaaf6c0d67c235bcb17e7f9e935861cf" title="send batched Message objects destined to remote nodes " alt="" coords="955,192,1109,221"/>
+<area shape="rect" id="node24" href="$class_mbox.html#a5311178f7221ffa942fa128424ac9a86" title="create 128bit integer from Message object " alt="" coords="939,245,1125,275"/>
+<area shape="rect" id="node26" href="$class_mbox.html#ae545aa094bc902b10f9b1e042c24e42b" title="return Message pointer from 128bit integer " alt="" coords="984,299,1080,328"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="/home/infinisql/build/infinisql/infinisqld/Transaction.h" name="/home/infinisql/build/infinisql/infinisqld/Transaction.h">
+<area shape="rect" id="node3" href="$gch_8h.html" title="Headers for all external dependencies. " alt="" coords="2229,272,2283,301"/>
+<area shape="rect" id="node94" href="$_transaction_agent_8h.html" title="Actor which communicates with clients and executes transactions. Coordinates of activities between se..." alt="" coords="2189,117,2323,147"/>
+<area shape="rect" id="node105" href="$_deadlock_mgr_8h.html" title="Actor which resolves deadlocks. " alt="" coords="2359,117,2468,147"/>
+<area shape="rect" id="node21" href="$spooky_8h.html" title="Spooky Hash from Bob Jenkins. This is public domain. " alt="" coords="1149,349,1224,379"/>
+<area shape="rect" id="node90" href="$_mbox_8h.html" title="Mbox* classes perform inter&#45;actor messaging. Mbox is a lockfree multi producer, single consumer queue..." alt="" coords="4139,349,4203,379"/>
+<area shape="rect" id="node92" href="$defs_8h.html" title="Global struct &amp; enum types, global function declarations, global symbols in general. " alt="" coords="4227,349,4285,379"/>
+<area shape="rect" id="node97" href="$_operation_8h.html" title="Class for non&#45;transactional, user and schema&#45;related activities, such as login, createuser, createtable, and so on. " alt="" coords="2212,195,2300,224"/>
+<area shape="rect" id="node101" href="$_table_8h.html" title="Table class. Has Fields and Indices. " alt="" coords="2324,195,2388,224"/>
+</map>

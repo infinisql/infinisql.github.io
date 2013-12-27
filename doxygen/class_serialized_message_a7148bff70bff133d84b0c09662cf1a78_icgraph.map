@@ -1,0 +1,25 @@
+<map id="SerializedMessage::ser" name="SerializedMessage::ser">
+<area shape="rect" id="node3" href="$class_message.html#a3560a7e2578246a225468cafb1c8c87f" title="serialize this " alt="" coords="228,239,359,268"/>
+<area shape="rect" id="node5" href="$class_message_socket.html#ae5b11adf003a36c804209785510a84b7" title="serialize this " alt="" coords="429,5,603,35"/>
+<area shape="rect" id="node9" href="$class_message_user_schema.html#a8598ebc12ca1595d9632023b810e1944" title="serialize this " alt="" coords="437,58,595,105"/>
+<area shape="rect" id="node13" href="$class_message_deadlock.html#aeb1b23446c37835c66e291693c7903ac" title="serialize this " alt="" coords="423,128,609,157"/>
+<area shape="rect" id="node17" href="$class_message_transaction.html#aef61320acffc78da52cf688d1fabd4db" title="serialize this " alt="" coords="445,357,587,403"/>
+<area shape="rect" id="node19" href="$class_message_subtransaction_cmd.html#a550c8e2a921f7cce1f11f0c2157e6197" title="serialize this " alt="" coords="660,393,849,439"/>
+<area shape="rect" id="node23" href="$class_message_commit_rollback.html#a555f0c75e4f6c01e7f39bfa2d59c215c" title="serialize this " alt="" coords="669,462,840,509"/>
+<area shape="rect" id="node29" href="$class_message_dispatch.html#aa1b1a86e3633e5e58edcf1edb1b22ae0" title="serialize this " alt="" coords="424,181,608,211"/>
+<area shape="rect" id="node33" href="$class_message_ack_dispatch.html#a49c63236f71440f0d62d99cbed2e6d9b" title="serialize this " alt="" coords="441,287,591,334"/>
+<area shape="rect" id="node37" href="$class_message_apply.html#abd38c18274aac7bb4dd50d38944ee72e" title="serialize this " alt="" coords="433,528,599,557"/>
+<area shape="rect" id="node41" href="$class_message_ack_apply.html#a7332034dcb9b15242208a6f27bde2bff" title="serialize this " alt="" coords="423,581,609,611"/>
+<area shape="rect" id="node57" href="$class_serialized_message.html#a7408c7784d43156491ac90b9b280ac40" title="SerializedMessage::ser" alt="" coords="215,629,372,659"/>
+<area shape="rect" id="node45" href="$class_message.html#ad2a802cfd2b2001cf8165a1dcf32d3b9" title="create string with serialized message " alt="" coords="465,235,567,264"/>
+<area shape="rect" id="node7" href="$class_message_socket.html#ad80aeeb1134cdbdafecce56c9aec030b" title="create string with serialized message " alt="" coords="684,5,825,35"/>
+<area shape="rect" id="node11" href="$class_message_user_schema.html#a8d0b84cc5cc34abc4627d47ddd18f1a9" title="create string with serialized message " alt="" coords="667,67,843,96"/>
+<area shape="rect" id="node15" href="$class_message_deadlock.html#a1b6b9e5d0cda1c3d4d5b8ffc32bbf330" title="create string with serialized message " alt="" coords="677,128,832,157"/>
+<area shape="rect" id="node27" href="$class_message_transaction.html#ab33df6d94124e80b7949971cfa8950e2" title="create string with serialized message " alt="" coords="671,340,839,369"/>
+<area shape="rect" id="node21" href="$class_message_subtransaction_cmd.html#a766074dd3b51fb3c5675fa9057fe03fa" title="create string with serialized message " alt="" coords="899,401,1115,431"/>
+<area shape="rect" id="node25" href="$class_message_commit_rollback.html#a22ee9b9bf18a7f5fcd1d0d0f3363ac47" title="create string with serialized message " alt="" coords="908,471,1105,500"/>
+<area shape="rect" id="node31" href="$class_message_dispatch.html#a07471718b33b9c79608ee81373624d73" title="create string with serialized message " alt="" coords="679,181,831,211"/>
+<area shape="rect" id="node35" href="$class_message_ack_dispatch.html#aa5a550f92f21e39f65dbb615106a760a" title="create string with serialized message " alt="" coords="667,287,843,316"/>
+<area shape="rect" id="node39" href="$class_message_apply.html#a7614a198f8bf0ed2de52c905846ecece" title="create string with serialized message " alt="" coords="688,532,821,561"/>
+<area shape="rect" id="node43" href="$class_message_ack_apply.html#add59378781e2f9ec59ff8c1aee339ff9" title="create string with serialized message " alt="" coords="676,585,833,615"/>
+</map>

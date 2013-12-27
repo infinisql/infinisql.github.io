@@ -1,0 +1,21 @@
+<map id="/home/infinisql/build/infinisql/infinisqld/Table.h" name="/home/infinisql/build/infinisql/infinisqld/Table.h">
+<area shape="rect" id="node3" href="$_transaction_agent_8h.html" title="Actor which communicates with clients and executes transactions. Coordinates of activities between se..." alt="" coords="681,229,820,293"/>
+<area shape="rect" id="node21" href="$_engine_8h.html" title="Engine actors store and manipulate data. Each engine interacts with a single partition, and vice versa. " alt="" coords="5,341,141,405"/>
+<area shape="rect" id="node34" href="$_user_schema_mgr_8h.html" title="Actor which maintains user and domain authentication information and schema definitions. There is only 1 active UserSchemaMgr per cluster. " alt="" coords="1003,341,1139,405"/>
+<area shape="rect" id="node38" href="$_schema_8h.html" title="Schema class. Contains tables (fields (indices)). One schemata per domain. Corresponds to tablespace ..." alt="" coords="829,117,965,181"/>
+<area shape="rect" id="node44" href="$_table_8cc.html" title="Table class. Has Fields and Indices. " alt="" coords="1055,117,1191,181"/>
+<area shape="rect" id="node5" href="$_transaction_8h.html" title="Class which performs transactions. Associated with the TransactionAgent which connected to the client..." alt="" coords="683,341,819,405"/>
+<area shape="rect" id="node14" href="$_operation_8h.html" title="Class for non&#45;transactional, user and schema&#45;related activities, such as login, createuser, createtable, and so on. " alt="" coords="843,341,979,405"/>
+<area shape="rect" id="node19" href="$_applier_8cc.html" title="Applies transactional data modifications as part of synchronous replication. " alt="" coords="165,341,301,405"/>
+<area shape="rect" id="node30" href="$_pg_8cc.html" title="Objects created for every SQL login and associated with a specific TransactionAgent. Takes incoming requests, has them processed and responds to client. " alt="" coords="325,350,488,397"/>
+<area shape="rect" id="node32" href="$_transaction_agent_8cc.html" title="Actor which communicates with clients and executes transactions. Coordinates of activities between se..." alt="" coords="512,341,659,405"/>
+<area shape="rect" id="node7" href="$api_8cc.html" title="API for creating stored procedures. Pg objects also inherit from this class, because they perform the..." alt="" coords="683,453,819,517"/>
+<area shape="rect" id="node10" href="$_asts_8cc.html" title="Abstract Syntax Tree class and Statement class. A SQL statement turns into these in order to be execu..." alt="" coords="363,453,499,517"/>
+<area shape="rect" id="node12" href="$_transaction_8cc.html" title="Class which performs transactions. Associated with the TransactionAgent which connected to the client..." alt="" coords="523,453,659,517"/>
+<area shape="rect" id="node17" href="$_operation_8cc.html" title="Class for non&#45;transactional, user and schema&#45;related activities, such as login, createuser, createtable, and so on. " alt="" coords="843,453,979,517"/>
+<area shape="rect" id="node23" href="$_engine_8cc.html" title="Engine actors store and manipulate data. Each engine interacts with a single partition, and vice versa. " alt="" coords="165,453,301,517"/>
+<area shape="rect" id="node25" href="$_sub_transaction_8h.html" title="Engine&#39;s class corresponding to TransactionAgent&#39;s Transaction. Each data manipulation activity has a..." alt="" coords="5,453,141,517"/>
+<area shape="rect" id="node28" href="$_sub_transaction_8cc.html" title="Engine&#39;s class corresponding to TransactionAgent&#39;s Transaction. Each data manipulation activity has a..." alt="" coords="5,565,141,629"/>
+<area shape="rect" id="node36" href="$_user_schema_mgr_8cc.html" title="Actor which maintains user and domain authentication information and schema definitions. There is only 1 active UserSchemaMgr per cluster. " alt="" coords="1003,453,1144,517"/>
+<area shape="rect" id="node41" href="$_schema_8cc.html" title="Schema class. Contains tables (fields (indices)). One schemata per domain. Corresponds to tablespace ..." alt="" coords="844,229,980,293"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="/home/infinisql/build/infinisql/infinisqld/Operation.h" name="/home/infinisql/build/infinisql/infinisqld/Operation.h">
+<area shape="rect" id="node3" href="$gch_8h.html" title="Headers for all external dependencies. " alt="" coords="2277,349,2331,379"/>
+<area shape="rect" id="node94" href="$_transaction_agent_8h.html" title="Actor which communicates with clients and executes transactions. Coordinates of activities between se..." alt="" coords="2256,117,2389,147"/>
+<area shape="rect" id="node21" href="$spooky_8h.html" title="Spooky Hash from Bob Jenkins. This is public domain. " alt="" coords="1149,427,1224,456"/>
+<area shape="rect" id="node90" href="$_mbox_8h.html" title="Mbox* classes perform inter&#45;actor messaging. Mbox is a lockfree multi producer, single consumer queue..." alt="" coords="4139,427,4203,456"/>
+<area shape="rect" id="node92" href="$defs_8h.html" title="Global struct &amp; enum types, global function declarations, global symbols in general. " alt="" coords="4227,427,4285,456"/>
+<area shape="rect" id="node98" href="$_table_8h.html" title="Table class. Has Fields and Indices. " alt="" coords="2307,272,2371,301"/>
+<area shape="rect" id="node101" href="$_schema_8h.html" title="Schema class. Contains tables (fields (indices)). One schemata per domain. Corresponds to tablespace ..." alt="" coords="2360,195,2440,224"/>
+<area shape="rect" id="node105" href="$_larxer_8h.html" title="Portmanteau of &quot;lexer&quot; and &quot;parser&quot;. This class tokenizes, parses and converts SQL into executable St..." alt="" coords="2445,272,2515,301"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="MessageSocket::ser" name="MessageSocket::ser">
+<area shape="rect" id="node3" href="$class_serialized_message.html#a9b7ee5e457a10593dcdc754ee65229c5" title="SerializedMessage::\lgetpayloadtype" alt="" coords="215,5,353,51"/>
+<area shape="rect" id="node5" href="$class_message_socket.html#ae5b11adf003a36c804209785510a84b7" title="serialize this " alt="" coords="197,75,371,104"/>
+<area shape="rect" id="node7" href="$class_message.html#a3560a7e2578246a225468cafb1c8c87f" title="serialize this " alt="" coords="420,48,551,77"/>
+<area shape="rect" id="node9" href="$class_serialized_message.html#a7148bff70bff133d84b0c09662cf1a78" title="SerializedMessage::ser" alt="" coords="601,75,759,104"/>
+</map>

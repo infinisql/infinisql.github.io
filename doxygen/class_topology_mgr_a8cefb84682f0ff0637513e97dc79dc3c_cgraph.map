@@ -1,0 +1,27 @@
+<map id="TopologyMgr::TopologyMgr" name="TopologyMgr::TopologyMgr">
+<area shape="rect" id="node3" href="$_deadlock_mgr_8cc.html#a1a7a0b325beb130ccd86bb06f10e6332" title="launch Engine actor " alt="" coords="277,9,373,39"/>
+<area shape="rect" id="node5" href="$_engine_8cc.html#ad233bd24aaf90ae00a6692893397798f" title="engine" alt="" coords="296,63,355,92"/>
+<area shape="rect" id="node7" href="$_ib_gateway_8cc.html#a70f1f029073eee1caaa92698c3d9fd1b" title="launch IbGateway actor " alt="" coords="284,116,367,145"/>
+<area shape="rect" id="node36" href="$_listener_8cc.html#a0506128102295a465b3ce24184cd6a58" title="launch Listener actor " alt="" coords="293,169,357,199"/>
+<area shape="rect" id="node38" href="$class_topology.html#aefff8168ca7c72309bf720d3f6815b14" title="creates a new actor&#39;s addressing in the local node " alt="" coords="256,223,395,252"/>
+<area shape="rect" id="node40" href="$_ob_gateway_8cc.html#a1f98452c901f38c0821bf4a31ba1f834" title="launch ObGateway actor " alt="" coords="281,276,369,305"/>
+<area shape="rect" id="node42" href="$_topology_mgr_8cc.html#aa183e3f3e3a5a216d84e755cb5708d5e" title="replyToManager" alt="" coords="268,329,383,359"/>
+<area shape="rect" id="node44" href="$_topology_mgr_8cc.html#a5e09e0b41fccd8599c5f7e696d1cba3c" title="transactionAgent" alt="" coords="265,383,385,412"/>
+<area shape="rect" id="node46" href="$class_topology_mgr.html#ae0070c5a8edc1f95255458196fa85129" title="global (cluster wide) Topology update " alt="" coords="235,435,416,482"/>
+<area shape="rect" id="node51" href="$class_topology_mgr.html#aeab1a72c0bb30a0733db0937d0be7cd5" title="local (node&#45;specific) Topology update " alt="" coords="239,505,412,551"/>
+<area shape="rect" id="node54" href="$_topology_mgr_8cc.html#a3493bcaca9422be0aea737f94ad1bd30" title="userSchemaMgr" alt="" coords="267,575,384,604"/>
+<area shape="rect" id="node9" href="$class_ib_gateway.html#a1c95ace62b65d00e7170194a2aa9bfb9" title="execute Inbound Gateway " alt="" coords="487,165,641,195"/>
+<area shape="rect" id="node11" href="$class_ib_gateway.html#a7edb17d5e851f6a8ca4134eb57df3d15" title="add file descriptor to remote ObGateway to poll structure " alt="" coords="723,85,864,115"/>
+<area shape="rect" id="node13" href="$class_ib_gateway.html#a5b071ddb9c3c7a00b5a7ecd5c8a11645" title="process compressed batch of incoming messages " alt="" coords="712,139,875,168"/>
+<area shape="rect" id="node30" href="$class_ib_gateway.html#afb84591e50a61ab4705a1f926af884f4" title="remove file descriptors from poll struct " alt="" coords="716,192,871,221"/>
+<area shape="rect" id="node32" href="$defs_8h.html#a1dab4ce3f3310af77ea8211a1f0c767f" title="set real&#45;time priority " alt="" coords="763,245,824,275"/>
+<area shape="rect" id="node34" href="$class_mboxes.html#aee6924dc31ac0d04aabce26903860c54" title="update Topology of producers " alt="" coords="736,396,851,425"/>
+<area shape="rect" id="node15" href="$class_mboxes.html#a91b938e3db8b15f7dffbe9a3b04b8d1a" title="produce Message for specific actor " alt="" coords="924,139,1041,168"/>
+<area shape="rect" id="node17" href="$class_mbox_producer.html#a9ca818bdf4ef9bacbaa6cb1d63a68dbd" title="produce Message onto mailbox " alt="" coords="1092,112,1257,141"/>
+<area shape="rect" id="node28" href="$class_message.html#a8f4edea412ed3bbaa8d3cf2d1d48b8b3" title="put addresses in Message variant envelope " alt="" coords="1097,165,1252,195"/>
+<area shape="rect" id="node19" href="$class_mbox.html#a5311178f7221ffa942fa128424ac9a86" title="create 128bit integer from Message object " alt="" coords="1307,5,1493,35"/>
+<area shape="rect" id="node21" href="$class_mbox.html#ae545aa094bc902b10f9b1e042c24e42b" title="return Message pointer from 128bit integer " alt="" coords="1352,59,1448,88"/>
+<area shape="rect" id="node23" href="$class_mboxes.html#abaaf6c0d67c235bcb17e7f9e935861cf" title="send batched Message objects destined to remote nodes " alt="" coords="1323,112,1477,141"/>
+<area shape="rect" id="node26" href="$class_message.html#a4508c42d7366a86327ca3076eb1ff007" title="return serialized Message variant string " alt="" coords="1337,165,1463,195"/>
+<area shape="rect" id="node48" href="$class_topology_mgr.html#af38f97de75ad392dccd32a785e5922b4" title="tell all local actors to update their versions of Topology " alt="" coords="464,444,664,473"/>
+</map>

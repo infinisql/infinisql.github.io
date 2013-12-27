@@ -1,0 +1,7 @@
+<map id="MessageCommitRollback::ser" name="MessageCommitRollback::ser">
+<area shape="rect" id="node3" href="$class_serialized_message.html#a9b7ee5e457a10593dcdc754ee65229c5" title="SerializedMessage::\lgetpayloadtype" alt="" coords="271,5,409,51"/>
+<area shape="rect" id="node5" href="$class_message_commit_rollback.html#a555f0c75e4f6c01e7f39bfa2d59c215c" title="serialize this " alt="" coords="255,74,425,121"/>
+<area shape="rect" id="node7" href="$class_message_transaction.html#aef61320acffc78da52cf688d1fabd4db" title="serialize this " alt="" coords="476,43,617,90"/>
+<area shape="rect" id="node11" href="$class_serialized_message.html#a7148bff70bff133d84b0c09662cf1a78" title="SerializedMessage::ser" alt="" coords="849,61,1007,91"/>
+<area shape="rect" id="node9" href="$class_message.html#a3560a7e2578246a225468cafb1c8c87f" title="serialize this " alt="" coords="668,9,799,39"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="TransactionAgent::schemaBoilerplate" name="TransactionAgent::schemaBoilerplate">
+<area shape="rect" id="node3" href="$class_transaction_agent.html#a7a3c3c5d2cdd473e05900dd77086ae63" title="add column " alt="" coords="243,5,437,35"/>
+<area shape="rect" id="node7" href="$class_transaction_agent.html#aab53c4bfa995b9022cc36cc15d13aba5" title="create schema " alt="" coords="233,59,447,88"/>
+<area shape="rect" id="node10" href="$class_transaction_agent.html#a3708411d5f2ecc05c73956df8fd55817" title="create table " alt="" coords="243,112,437,141"/>
+<area shape="rect" id="node13" href="$class_transaction_agent.html#a558d5f43203b188965159990809efe3f" title="delete index " alt="" coords="241,165,439,195"/>
+<area shape="rect" id="node16" href="$class_transaction_agent.html#a71760a1ab215c83cdd9ed7ad1fa38ff0" title="delete schema " alt="" coords="233,219,447,248"/>
+<area shape="rect" id="node19" href="$class_transaction_agent.html#a3a53d6669e67de446acf6da315a4be4a" title="delete table " alt="" coords="243,272,437,301"/>
+<area shape="rect" id="node5" href="$class_transaction_agent.html#abe6035d3eb84620ebbdcdfce3d34fc3b" title="TransactionAgent::Transaction\lAgent" alt="" coords="496,130,696,177"/>
+</map>

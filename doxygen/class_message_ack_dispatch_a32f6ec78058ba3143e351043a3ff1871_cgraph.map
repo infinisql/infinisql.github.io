@@ -1,0 +1,4 @@
+<map id="MessageAckDispatch::unpack" name="MessageAckDispatch::unpack">
+<area shape="rect" id="node3" href="$class_serialized_message.html#a8c3a52ab04f93ebf3346256c70f8e785" title="SerializedMessage::des" alt="" coords="380,13,540,43"/>
+<area shape="rect" id="node5" href="$class_message.html#ab73ebe879474aad03b02b3133a575bed" title="deserialize into this " alt="" coords="205,39,331,68"/>
+</map>

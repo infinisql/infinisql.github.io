@@ -1,0 +1,5 @@
+<map id="/home/infinisql/build/infinisql/infinisqld/Pg.h" name="/home/infinisql/build/infinisql/infinisqld/Pg.h">
+<area shape="rect" id="node3" href="$_operation_8cc.html" title="Class for non&#45;transactional, user and schema&#45;related activities, such as login, createuser, createtable, and so on. " alt="" coords="5,101,141,165"/>
+<area shape="rect" id="node5" href="$_pg_8cc.html" title="Objects created for every SQL login and associated with a specific TransactionAgent. Takes incoming requests, has them processed and responds to client. " alt="" coords="165,110,328,157"/>
+<area shape="rect" id="node7" href="$_transaction_agent_8cc.html" title="Actor which communicates with clients and executes transactions. Coordinates of activities between se..." alt="" coords="352,101,499,165"/>
+</map>

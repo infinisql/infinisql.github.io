@@ -1,0 +1,15 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$class_message.html" title="create Message object " alt="" coords="5,245,80,275"/>
+<area shape="rect" id="node3" href="$class_message_ack_apply.html" title="Message variant for acknowledging Applier activities. " alt="" coords="147,5,277,35"/>
+<area shape="rect" id="node5" href="$class_message_ack_dispatch.html" title="Message variant for acknowledgement of synchronous replication. " alt="" coords="137,59,287,88"/>
+<area shape="rect" id="node7" href="$class_message_apply.html" title="Message variant for Applier activities. " alt="" coords="159,112,265,141"/>
+<area shape="rect" id="node9" href="$class_message_batch_serialized.html" title="Message variant containing multiple serialized Message variants. " alt="" coords="129,165,295,195"/>
+<area shape="rect" id="node11" href="$class_message_deadlock.html" title="Message variant for DeadlockMgr activities. " alt="" coords="147,219,277,248"/>
+<area shape="rect" id="node13" href="$class_message_dispatch.html" title="Message variant for synchronous replication. " alt="" coords="149,272,275,301"/>
+<area shape="rect" id="node15" href="$class_message_serialized.html" title="Message variant carrying serialized Message variant as payload. " alt="" coords="147,325,277,355"/>
+<area shape="rect" id="node17" href="$class_message_socket.html" title="Message variant for communicating socket events. " alt="" coords="155,379,269,408"/>
+<area shape="rect" id="node19" href="$class_message_transaction.html" title="Message variant for transaction processing. " alt="" coords="141,432,283,461"/>
+<area shape="rect" id="node25" href="$class_message_user_schema.html" title="Message variant for UserSchemaMgr activities. " alt="" coords="137,485,287,515"/>
+<area shape="rect" id="node21" href="$class_message_commit_rollback.html" title="Message variant for committing and rolling back transactions. " alt="" coords="355,405,525,435"/>
+<area shape="rect" id="node23" href="$class_message_subtransaction_cmd.html" title="Message variant for subtransactions. " alt="" coords="345,459,535,488"/>
+</map>

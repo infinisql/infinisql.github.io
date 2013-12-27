@@ -1,0 +1,13 @@
+<map id="ApiInterface::rollback" name="ApiInterface::rollback">
+<area shape="rect" id="node3" href="$class_transaction.html#a62cfbd3f256c6b36cfdd16cddf1ab5fe" title="continue back to calling function " alt="" coords="444,5,583,35"/>
+<area shape="rect" id="node5" href="$class_transaction.html#a000e4f0882139eb8470f7472ca14a24e" title="ROLLBACK. " alt="" coords="213,57,355,87"/>
+<area shape="rect" id="node26" href="$class_api_interface.html#ad34d67f168ca1f406dcb5e55892e973a" title="set continuation target back to ApiInterface object " alt="" coords="201,111,367,140"/>
+<area shape="rect" id="node7" href="$class_transaction.html#a58d291fe5c0ee6984aa71a79c7126376" title="send MessageTransaction variant to Engine " alt="" coords="416,59,611,88"/>
+<area shape="rect" id="node9" href="$class_mboxes.html#a956f8e7626423edfd33db7a185b8b352" title="produce Message for Engine associated with specific partition " alt="" coords="660,85,793,115"/>
+<area shape="rect" id="node11" href="$class_message.html#a8f4edea412ed3bbaa8d3cf2d1d48b8b3" title="put addresses in Message variant envelope " alt="" coords="849,59,1004,88"/>
+<area shape="rect" id="node13" href="$class_mbox_producer.html#a9ca818bdf4ef9bacbaa6cb1d63a68dbd" title="produce Message onto mailbox " alt="" coords="844,112,1009,141"/>
+<area shape="rect" id="node15" href="$class_message.html#a4508c42d7366a86327ca3076eb1ff007" title="return serialized Message variant string " alt="" coords="1089,59,1215,88"/>
+<area shape="rect" id="node17" href="$class_mboxes.html#abaaf6c0d67c235bcb17e7f9e935861cf" title="send batched Message objects destined to remote nodes " alt="" coords="1075,112,1229,141"/>
+<area shape="rect" id="node20" href="$class_mbox.html#a5311178f7221ffa942fa128424ac9a86" title="create 128bit integer from Message object " alt="" coords="1059,165,1245,195"/>
+<area shape="rect" id="node22" href="$class_mbox.html#ae545aa094bc902b10f9b1e042c24e42b" title="return Message pointer from 128bit integer " alt="" coords="1104,219,1200,248"/>
+</map>

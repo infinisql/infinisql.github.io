@@ -1,0 +1,6 @@
+<map id="SubTransaction::newrow" name="SubTransaction::newrow">
+<area shape="rect" id="node3" href="$class_table.html#aa019cf3acbd4f311a144ff9036d8ea3d" title="generate unique, ever&#45;increasing row identifier " alt="" coords="221,5,357,35"/>
+<area shape="rect" id="node5" href="$class_table.html#a10a1786df78c9c05df76bb5d78dfead9" title="create new row " alt="" coords="236,59,343,88"/>
+<area shape="rect" id="node7" href="$defs_8h.html#a8a9c12b9ed47126f90a790b50dbf5cd2" title="set write lock on row " alt="" coords="407,32,497,61"/>
+<area shape="rect" id="node9" href="$defs_8h.html#ad46539971ade5ba52ecb91e0bacbdf7e" title="for insert operations on row " alt="" coords="405,85,499,115"/>
+</map>

@@ -1,0 +1,20 @@
+var searchData=
+[
+  ['char',['CHAR',['../infinisql_8h.html#ac062857eb2a9849816ade85a9ad7ad1da4618cf21306b3c647741afa7ebefcab8',1,'infinisql.h']]],
+  ['charx',['CHARX',['../infinisql_8h.html#ac062857eb2a9849816ade85a9ad7ad1dabb32802b797c73bac8b050a146247417',1,'infinisql.h']]],
+  ['cmd_5fbegin',['CMD_BEGIN',['../infinisql_8h.html#a65a2263ffbf59255bacff6451520cdb1a0b1882463452a9b63bc4403123dbda2a',1,'infinisql.h']]],
+  ['cmd_5fcommit',['CMD_COMMIT',['../infinisql_8h.html#a65a2263ffbf59255bacff6451520cdb1a804e3de743eb90fcb17c9381e245c89e',1,'infinisql.h']]],
+  ['cmd_5fdelete',['CMD_DELETE',['../infinisql_8h.html#a65a2263ffbf59255bacff6451520cdb1a44f7b12c33496991aba2ce40f34e18be',1,'infinisql.h']]],
+  ['cmd_5finsert',['CMD_INSERT',['../infinisql_8h.html#a65a2263ffbf59255bacff6451520cdb1a25e33e3e067ed7f6886045c67b537e1b',1,'infinisql.h']]],
+  ['cmd_5fnone',['CMD_NONE',['../infinisql_8h.html#a65a2263ffbf59255bacff6451520cdb1a93c1ce1fac89139d9f4df4b6db21b1cc',1,'infinisql.h']]],
+  ['cmd_5frollback',['CMD_ROLLBACK',['../infinisql_8h.html#a65a2263ffbf59255bacff6451520cdb1ae09c2a8c073c4d5489d396783293e046',1,'infinisql.h']]],
+  ['cmd_5fselect',['CMD_SELECT',['../infinisql_8h.html#a65a2263ffbf59255bacff6451520cdb1acdfd080a7b573501dc2293cbe2d1376c',1,'infinisql.h']]],
+  ['cmd_5fset',['CMD_SET',['../infinisql_8h.html#a65a2263ffbf59255bacff6451520cdb1af159e9c0879325c0a2a9af66c5386654',1,'infinisql.h']]],
+  ['cmd_5fstoredprocedure',['CMD_STOREDPROCEDURE',['../infinisql_8h.html#a65a2263ffbf59255bacff6451520cdb1a712078a07a2a9c32b36e46ac6cbbb51c',1,'infinisql.h']]],
+  ['cmd_5fupdate',['CMD_UPDATE',['../infinisql_8h.html#a65a2263ffbf59255bacff6451520cdb1ac856eb309007d142b85ff6e07f578582',1,'infinisql.h']]],
+  ['commit',['COMMIT',['../defs_8h.html#aa9ef057e5235f79a3ac6ab8b859809d4a1ae3399502bd66af21b15736d4fae1a1',1,'defs.h']]],
+  ['commitcmd',['COMMITCMD',['../defs_8h.html#ad211ee350422cc9a52b1d2d96715107ea3a49a34d047210d3937a913b6293b6f6',1,'defs.h']]],
+  ['commitrollbackpayload',['COMMITROLLBACKPAYLOAD',['../_transaction_agent_8h.html#a9da971ef9b0843821edd0962102408c1a8604fcb80bcd3c1542cb11ced485f7f4',1,'TransactionAgent.h']]],
+  ['committed',['COMMITTED',['../class_transaction.html#afe64559ad668c06286f9ad1ae29dc9d5a3bfea5fb6508f10327a725e89c0fb970',1,'Transaction']]],
+  ['committing',['COMMITTING',['../class_transaction.html#afe64559ad668c06286f9ad1ae29dc9d5aaef05db87f96fa883be6787bc29962cf',1,'Transaction']]]
+];

@@ -1,0 +1,14 @@
+<map id="SerializedMessage::getpayloadtype" name="SerializedMessage::getpayloadtype">
+<area shape="rect" id="node3" href="$class_message.html#a6df816ea38609170897acf86be843277" title="deserialize entire message " alt="" coords="251,5,355,35"/>
+<area shape="rect" id="node5" href="$class_message.html#ad2a802cfd2b2001cf8165a1dcf32d3b9" title="create string with serialized message " alt="" coords="252,59,353,88"/>
+<area shape="rect" id="node7" href="$class_message_socket.html#ad80aeeb1134cdbdafecce56c9aec030b" title="create string with serialized message " alt="" coords="232,112,373,141"/>
+<area shape="rect" id="node9" href="$class_message_user_schema.html#a8d0b84cc5cc34abc4627d47ddd18f1a9" title="create string with serialized message " alt="" coords="215,165,391,195"/>
+<area shape="rect" id="node11" href="$class_message_deadlock.html#a1b6b9e5d0cda1c3d4d5b8ffc32bbf330" title="create string with serialized message " alt="" coords="225,219,380,248"/>
+<area shape="rect" id="node13" href="$class_message_transaction.html#ab33df6d94124e80b7949971cfa8950e2" title="create string with serialized message " alt="" coords="219,272,387,301"/>
+<area shape="rect" id="node15" href="$class_message_subtransaction_cmd.html#a766074dd3b51fb3c5675fa9057fe03fa" title="create string with serialized message " alt="" coords="195,325,411,355"/>
+<area shape="rect" id="node17" href="$class_message_commit_rollback.html#a22ee9b9bf18a7f5fcd1d0d0f3363ac47" title="create string with serialized message " alt="" coords="204,379,401,408"/>
+<area shape="rect" id="node19" href="$class_message_dispatch.html#a07471718b33b9c79608ee81373624d73" title="create string with serialized message " alt="" coords="227,432,379,461"/>
+<area shape="rect" id="node21" href="$class_message_ack_dispatch.html#aa5a550f92f21e39f65dbb615106a760a" title="create string with serialized message " alt="" coords="215,485,391,515"/>
+<area shape="rect" id="node23" href="$class_message_apply.html#a7614a198f8bf0ed2de52c905846ecece" title="create string with serialized message " alt="" coords="236,539,369,568"/>
+<area shape="rect" id="node25" href="$class_message_ack_apply.html#add59378781e2f9ec59ff8c1aee339ff9" title="create string with serialized message " alt="" coords="224,592,381,621"/>
+</map>

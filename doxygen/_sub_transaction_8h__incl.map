@@ -1,0 +1,9 @@
+<map id="/home/infinisql/build/infinisql/infinisqld/SubTransaction.h" name="/home/infinisql/build/infinisql/infinisqld/SubTransaction.h">
+<area shape="rect" id="node3" href="$gch_8h.html" title="Headers for all external dependencies. " alt="" coords="2229,349,2283,379"/>
+<area shape="rect" id="node96" href="$_engine_8h.html" title="Engine actors store and manipulate data. Each engine interacts with a single partition, and vice versa. " alt="" coords="2221,117,2293,147"/>
+<area shape="rect" id="node21" href="$spooky_8h.html" title="Spooky Hash from Bob Jenkins. This is public domain. " alt="" coords="1149,427,1224,456"/>
+<area shape="rect" id="node92" href="$_mbox_8h.html" title="Mbox* classes perform inter&#45;actor messaging. Mbox is a lockfree multi producer, single consumer queue..." alt="" coords="4139,427,4203,456"/>
+<area shape="rect" id="node94" href="$defs_8h.html" title="Global struct &amp; enum types, global function declarations, global symbols in general. " alt="" coords="4227,427,4285,456"/>
+<area shape="rect" id="node99" href="$_table_8h.html" title="Table class. Has Fields and Indices. " alt="" coords="2259,272,2323,301"/>
+<area shape="rect" id="node102" href="$_transaction_agent_8h.html" title="Actor which communicates with clients and executes transactions. Coordinates of activities between se..." alt="" coords="2309,195,2443,224"/>
+</map>

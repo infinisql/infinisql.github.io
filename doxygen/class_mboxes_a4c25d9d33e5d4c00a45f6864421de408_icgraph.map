@@ -1,0 +1,11 @@
+<map id="Mboxes::toAllOfType" name="Mboxes::toAllOfType">
+<area shape="rect" id="node3" href="$class_transaction_agent.html#a7a3c3c5d2cdd473e05900dd77086ae63" title="add column " alt="" coords="437,57,632,87"/>
+<area shape="rect" id="node7" href="$class_transaction_agent.html#a9e808c79db27d1222cc8f4f98d866a04" title="compile SQL statement " alt="" coords="201,5,377,35"/>
+<area shape="rect" id="node10" href="$class_transaction_agent.html#a3708411d5f2ecc05c73956df8fd55817" title="create table " alt="" coords="437,111,632,140"/>
+<area shape="rect" id="node13" href="$class_transaction_agent.html#afd3364c54ec5e8432c5bb06f610170f5" title="common code for many operations, such as login, create table, etc " alt="" coords="200,159,379,206"/>
+<area shape="rect" id="node5" href="$class_transaction_agent.html#abe6035d3eb84620ebbdcdfce3d34fc3b" title="TransactionAgent::Transaction\lAgent" alt="" coords="691,155,891,202"/>
+<area shape="rect" id="node15" href="$class_transaction_agent.html#aab53c4bfa995b9022cc36cc15d13aba5" title="create schema " alt="" coords="428,217,641,247"/>
+<area shape="rect" id="node20" href="$class_transaction_agent.html#a558d5f43203b188965159990809efe3f" title="delete index " alt="" coords="436,271,633,300"/>
+<area shape="rect" id="node23" href="$class_transaction_agent.html#a3a53d6669e67de446acf6da315a4be4a" title="delete table " alt="" coords="437,324,632,353"/>
+<area shape="rect" id="node26" href="$class_transaction_agent.html#a71760a1ab215c83cdd9ed7ad1fa38ff0" title="delete schema " alt="" coords="428,164,641,193"/>
+</map>

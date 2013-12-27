@@ -1,0 +1,33 @@
+<map id="Statement" name="Statement">
+<area shape="rect" id="node4" href="$class_api_interface.html" title="Stored procedure API. " alt="" coords="3057,1408,3148,1437"/>
+<area shape="rect" id="node108" href="$struct_transaction_1_1sqlcmdstate__s.html" title="state for pending SQL commands " alt="" coords="3012,1728,3193,1757"/>
+<area shape="rect" id="node2" href="$struct_statement_1_1reentry__s.html" title="continuation destination " alt="" coords="3328,1294,3472,1324"/>
+<area shape="rect" id="node85" href="$class_transaction.html" title="create Transaction object " alt="" coords="3355,1609,3445,1638"/>
+<area shape="rect" id="node6" href="$class_transaction_agent.html" title="execute Transaction Agent actor " alt="" coords="2428,901,2551,930"/>
+<area shape="rect" id="node8" href="$class_operation.html" title="non&#45;transactional user and schema&#45;related activity " alt="" coords="2768,717,2845,746"/>
+<area shape="rect" id="node11" href="$structschemastruct.html" title="state information for Operations between TransactionAgent and UserSchemaMgr " alt="" coords="2439,521,2540,550"/>
+<area shape="rect" id="node13" title="STL class. " alt="" coords="667,1782,747,1812"/>
+<area shape="rect" id="node30" href="$struct_topology_1_1partition_address.html" title="Topology::partitionAddress" alt="" coords="1295,958,1471,988"/>
+<area shape="rect" id="node72" href="$structauth_info.html" title="authentication information, uniquely identifying a user " alt="" coords="953,1250,1023,1280"/>
+<area shape="rect" id="node87" href="$structfield_value__s.html" title="field contents " alt="" coords="941,2301,1035,2330"/>
+<area shape="rect" id="node96" href="$struct_transaction_1_1cmd_state__s.html" title="state for pending transactional activities " alt="" coords="1700,2220,1868,2249"/>
+<area shape="rect" id="node117" href="$struct_statement_1_1query__s.html" title="all elements for a main or sub&#45;query " alt="" coords="2121,1876,2257,1905"/>
+<area shape="rect" id="node121" href="$class_ast.html" title="Abstract Syntax Tree. " alt="" coords="967,1940,1009,1969"/>
+<area shape="rect" id="node127" href="$struct_statement_1_1orderbyitem__s.html" title="ORDER BY fields and order. " alt="" coords="1097,1810,1268,1840"/>
+<area shape="rect" id="node130" href="$struct_statement_1_1results__s.html" title="results of evaulations during query execution, including final results " alt="" coords="1713,1757,1855,1786"/>
+<area shape="rect" id="node138" href="$struct_statement_1_1column__s.html" title="FROM clause column. " alt="" coords="1109,2050,1256,2080"/>
+<area shape="rect" id="node15" title="STL class. " alt="" coords="304,1774,429,1820"/>
+<area shape="rect" id="node17" href="$class_topology.html" title="Topology" alt="" coords="2152,997,2227,1026"/>
+<area shape="rect" id="node50" href="$class_mboxes.html" title="collection of producers " alt="" coords="955,378,1021,408"/>
+<area shape="rect" id="node33" href="$class_mbox.html" title="create mailbox " alt="" coords="961,702,1015,732"/>
+<area shape="rect" id="node55" href="$class_mbox_producer.html" title="mailbox producer " alt="" coords="1329,264,1436,293"/>
+<area shape="rect" id="node35" href="$class_message.html" title="create Message object " alt="" coords="669,600,744,629"/>
+<area shape="rect" id="node37" href="$struct_message_1_1message__s.html" title="Message POD (serializable by memcpy) data members. " alt="" coords="292,600,441,629"/>
+<area shape="rect" id="node39" href="$struct_topology_1_1address_struct.html" title="Topology::addressStruct" alt="" coords="7,600,169,629"/>
+<area shape="rect" id="node53" href="$struct_mboxes_1_1location__s.html" title="address and MboxProducer for an actor " alt="" coords="1717,137,1851,166"/>
+<area shape="rect" id="node83" href="$struct_api_interface_1_1results__s.html" title="results from SQL query " alt="" coords="3607,1434,3759,1464"/>
+<area shape="rect" id="node93" href="$class_schema.html" title="Schema object. " alt="" coords="2455,1682,2524,1712"/>
+<area shape="rect" id="node100" href="$structuu_record__s.html" title="universally unique Record " alt="" coords="1337,1681,1428,1710"/>
+<area shape="rect" id="node112" href="$structprocedure_response__s.html" title="orphan? " alt="" coords="2731,1441,2883,1470"/>
+<area shape="rect" id="node141" href="$struct_statement_1_1inobject__s.html" title="IN (or NOT IN) row values. " alt="" coords="1709,1876,1859,1905"/>
+</map>

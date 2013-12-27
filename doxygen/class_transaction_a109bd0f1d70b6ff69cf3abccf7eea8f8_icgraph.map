@@ -1,0 +1,6 @@
+<map id="Transaction::commit" name="Transaction::commit">
+<area shape="rect" id="node3" href="$class_api_interface.html#a95a01b40504d9f5b8024221f2805409c" title="commit transaction " alt="" coords="197,5,339,35"/>
+<area shape="rect" id="node5" href="$class_pg.html#a55518b7c783c58e23badcc740e96cd8e" title="explicit commit " alt="" coords="195,59,341,88"/>
+<area shape="rect" id="node9" href="$class_pg.html#a5c7a5cc08d6f879c72e2a5e9515ae7a8" title="implicit commit " alt="" coords="195,112,341,141"/>
+<area shape="rect" id="node7" href="$class_pg.html#ac132fbe1a0c46c68ece5004366dd8a62" title="after SQL activity is performed " alt="" coords="391,85,529,115"/>
+</map>

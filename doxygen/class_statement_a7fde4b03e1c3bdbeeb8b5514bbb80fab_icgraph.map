@@ -1,0 +1,4 @@
+<map id="Statement::continueInsert" name="Statement::continueInsert">
+<area shape="rect" id="node3" href="$class_transaction.html#a34c98cae060191022da8c08f63875412" title="continuation of INSERT " alt="" coords="228,5,393,51"/>
+<area shape="rect" id="node5" href="$class_transaction.html#a954645efeb9bb7f6a510dd33cc16851f" title="execute continuation based on MessageTransaction reply " alt="" coords="444,5,655,51"/>
+</map>

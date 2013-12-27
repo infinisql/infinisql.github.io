@@ -1,0 +1,5 @@
+<map id="Pg::putAuthenticationOk" name="Pg::putAuthenticationOk">
+<area shape="rect" id="node3" href="$class_pg.html#aee8ca6d9759c75c81a8d41679744b31e" title="continuation after login operation " alt="" coords="220,13,345,43"/>
+<area shape="rect" id="node5" href="$class_operation.html#a07d5db6e1d0c41bf4073f3be93e4e7ed" title="perform operation (only for SQL logins) " alt="" coords="396,13,575,43"/>
+<area shape="rect" id="node7" href="$class_transaction_agent.html#abe6035d3eb84620ebbdcdfce3d34fc3b" title="TransactionAgent::Transaction\lAgent" alt="" coords="624,5,824,51"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="Table::deleterow" name="Table::deleterow">
+<area shape="rect" id="node3" href="$class_table.html#af59a98527997d3d1e00d7b6252a7cc89" title="delete row " alt="" coords="184,32,301,61"/>
+<area shape="rect" id="node9" href="$defs_8h.html#a8226cfd190c8808381ba4946ebf30494" title="set delete as part of replace row flag " alt="" coords="173,85,312,115"/>
+<area shape="rect" id="node5" href="$defs_8h.html#a2f49d13c478c30527913d3be27b471b9" title="check if row is locked and type " alt="" coords="364,5,452,35"/>
+<area shape="rect" id="node7" href="$defs_8h.html#aa1cc92b90db0865caf2c1947aa11bdd9" title="for delete operations on row " alt="" coords="360,59,456,88"/>
+</map>

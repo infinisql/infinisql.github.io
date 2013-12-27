@@ -1,0 +1,15 @@
+<map id="Message::des" name="Message::des">
+<area shape="rect" id="node3" href="$class_serialized_message.html#a9b7ee5e457a10593dcdc754ee65229c5" title="SerializedMessage::\lgetpayloadtype" alt="" coords="184,5,323,51"/>
+<area shape="rect" id="node5" href="$class_message.html#ab73ebe879474aad03b02b3133a575bed" title="deserialize into this " alt="" coords="627,367,752,396"/>
+<area shape="rect" id="node9" href="$class_message_socket.html#ac7f5148748713a435c37990dce1edc7e" title="deserialize into this " alt="" coords="405,21,571,51"/>
+<area shape="rect" id="node13" href="$class_message_user_schema.html#a7ddfb14c134ece78a51b7513b7234dda" title="deserialize into this " alt="" coords="409,245,567,291"/>
+<area shape="rect" id="node17" href="$class_message_deadlock.html#a1170fd5e2d17f0d5e10bef39e7f77476" title="deserialize into this " alt="" coords="399,315,577,344"/>
+<area shape="rect" id="node21" href="$class_message_subtransaction_cmd.html#a36164ca86e3f448a97cc94373be9b013" title="deserialize into this " alt="" coords="159,125,348,171"/>
+<area shape="rect" id="node28" href="$class_message_commit_rollback.html#a6bb1a349b4a077c5e0156b49f549618e" title="deserialize into this " alt="" coords="168,194,339,241"/>
+<area shape="rect" id="node32" href="$class_message_dispatch.html#a62dcdeb255f3f8f7755f57c62cbea2eb" title="deserialize into this " alt="" coords="400,419,576,448"/>
+<area shape="rect" id="node36" href="$class_message_ack_dispatch.html#a32f6ec78058ba3143e351043a3ff1871" title="deserialize into this " alt="" coords="413,471,563,518"/>
+<area shape="rect" id="node40" href="$class_message_apply.html#a28b80d309b869fe62948902aa890a63a" title="deserialize into this " alt="" coords="409,541,567,571"/>
+<area shape="rect" id="node44" href="$class_message_ack_apply.html#a8062350767021b889389fcfcd058a1cc" title="deserialize into this " alt="" coords="397,595,579,624"/>
+<area shape="rect" id="node7" href="$class_serialized_message.html#a8c3a52ab04f93ebf3346256c70f8e785" title="SerializedMessage::des" alt="" coords="801,315,961,344"/>
+<area shape="rect" id="node23" href="$class_message_transaction.html#ab69b1e2b9a5c62659c361f08e1f9aad4" title="deserialize into this " alt="" coords="417,125,559,171"/>
+</map>

@@ -1,0 +1,20 @@
+<map id="Applier" name="Applier">
+<area shape="rect" id="node2" href="$class_transaction_agent.html" title="execute Transaction Agent actor " alt="" coords="2599,336,2721,365"/>
+<area shape="rect" id="node4" href="$class_operation.html" title="non&#45;transactional user and schema&#45;related activity " alt="" coords="2852,264,2929,293"/>
+<area shape="rect" id="node7" href="$structschemastruct.html" title="state information for Operations between TransactionAgent and UserSchemaMgr " alt="" coords="2609,240,2711,269"/>
+<area shape="rect" id="node9" title="STL class. " alt="" coords="327,220,407,249"/>
+<area shape="rect" id="node26" href="$struct_topology_1_1partition_address.html" title="Topology::partitionAddress" alt="" coords="1316,465,1492,495"/>
+<area shape="rect" id="node59" href="$struct_message_batch_serialized_1_1msgbatch__s.html" title="structure of serialized messages and destination node " alt="" coords="641,434,807,481"/>
+<area shape="rect" id="node77" href="$structauth_info.html" title="authentication information, uniquely identifying a user " alt="" coords="689,192,759,221"/>
+<area shape="rect" id="node11" title="STL class. " alt="" coords="25,211,151,258"/>
+<area shape="rect" id="node13" href="$class_topology.html" title="Topology" alt="" coords="2137,632,2212,661"/>
+<area shape="rect" id="node49" href="$class_mboxes.html" title="collection of producers " alt="" coords="2427,1044,2493,1073"/>
+<area shape="rect" id="node29" href="$class_mbox.html" title="create mailbox " alt="" coords="988,731,1041,760"/>
+<area shape="rect" id="node41" href="$struct_topology_1_1actor__s.html" title="characteristics for each actor " alt="" coords="1341,731,1467,760"/>
+<area shape="rect" id="node54" href="$class_mbox_producer.html" title="mailbox producer " alt="" coords="1351,967,1457,996"/>
+<area shape="rect" id="node31" href="$class_message.html" title="create Message object " alt="" coords="687,676,761,705"/>
+<area shape="rect" id="node56" href="$class_message_batch_serialized.html" title="Message variant containing multiple serialized Message variants. " alt="" coords="932,784,1097,813"/>
+<area shape="rect" id="node33" href="$struct_message_1_1message__s.html" title="Message POD (serializable by memcpy) data members. " alt="" coords="292,628,441,657"/>
+<area shape="rect" id="node35" href="$struct_topology_1_1address_struct.html" title="Topology::addressStruct" alt="" coords="7,600,169,629"/>
+<area shape="rect" id="node52" href="$struct_mboxes_1_1location__s.html" title="address and MboxProducer for an actor " alt="" coords="1739,1269,1872,1299"/>
+</map>

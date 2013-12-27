@@ -1,0 +1,6 @@
+<map id="serventIdentity_s" name="serventIdentity_s">
+<area shape="rect" id="node2" href="$class_mbox.html" title="create mailbox " alt="" coords="60,360,113,389"/>
+<area shape="rect" id="node4" href="$class_message.html" title="create Message object " alt="" coords="49,213,124,243"/>
+<area shape="rect" id="node6" href="$struct_message_1_1message__s.html" title="Message POD (serializable by memcpy) data members. " alt="" coords="12,117,161,147"/>
+<area shape="rect" id="node8" href="$struct_topology_1_1address_struct.html" title="Topology::addressStruct" alt="" coords="5,5,168,35"/>
+</map>

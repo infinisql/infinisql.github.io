@@ -1,0 +1,33 @@
+<map id="perlarxer" name="perlarxer">
+<area shape="rect" id="node2" href="$class_larxer.html" title="create object to tokenize, parse, and compile SQL statement " alt="" coords="2505,324,2564,353"/>
+<area shape="rect" id="node4" href="$struct_statement_1_1query__s.html" title="all elements for a main or sub&#45;query " alt="" coords="1507,324,1643,353"/>
+<area shape="rect" id="node48" href="$class_statement.html" title="contains all necessary information to execute a SQL statement " alt="" coords="2197,645,2280,675"/>
+<area shape="rect" id="node36" href="$struct_statement_1_1inobject__s.html" title="IN (or NOT IN) row values. " alt="" coords="1083,191,1232,220"/>
+<area shape="rect" id="node8" href="$class_ast.html" title="Abstract Syntax Tree. " alt="" coords="452,220,495,249"/>
+<area shape="rect" id="node10" title="STL class. " alt="" coords="184,443,264,472"/>
+<area shape="rect" id="node17" href="$struct_statement_1_1orderbyitem__s.html" title="ORDER BY fields and order. " alt="" coords="388,349,559,379"/>
+<area shape="rect" id="node20" href="$struct_statement_1_1results__s.html" title="results of evaulations during query execution, including final results " alt="" coords="1087,468,1228,497"/>
+<area shape="rect" id="node24" href="$structfield_value__s.html" title="field contents " alt="" coords="427,681,520,711"/>
+<area shape="rect" id="node33" href="$struct_statement_1_1column__s.html" title="FROM clause column. " alt="" coords="400,87,547,116"/>
+<area shape="rect" id="node45" href="$struct_larxer_1_1stackmember__s.html" title="data populatng pre&#45; Ast stack. SQL token and associated value. " alt="" coords="395,21,552,51"/>
+<area shape="rect" id="node54" href="$class_transaction_agent.html" title="execute Transaction Agent actor " alt="" coords="1860,1584,1983,1613"/>
+<area shape="rect" id="node56" href="$class_operation.html" title="non&#45;transactional user and schema&#45;related activity " alt="" coords="2200,1611,2277,1640"/>
+<area shape="rect" id="node73" href="$struct_topology_1_1partition_address.html" title="Topology::partitionAddress" alt="" coords="668,1280,844,1309"/>
+<area shape="rect" id="node119" href="$struct_transaction_1_1cmd_state__s.html" title="state for pending transactional activities " alt="" coords="1073,764,1241,793"/>
+<area shape="rect" id="node12" title="STL class. " alt="" coords="7,434,132,481"/>
+<area shape="rect" id="node112" href="$class_transaction.html" title="create Transaction object " alt="" coords="2787,952,2877,981"/>
+<area shape="rect" id="node27" href="$structuu_record__s.html" title="universally unique Record " alt="" coords="711,796,801,825"/>
+<area shape="rect" id="node52" href="$class_api_interface.html" title="Stored procedure API. " alt="" coords="2489,1151,2580,1180"/>
+<area shape="rect" id="node130" href="$struct_transaction_1_1sqlcmdstate__s.html" title="state for pending SQL commands " alt="" coords="2444,708,2625,737"/>
+<area shape="rect" id="node50" href="$struct_statement_1_1reentry__s.html" title="continuation destination " alt="" coords="2760,627,2904,656"/>
+<area shape="rect" id="node59" href="$structschemastruct.html" title="state information for Operations between TransactionAgent and UserSchemaMgr " alt="" coords="1871,1659,1972,1688"/>
+<area shape="rect" id="node62" href="$class_topology.html" title="Topology" alt="" coords="1537,1461,1612,1491"/>
+<area shape="rect" id="node90" href="$class_mboxes.html" title="collection of producers " alt="" coords="1541,1773,1608,1803"/>
+<area shape="rect" id="node76" href="$class_mbox.html" title="create mailbox " alt="" coords="447,1737,500,1767"/>
+<area shape="rect" id="node78" href="$class_message.html" title="create Message object " alt="" coords="187,2195,261,2224"/>
+<area shape="rect" id="node81" href="$struct_topology_1_1address_struct.html" title="Topology::addressStruct" alt="" coords="392,1991,555,2020"/>
+<area shape="rect" id="node93" href="$struct_mboxes_1_1location__s.html" title="address and MboxProducer for an actor " alt="" coords="881,1867,1015,1896"/>
+<area shape="rect" id="node110" href="$struct_api_interface_1_1results__s.html" title="results from SQL query " alt="" coords="3039,1936,3191,1965"/>
+<area shape="rect" id="node116" href="$class_schema.html" title="Schema object. " alt="" coords="1887,521,1956,551"/>
+<area shape="rect" id="node134" href="$structprocedure_response__s.html" title="orphan? " alt="" coords="2163,1664,2315,1693"/>
+</map>

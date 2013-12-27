@@ -1,0 +1,31 @@
+<map id="ApiInterface" name="ApiInterface">
+<area shape="rect" id="node81" href="$class_transaction.html" title="create Transaction object " alt="" coords="3176,1980,3267,2009"/>
+<area shape="rect" id="node119" href="$struct_statement_1_1reentry__s.html" title="continuation destination " alt="" coords="3149,1657,3293,1687"/>
+<area shape="rect" id="node2" href="$class_transaction_agent.html" title="execute Transaction Agent actor " alt="" coords="2487,1196,2609,1225"/>
+<area shape="rect" id="node4" href="$class_operation.html" title="non&#45;transactional user and schema&#45;related activity " alt="" coords="2859,1351,2936,1380"/>
+<area shape="rect" id="node117" href="$class_statement.html" title="contains all necessary information to execute a SQL statement " alt="" coords="3463,1628,3545,1657"/>
+<area shape="rect" id="node7" href="$structschemastruct.html" title="state information for Operations between TransactionAgent and UserSchemaMgr " alt="" coords="2497,1355,2599,1384"/>
+<area shape="rect" id="node9" title="STL class. " alt="" coords="667,1631,747,1660"/>
+<area shape="rect" id="node26" href="$struct_topology_1_1partition_address.html" title="Topology::partitionAddress" alt="" coords="1244,999,1420,1028"/>
+<area shape="rect" id="node68" href="$structauth_info.html" title="authentication information, uniquely identifying a user " alt="" coords="1123,1209,1192,1239"/>
+<area shape="rect" id="node83" href="$structfield_value__s.html" title="field contents " alt="" coords="2127,2072,2220,2101"/>
+<area shape="rect" id="node94" href="$struct_transaction_1_1cmd_state__s.html" title="state for pending transactional activities " alt="" coords="2813,1969,2981,1999"/>
+<area shape="rect" id="node105" href="$class_table.html" title="create new Table object " alt="" coords="1967,1884,2020,1913"/>
+<area shape="rect" id="node122" href="$struct_statement_1_1query__s.html" title="all elements for a main or sub&#45;query " alt="" coords="1264,1643,1400,1672"/>
+<area shape="rect" id="node140" href="$structfieldtypename__s.html" title="name and type of field " alt="" coords="1099,2171,1216,2200"/>
+<area shape="rect" id="node11" title="STL class. " alt="" coords="304,1622,429,1669"/>
+<area shape="rect" id="node13" href="$class_topology.html" title="Topology" alt="" coords="2136,1035,2211,1064"/>
+<area shape="rect" id="node46" href="$class_mboxes.html" title="collection of producers " alt="" coords="955,472,1021,501"/>
+<area shape="rect" id="node29" href="$class_mbox.html" title="create mailbox " alt="" coords="961,760,1015,789"/>
+<area shape="rect" id="node51" href="$class_mbox_producer.html" title="mailbox producer " alt="" coords="1279,359,1385,388"/>
+<area shape="rect" id="node31" href="$class_message.html" title="create Message object " alt="" coords="669,708,744,737"/>
+<area shape="rect" id="node33" href="$struct_message_1_1message__s.html" title="Message POD (serializable by memcpy) data members. " alt="" coords="292,509,441,539"/>
+<area shape="rect" id="node35" href="$struct_topology_1_1address_struct.html" title="Topology::addressStruct" alt="" coords="7,124,169,153"/>
+<area shape="rect" id="node49" href="$struct_mboxes_1_1location__s.html" title="address and MboxProducer for an actor " alt="" coords="1712,195,1845,224"/>
+<area shape="rect" id="node79" href="$struct_api_interface_1_1results__s.html" title="results from SQL query " alt="" coords="3428,1980,3580,2009"/>
+<area shape="rect" id="node86" href="$unionfield_input__u.html" title="contents of a field (other than CHARX or VARCHAR) " alt="" coords="1735,2020,1823,2049"/>
+<area shape="rect" id="node91" href="$class_schema.html" title="Schema object. " alt="" coords="2863,1804,2932,1833"/>
+<area shape="rect" id="node100" href="$structuu_record__s.html" title="universally unique Record " alt="" coords="2503,2248,2593,2277"/>
+<area shape="rect" id="node114" href="$struct_transaction_1_1sqlcmdstate__s.html" title="state for pending SQL commands " alt="" coords="3695,1628,3876,1657"/>
+<area shape="rect" id="node143" href="$structprocedure_response__s.html" title="orphan? " alt="" coords="2472,1745,2624,1775"/>
+</map>

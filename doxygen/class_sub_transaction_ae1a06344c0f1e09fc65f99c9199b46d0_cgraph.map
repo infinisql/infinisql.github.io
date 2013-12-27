@@ -1,0 +1,27 @@
+<map id="SubTransaction::searchReturn1" name="SubTransaction::searchReturn1">
+<area shape="rect" id="node3" href="$class_sub_transaction.html#a97198ca271f50534498247ad21ac7ff3" title="SubTransaction::indexSearch" alt="" coords="263,334,455,363"/>
+<area shape="rect" id="node47" href="$class_sub_transaction.html#abebe45047c9b6400a84df473d5071fc6" title="return rows " alt="" coords="267,519,451,549"/>
+<area shape="rect" id="node5" href="$class_index.html#acacc27be3f0eceb3254338d2fb06dd42" title="return index entries matching BETWEEN expression " alt="" coords="515,99,624,129"/>
+<area shape="rect" id="node7" href="$class_index.html#a2f6fdf7be3cfed2a80b21c688dc889d2" title="return index entries matching &lt;,&gt;,&lt;=, or &gt;= expression " alt="" coords="709,21,837,50"/>
+<area shape="rect" id="node9" href="$class_index.html#a716b12ae30c7318ea82d0064321d1635" title="SELECT *. " alt="" coords="523,203,616,233"/>
+<area shape="rect" id="node11" href="$class_index.html#add67d4e68cc9fe2c881991a3c0ce2c53" title="return all non&#45;NULL entries " alt="" coords="711,175,836,205"/>
+<area shape="rect" id="node13" href="$class_index.html#aff77ad76eccdba4b06d2888cd27194e6" title="return index entries matching IS NULL expression " alt="" coords="720,241,827,270"/>
+<area shape="rect" id="node15" href="$class_index.html#a8ab7e405d19a94ef1e20d701d8b170db" title="return index entries matching equality expression " alt="" coords="515,625,624,654"/>
+<area shape="rect" id="node19" href="$class_index.html#a411eb67c16797f77ec8e8b2ba8d39eea" title="return index entries matching IN expression " alt="" coords="524,465,615,494"/>
+<area shape="rect" id="node22" href="$class_index.html#afc2e158ff03c14295c371fdce6673a18" title="return index entries matching inequality expression " alt="" coords="505,518,633,547"/>
+<area shape="rect" id="node24" href="$class_index.html#a38ea9e345e53ac596ef8cc70270873af" title="return index entries matching NOT IN expression " alt="" coords="516,571,623,601"/>
+<area shape="rect" id="node28" href="$class_index.html#a8cdefc009a85999d67bed57d8df97e90" title="return index entries matching LIKE search " alt="" coords="528,361,611,390"/>
+<area shape="rect" id="node32" href="$class_index.html#a7c3681188aad71e3ea344958ae9c701d" title="return index entries matching regex search " alt="" coords="727,413,820,442"/>
+<area shape="rect" id="node38" href="$class_index.html#a4f5ba498bee7255201daf9a9962e370d" title="return index entries matching NOT BETWEEN expression " alt="" coords="505,46,633,75"/>
+<area shape="rect" id="node41" href="$class_index.html#a77756259b47493dfb9e099aae25d02c5" title="return index entries maching NOT LIKE search " alt="" coords="520,307,619,337"/>
+<area shape="rect" id="node17" href="$class_index.html#a2285a828a8c0fa2916d9629f5d47b272" title="perform activity to check for equality " alt="" coords="712,491,835,521"/>
+<area shape="rect" id="node30" href="$defs_8h.html#aa46d9ec909f66a85d2ce7903a56b1564" title="might be orpha, but convert LIKE operand to regex " alt="" coords="731,359,816,389"/>
+<area shape="rect" id="node36" href="$defs_8h.html#a1893cfdf91d0c9c964e3791c550894c8" title="trimspace" alt="" coords="735,306,812,335"/>
+<area shape="rect" id="node34" href="$class_index.html#a9ade4ce59a695b2ef841c9a1713e3b12" title="set iterators part of regex query " alt="" coords="912,413,1040,442"/>
+<area shape="rect" id="node49" href="$class_table.html#a4209e298924ac386ac40ec57e552ae47" title="return rows for select based on index hits " alt="" coords="507,678,632,707"/>
+<area shape="rect" id="node51" href="$defs_8h.html#a2f49d13c478c30527913d3be27b471b9" title="check if row is locked and type " alt="" coords="729,705,817,734"/>
+<area shape="rect" id="node53" href="$defs_8h.html#a14437eb70d758669a9fea8d261c8027c" title="set read lock on row " alt="" coords="729,758,817,787"/>
+<area shape="rect" id="node55" href="$class_table.html#aaa963cbfc4068be1ebad5ec2167e9330" title="add subtransactionid to queue waiting to acquire lock on row " alt="" coords="683,598,864,627"/>
+<area shape="rect" id="node59" href="$defs_8h.html#a8a9c12b9ed47126f90a790b50dbf5cd2" title="set write lock on row " alt="" coords="728,651,819,681"/>
+<area shape="rect" id="node57" href="$defs_8h.html#a2930e5d834e43879edf5024b680ba1bc" title="check if row operation is insert " alt="" coords="929,598,1023,627"/>
+</map>

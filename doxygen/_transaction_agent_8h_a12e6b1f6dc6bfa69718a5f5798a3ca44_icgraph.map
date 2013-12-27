@@ -1,0 +1,23 @@
+<map id="makeSbuf" name="makeSbuf">
+<area shape="rect" id="node3" href="$class_transaction_agent.html#afeb56ce4d08a9a26fee880cfb60f0d17" title="send raw protocol TCP responses to builtins, ping, login, logout, etc. " alt="" coords="136,319,355,348"/>
+<area shape="rect" id="node5" href="$class_api_interface.html#a4a1a73f032a58252940033976336a459" title="deprecated " alt="" coords="425,5,612,35"/>
+<area shape="rect" id="node7" href="$class_transaction_agent.html#abe6035d3eb84620ebbdcdfce3d34fc3b" title="TransactionAgent::Transaction\lAgent" alt="" coords="947,489,1147,535"/>
+<area shape="rect" id="node9" href="$class_transaction_agent.html#af613bc9b5c27a3bb79e83249fff16279" title="ping operation " alt="" coords="713,109,868,139"/>
+<area shape="rect" id="node12" href="$class_transaction_agent.html#abb8479d4599bc129ade4c148e0a813f6" title="login " alt="" coords="712,163,869,192"/>
+<area shape="rect" id="node15" href="$class_transaction_agent.html#a8fdb66b9bdd2755a11beeb8c017ba33f" title="logout " alt="" coords="708,216,873,245"/>
+<area shape="rect" id="node18" href="$class_transaction_agent.html#a5b197a6f45bd8a05994f9252332c3b04" title="change password " alt="" coords="404,265,633,295"/>
+<area shape="rect" id="node21" href="$class_transaction_agent.html#ac4b282414d3b2df348c418b87abc6fda" title="create domain " alt="" coords="413,319,624,348"/>
+<area shape="rect" id="node24" href="$class_transaction_agent.html#ace0343f70e795b25c7d2202cc9e2d990" title="create user " alt="" coords="423,372,615,401"/>
+<area shape="rect" id="node27" href="$class_transaction_agent.html#a59b6245bf3e072c73329764a0b527260" title="delete user " alt="" coords="423,425,615,455"/>
+<area shape="rect" id="node30" href="$class_transaction_agent.html#aabd5c9203e13ca31a1a3ea7241bd4f85" title="delete domain " alt="" coords="415,479,623,508"/>
+<area shape="rect" id="node33" href="$class_transaction_agent.html#afd3364c54ec5e8432c5bb06f610170f5" title="common code for many operations, such as login, create table, etc " alt="" coords="429,621,608,667"/>
+<area shape="rect" id="node53" href="$class_transaction_agent.html#a9e808c79db27d1222cc8f4f98d866a04" title="compile SQL statement " alt="" coords="431,764,607,793"/>
+<area shape="rect" id="node56" href="$class_transaction_agent.html#a276ba1d319a904b3d2cb5b7760ca7ecc" title="called by loadprocedure " alt="" coords="412,892,625,921"/>
+<area shape="rect" id="node35" href="$class_transaction_agent.html#aab53c4bfa995b9022cc36cc15d13aba5" title="create schema " alt="" coords="684,523,897,552"/>
+<area shape="rect" id="node38" href="$class_transaction_agent.html#a3708411d5f2ecc05c73956df8fd55817" title="create table " alt="" coords="693,576,888,605"/>
+<area shape="rect" id="node41" href="$class_transaction_agent.html#a7a3c3c5d2cdd473e05900dd77086ae63" title="add column " alt="" coords="693,629,888,659"/>
+<area shape="rect" id="node44" href="$class_transaction_agent.html#a558d5f43203b188965159990809efe3f" title="delete index " alt="" coords="692,683,889,712"/>
+<area shape="rect" id="node47" href="$class_transaction_agent.html#a3a53d6669e67de446acf6da315a4be4a" title="delete table " alt="" coords="693,736,888,765"/>
+<area shape="rect" id="node50" href="$class_transaction_agent.html#a71760a1ab215c83cdd9ed7ad1fa38ff0" title="delete schema " alt="" coords="684,789,897,819"/>
+<area shape="rect" id="node59" href="$class_transaction_agent.html#a7522dec06fd92d63d98b5afff843f0e2" title="load stored procedure " alt="" coords="684,944,897,973"/>
+</map>

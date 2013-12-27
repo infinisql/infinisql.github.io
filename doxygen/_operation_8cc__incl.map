@@ -1,0 +1,10 @@
+<map id="/home/infinisql/build/infinisql/infinisqld/Operation.cc" name="/home/infinisql/build/infinisql/infinisqld/Operation.cc">
+<area shape="rect" id="node3" href="$_operation_8h.html" title="Class for non&#45;transactional, user and schema&#45;related activities, such as login, createuser, createtable, and so on. " alt="" coords="2006,117,2094,147"/>
+<area shape="rect" id="node107" href="$_pg_8h.html" title="Objects created for every SQL login and associated with a specific TransactionAgent. Takes incoming requests, has them processed and responds to client. " alt="" coords="2150,195,2198,224"/>
+<area shape="rect" id="node5" href="$gch_8h.html" title="Headers for all external dependencies. " alt="" coords="2034,272,2087,301"/>
+<area shape="rect" id="node103" href="$_transaction_agent_8h.html" title="Actor which communicates with clients and executes transactions. Coordinates of activities between se..." alt="" coords="1942,195,2075,224"/>
+<area shape="rect" id="node23" href="$spooky_8h.html" title="Spooky Hash from Bob Jenkins. This is public domain. " alt="" coords="20,427,95,456"/>
+<area shape="rect" id="node92" href="$_mbox_8h.html" title="Mbox* classes perform inter&#45;actor messaging. Mbox is a lockfree multi producer, single consumer queue..." alt="" coords="3810,349,3874,379"/>
+<area shape="rect" id="node94" href="$defs_8h.html" title="Global struct &amp; enum types, global function declarations, global symbols in general. " alt="" coords="220,349,279,379"/>
+<area shape="rect" id="node96" href="$infinisql_8h.html" title="API for creating stored procedures. Pg objects also inherit from this class, because they perform the..." alt="" coords="220,427,298,456"/>
+</map>

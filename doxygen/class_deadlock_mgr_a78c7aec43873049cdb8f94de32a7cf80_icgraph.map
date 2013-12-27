@@ -1,0 +1,6 @@
+<map id="DeadlockMgr::deadlock" name="DeadlockMgr::deadlock">
+<area shape="rect" id="node3" href="$class_deadlock_mgr.html#a2d29441e8fedf37dbef97ddf34b51344" title="walk the wait&#45;for graph for items this transactionid is waiting for " alt="" coords="215,32,348,61"/>
+<area shape="rect" id="node5" href="$class_deadlock_mgr.html#a780f4e2328514186d5bdd0d5f82619b8" title="wait&#45;for graph algoritm " alt="" coords="397,5,557,35"/>
+<area shape="rect" id="node9" href="$class_deadlock_mgr.html#a49f4315cc72ce7700178e4cad993b82e" title="walk the wait&#45;for graph for transactions that hold this item " alt="" coords="411,59,544,88"/>
+<area shape="rect" id="node7" href="$class_deadlock_mgr.html#a5c8f452651eff47d9cf41d745fcfe123" title="execute Deadlock Manager actor " alt="" coords="605,5,789,35"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="/home/infinisql/build/infinisql/infinisqld/TransactionAgent.h" name="/home/infinisql/build/infinisql/infinisqld/TransactionAgent.h">
+<area shape="rect" id="node3" href="$gch_8h.html" title="Headers for all external dependencies. " alt="" coords="2137,272,2191,301"/>
+<area shape="rect" id="node90" href="$_operation_8h.html" title="Class for non&#45;transactional, user and schema&#45;related activities, such as login, createuser, createtable, and so on. " alt="" coords="1996,117,2084,147"/>
+<area shape="rect" id="node94" href="$_table_8h.html" title="Table class. Has Fields and Indices. " alt="" coords="2097,195,2161,224"/>
+<area shape="rect" id="node97" href="$_schema_8h.html" title="Schema class. Contains tables (fields (indices)). One schemata per domain. Corresponds to tablespace ..." alt="" coords="2159,117,2239,147"/>
+<area shape="rect" id="node101" href="$_larxer_8h.html" title="Portmanteau of &quot;lexer&quot; and &quot;parser&quot;. This class tokenizes, parses and converts SQL into executable St..." alt="" coords="2239,195,2308,224"/>
+<area shape="rect" id="node104" href="$_transaction_8h.html" title="Class which performs transactions. Associated with the TransactionAgent which connected to the client..." alt="" coords="2313,117,2415,147"/>
+<area shape="rect" id="node108" href="$_applier_8h.html" title="Applies transactional data modifications as part of synchronous replication. " alt="" coords="2439,117,2511,147"/>
+<area shape="rect" id="node21" href="$spooky_8h.html" title="Spooky Hash from Bob Jenkins. This is public domain. " alt="" coords="1149,349,1224,379"/>
+</map>

@@ -1,0 +1,24 @@
+<map id="Pg::put" name="Pg::put">
+<area shape="rect" id="node3" href="$class_pg.html#a1d9453abb6c088797e14baea3f2c241b" title="wire protocol handling " alt="" coords="853,124,923,153"/>
+<area shape="rect" id="node5" href="$class_pg.html#a9b16e732905412fd19a9b1c75e62ced3" title="write authenticationok status to outbound message buffer " alt="" coords="367,670,529,700"/>
+<area shape="rect" id="node13" href="$class_pg.html#af5367b8b342543bd56c310ff0afe2aea" title="write completed command to outbound message buffer " alt="" coords="119,308,297,337"/>
+<area shape="rect" id="node28" href="$class_pg.html#a1a74f6c5437f7e8faea3f875fc9a73c4" title="write rows to outbound message buffer " alt="" coords="145,101,271,130"/>
+<area shape="rect" id="node31" href="$class_pg.html#a79e2585fe00a44c7064745113cf6816a" title="write error to outbound message buffer " alt="" coords="373,305,523,334"/>
+<area shape="rect" id="node41" href="$class_pg.html#aa27e5bcd510d4b5a3203b8a8191273c2" title="write notice to outbound message buffer " alt="" coords="128,526,288,556"/>
+<area shape="rect" id="node44" href="$class_pg.html#afbe09ff203b419a42ad234f906959c8a" title="write server parameters in status message to outbound message buffer " alt="" coords="127,666,289,696"/>
+<area shape="rect" id="node47" href="$class_pg.html#ab381a3f0ef9beb0470e5aaff768d404d" title="write field names to outbound message buffer " alt="" coords="129,468,287,497"/>
+<area shape="rect" id="node50" href="$class_pg.html#a8422838d3a7e83f6db18eceb18817588" title="write response messages to socket " alt="" coords="152,412,264,441"/>
+<area shape="rect" id="node7" href="$class_pg.html#aee8ca6d9759c75c81a8d41679744b31e" title="continuation after login operation " alt="" coords="611,670,736,700"/>
+<area shape="rect" id="node9" href="$class_operation.html#a07d5db6e1d0c41bf4073f3be93e4e7ed" title="perform operation (only for SQL logins) " alt="" coords="799,670,977,700"/>
+<area shape="rect" id="node11" href="$class_transaction_agent.html#abe6035d3eb84620ebbdcdfce3d34fc3b" title="TransactionAgent::Transaction\lAgent" alt="" coords="1027,662,1227,708"/>
+<area shape="rect" id="node16" href="$class_pg.html#ac132fbe1a0c46c68ece5004366dd8a62" title="after SQL activity is performed " alt="" coords="819,412,957,441"/>
+<area shape="rect" id="node18" href="$class_pg.html#af53fe07c0c0a879e0291e723dff34926" title="continuation function after explicit commit " alt="" coords="349,358,547,388"/>
+<area shape="rect" id="node23" href="$class_pg.html#a5bdee216f5c823ca136fee3c50a53d7c" title="continuation function after explicit rollback " alt="" coords="347,412,549,441"/>
+<area shape="rect" id="node20" href="$class_pg.html#a55518b7c783c58e23badcc740e96cd8e" title="explicit commit " alt="" coords="600,358,747,388"/>
+<area shape="rect" id="node25" href="$class_pg.html#a26dfda1f20b2fdaac85986fa3dd7ebca" title="explicit rollback " alt="" coords="599,412,748,441"/>
+<area shape="rect" id="node35" href="$class_pg.html#af7204d6b309e5d68f8bd37fdbcc5929e" title="tokenize, parse, compile and execute SQL query " alt="" coords="597,252,749,281"/>
+<area shape="rect" id="node38" href="$class_pg.html#aaa7af6e009006b5eb3c4ff8324ac2d6c" title="output error based on Transaction::resultCode " alt="" coords="619,305,728,334"/>
+<area shape="rect" id="node53" href="$class_pg.html#a9fefc9290f305a1700e08a5c08b10a7b" title="write stored buffer to socket " alt="" coords="387,201,509,230"/>
+<area shape="rect" id="node58" href="$class_pg.html#adc7f4444738cd3201d51fd254c28f353" title="continuation function after implicit commit " alt="" coords="349,516,547,545"/>
+<area shape="rect" id="node60" href="$class_pg.html#a5c7a5cc08d6f879c72e2a5e9515ae7a8" title="implicit commit " alt="" coords="600,516,747,545"/>
+</map>

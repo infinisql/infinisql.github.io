@@ -1,0 +1,10 @@
+<map id="Operation::setbuiltincmd" name="Operation::setbuiltincmd">
+<area shape="rect" id="node3" href="$class_transaction_agent.html#afd3364c54ec5e8432c5bb06f610170f5" title="common code for many operations, such as login, create table, etc " alt="" coords="216,130,395,177"/>
+<area shape="rect" id="node5" href="$class_transaction_agent.html#aab53c4bfa995b9022cc36cc15d13aba5" title="create schema " alt="" coords="444,5,657,35"/>
+<area shape="rect" id="node9" href="$class_transaction_agent.html#a3708411d5f2ecc05c73956df8fd55817" title="create table " alt="" coords="453,59,648,88"/>
+<area shape="rect" id="node12" href="$class_transaction_agent.html#a7a3c3c5d2cdd473e05900dd77086ae63" title="add column " alt="" coords="453,112,648,141"/>
+<area shape="rect" id="node15" href="$class_transaction_agent.html#a558d5f43203b188965159990809efe3f" title="delete index " alt="" coords="452,165,649,195"/>
+<area shape="rect" id="node18" href="$class_transaction_agent.html#a3a53d6669e67de446acf6da315a4be4a" title="delete table " alt="" coords="453,219,648,248"/>
+<area shape="rect" id="node21" href="$class_transaction_agent.html#a71760a1ab215c83cdd9ed7ad1fa38ff0" title="delete schema " alt="" coords="444,272,657,301"/>
+<area shape="rect" id="node7" href="$class_transaction_agent.html#abe6035d3eb84620ebbdcdfce3d34fc3b" title="TransactionAgent::Transaction\lAgent" alt="" coords="707,130,907,177"/>
+</map>

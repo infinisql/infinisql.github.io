@@ -1,0 +1,8 @@
+<map id="Transaction::continueCommitTransaction" name="Transaction::continueCommitTransaction">
+<area shape="rect" id="node3" href="$class_transaction.html#a109bd0f1d70b6ff69cf3abccf7eea8f8" title="COMMIT. " alt="" coords="284,59,425,88"/>
+<area shape="rect" id="node14" href="$class_transaction.html#a954645efeb9bb7f6a510dd33cc16851f" title="execute continuation based on MessageTransaction reply " alt="" coords="249,111,460,158"/>
+<area shape="rect" id="node5" href="$class_api_interface.html#a95a01b40504d9f5b8024221f2805409c" title="commit transaction " alt="" coords="512,5,653,35"/>
+<area shape="rect" id="node7" href="$class_pg.html#a55518b7c783c58e23badcc740e96cd8e" title="explicit commit " alt="" coords="509,59,656,88"/>
+<area shape="rect" id="node11" href="$class_pg.html#a5c7a5cc08d6f879c72e2a5e9515ae7a8" title="implicit commit " alt="" coords="509,112,656,141"/>
+<area shape="rect" id="node9" href="$class_pg.html#ac132fbe1a0c46c68ece5004366dd8a62" title="after SQL activity is performed " alt="" coords="705,85,844,115"/>
+</map>

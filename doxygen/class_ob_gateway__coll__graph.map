@@ -1,0 +1,16 @@
+<map id="ObGateway" name="ObGateway">
+<area shape="rect" id="node2" href="$class_topology.html" title="Topology" alt="" coords="1892,295,1967,324"/>
+<area shape="rect" id="node40" href="$class_mboxes.html" title="collection of producers " alt="" coords="1131,815,1197,844"/>
+<area shape="rect" id="node18" href="$struct_topology_1_1partition_address.html" title="Topology::partitionAddress" alt="" coords="1076,139,1252,168"/>
+<area shape="rect" id="node10" title="STL class. " alt="" coords="584,169,664,199"/>
+<area shape="rect" id="node50" href="$struct_message_batch_serialized_1_1msgbatch__s.html" title="structure of serialized messages and destination node " alt="" coords="799,425,964,471"/>
+<area shape="rect" id="node12" title="STL class. " alt="" coords="304,161,429,207"/>
+<area shape="rect" id="node21" href="$class_mbox.html" title="create mailbox " alt="" coords="855,368,908,397"/>
+<area shape="rect" id="node33" href="$struct_topology_1_1actor__s.html" title="characteristics for each actor " alt="" coords="1101,376,1227,405"/>
+<area shape="rect" id="node45" href="$class_mbox_producer.html" title="mailbox producer " alt="" coords="1512,736,1619,765"/>
+<area shape="rect" id="node23" href="$class_message.html" title="create Message object " alt="" coords="587,473,661,503"/>
+<area shape="rect" id="node47" href="$class_message_batch_serialized.html" title="Message variant containing multiple serialized Message variants. " alt="" coords="1081,545,1247,575"/>
+<area shape="rect" id="node25" href="$struct_message_1_1message__s.html" title="Message POD (serializable by memcpy) data members. " alt="" coords="292,473,441,503"/>
+<area shape="rect" id="node27" href="$struct_topology_1_1address_struct.html" title="Topology::addressStruct" alt="" coords="7,473,169,503"/>
+<area shape="rect" id="node43" href="$struct_mboxes_1_1location__s.html" title="address and MboxProducer for an actor " alt="" coords="1863,983,1996,1012"/>
+</map>

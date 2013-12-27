@@ -1,0 +1,30 @@
+<map id="ApiInterface::commit" name="ApiInterface::commit">
+<area shape="rect" id="node3" href="$class_transaction.html#a109bd0f1d70b6ff69cf3abccf7eea8f8" title="COMMIT. " alt="" coords="211,217,352,247"/>
+<area shape="rect" id="node55" href="$class_transaction.html#a62cfbd3f256c6b36cfdd16cddf1ab5fe" title="continue back to calling function " alt="" coords="711,377,849,407"/>
+<area shape="rect" id="node65" href="$class_api_interface.html#ad34d67f168ca1f406dcb5e55892e973a" title="set continuation target back to ApiInterface object " alt="" coords="199,405,364,435"/>
+<area shape="rect" id="node5" href="$class_transaction.html#abfb2d360e416bdf8dc2453a4642c93b8" title="generate unique, always incrementing id for pending command " alt="" coords="413,279,635,308"/>
+<area shape="rect" id="node7" href="$class_transaction.html#a7466fd171b67232f43e9a540950f2413" title="continuation of COMMIT " alt="" coords="428,209,620,255"/>
+<area shape="rect" id="node58" href="$class_transaction.html#aaaab2fa0d5c4c49e970461eabca86783" title="create MessageDispatch for synchronous replication " alt="" coords="433,139,615,186"/>
+<area shape="rect" id="node60" href="$class_mboxes.html#a91b938e3db8b15f7dffbe9a3b04b8d1a" title="produce Message for specific actor " alt="" coords="943,112,1060,141"/>
+<area shape="rect" id="node9" href="$class_transaction.html#aa741adabd498325416959375fb3ac6c2" title="add entry (row or field) to list for Engine processing " alt="" coords="711,271,849,300"/>
+<area shape="rect" id="node11" href="$class_table.html#a1f82fb5350dd9409ba854b73efe569ee" title="extract fields from row string " alt="" coords="716,60,844,89"/>
+<area shape="rect" id="node13" href="$defs_8h.html#a1893cfdf91d0c9c964e3791c550894c8" title="trimspace" alt="" coords="741,113,819,143"/>
+<area shape="rect" id="node15" href="$class_transaction.html#a43be7c7b2347ad858b594ab1c6537b64" title="get engineid/partitionid based on hash of this fieldValues " alt="" coords="697,324,863,353"/>
+<area shape="rect" id="node38" href="$class_transaction.html#a58d291fe5c0ee6984aa71a79c7126376" title="send MessageTransaction variant to Engine " alt="" coords="683,217,877,247"/>
+<area shape="rect" id="node40" href="$class_mboxes.html#a956f8e7626423edfd33db7a185b8b352" title="produce Message for Engine associated with specific partition " alt="" coords="935,165,1068,195"/>
+<area shape="rect" id="node17" href="$class_spooky_hash.html#acabbc1948064bffaf1c7ed4e78cc1a30" title="SpookyHash::Hash64" alt="" coords="927,324,1076,353"/>
+<area shape="rect" id="node19" href="$class_spooky_hash.html#a9d8973d46becbc8036c458fae3efc3a5" title="SpookyHash::Hash128" alt="" coords="1131,324,1288,353"/>
+<area shape="rect" id="node21" href="$class_spooky_hash.html#af9b11a6c6092014a571c337db7a0dac8" title="SpookyHash::Short" alt="" coords="1367,377,1503,407"/>
+<area shape="rect" id="node30" href="$class_spooky_hash.html#a749e6012af3d67884a323e227105e032" title="SpookyHash::Mix" alt="" coords="1596,271,1721,300"/>
+<area shape="rect" id="node33" href="$class_spooky_hash.html#ae93bdc4013fbfa7d4ce9bfadf8fe953b" title="SpookyHash::End" alt="" coords="1371,324,1499,353"/>
+<area shape="rect" id="node23" href="$class_spooky_hash.html#a2a18b61b405f43f283ba9a20016b5b9f" title="SpookyHash::ShortMix" alt="" coords="1580,377,1737,407"/>
+<area shape="rect" id="node27" href="$class_spooky_hash.html#a5b01b1a2b3270e9c11244a6702b0db59" title="SpookyHash::ShortEnd" alt="" coords="1580,431,1737,460"/>
+<area shape="rect" id="node25" href="$class_spooky_hash.html#a2b3b07af28a0b4f0f920fdb3a31a0c87" title="SpookyHash::Rot64" alt="" coords="1791,351,1929,380"/>
+<area shape="rect" id="node35" href="$class_spooky_hash.html#a9799c4b36e1c73e895e4e7293eb94521" title="SpookyHash::EndPartial" alt="" coords="1576,324,1741,353"/>
+<area shape="rect" id="node42" href="$class_message.html#a8f4edea412ed3bbaa8d3cf2d1d48b8b3" title="put addresses in Message variant envelope " alt="" coords="1132,165,1287,195"/>
+<area shape="rect" id="node44" href="$class_mbox_producer.html#a9ca818bdf4ef9bacbaa6cb1d63a68dbd" title="produce Message onto mailbox " alt="" coords="1127,112,1292,141"/>
+<area shape="rect" id="node46" href="$class_message.html#a4508c42d7366a86327ca3076eb1ff007" title="return serialized Message variant string " alt="" coords="1372,59,1497,88"/>
+<area shape="rect" id="node48" href="$class_mboxes.html#abaaf6c0d67c235bcb17e7f9e935861cf" title="send batched Message objects destined to remote nodes " alt="" coords="1357,112,1512,141"/>
+<area shape="rect" id="node51" href="$class_mbox.html#a5311178f7221ffa942fa128424ac9a86" title="create 128bit integer from Message object " alt="" coords="1341,165,1528,195"/>
+<area shape="rect" id="node53" href="$class_mbox.html#ae545aa094bc902b10f9b1e042c24e42b" title="return Message pointer from 128bit integer " alt="" coords="1387,5,1483,35"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="/home/infinisql/build/infinisql/infinisqld/Mbox.cc" name="/home/infinisql/build/infinisql/infinisqld/Mbox.cc">
+<area shape="rect" id="node3" href="$gch_8h.html" title="Headers for all external dependencies. " alt="" coords="1993,117,2047,147"/>
+<area shape="rect" id="node92" href="$_mbox_8h.html" title="Mbox* classes perform inter&#45;actor messaging. Mbox is a lockfree multi producer, single consumer queue..." alt="" coords="195,195,259,224"/>
+<area shape="rect" id="node21" href="$spooky_8h.html" title="Spooky Hash from Bob Jenkins. This is public domain. " alt="" coords="3659,195,3733,224"/>
+<area shape="rect" id="node97" href="$defs_8h.html" title="Global struct &amp; enum types, global function declarations, global symbols in general. " alt="" coords="197,349,256,379"/>
+<area shape="rect" id="node94" href="$_message_8h.html" title="Message objects of varying types. Each type eventually inherits from the Message base class..." alt="" coords="184,272,269,301"/>
+<area shape="rect" id="node106" href="$_topology_8h.html" title="Topology class has all of the actors, their types, and dynamic configuration values. Each actor maintains a Topology object which gives it a common view for the whole node and, as necessary, the whole cluster. " alt="" coords="1743,349,1828,379"/>
+<area shape="rect" id="node99" href="$infinisql_8h.html" title="API for creating stored procedures. Pg objects also inherit from this class, because they perform the..." alt="" coords="1671,427,1748,456"/>
+</map>

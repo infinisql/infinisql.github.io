@@ -1,0 +1,10 @@
+<map id="ObGateway::ObGateway" name="ObGateway::ObGateway">
+<area shape="rect" id="node3" href="$class_mbox.html#ab6a12ecc36a5f6c5a30f4c4bbc06817b" title="consume a Message " alt="" coords="291,59,395,88"/>
+<area shape="rect" id="node9" href="$class_message.html#afa81916488d4f809e4077769de66a50c" title="get Message size " alt="" coords="289,116,396,145"/>
+<area shape="rect" id="node13" href="$class_mboxes.html#aee6924dc31ac0d04aabce26903860c54" title="update Topology of producers " alt="" coords="285,169,400,199"/>
+<area shape="rect" id="node15" href="$class_ob_gateway.html#a4b07c90de801b5866eb79543235abd12" title="ObGateway::updateRemoteGateways" alt="" coords="221,223,464,252"/>
+<area shape="rect" id="node5" href="$class_mbox.html#aae4e39be0a5c2f628793d55d2c64fb3d" title="return count component from 128bit integer " alt="" coords="525,5,640,35"/>
+<area shape="rect" id="node7" href="$class_mbox.html#ae545aa094bc902b10f9b1e042c24e42b" title="return Message pointer from 128bit integer " alt="" coords="535,59,631,88"/>
+<area shape="rect" id="node11" href="$class_serialized_message.html#a83730b0191a483dc7d33cae03976455e" title="SerializedMessage::\lsersize" alt="" coords="513,111,652,158"/>
+<area shape="rect" id="node17" href="$defs_8h.html#a1dab4ce3f3310af77ea8211a1f0c767f" title="set real&#45;time priority " alt="" coords="552,223,613,252"/>
+</map>

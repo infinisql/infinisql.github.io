@@ -1,0 +1,15 @@
+<map id="TransactionAgent::createuser" name="TransactionAgent::createuser">
+<area shape="rect" id="node3" href="$class_transaction_agent.html#ae8bb293a06c1628c075332e70aeab0e5" title="delete Operation, remove from pendingOperations " alt="" coords="253,5,461,35"/>
+<area shape="rect" id="node5" href="$class_operation.html#afafab221948ff0ee3e764ada76226a5f" title="get operation identifier " alt="" coords="300,59,415,88"/>
+<area shape="rect" id="node7" href="$class_transaction_agent.html#afeb56ce4d08a9a26fee880cfb60f0d17" title="send raw protocol TCP responses to builtins, ping, login, logout, etc. " alt="" coords="248,112,467,141"/>
+<area shape="rect" id="node13" href="$class_mboxes.html#ad590feb7f8bacbf2054bfce186ee6f2e" title="produce Message for replica&#39;s UserSchemaMgr " alt="" coords="265,165,449,195"/>
+<area shape="rect" id="node9" href="$_transaction_agent_8cc.html#a6eddc9f5e393af42f14abc5dcd87b218" title="makeSbuf" alt="" coords="584,59,664,88"/>
+<area shape="rect" id="node11" href="$class_transaction_agent.html#a5b15abb67572d7eac45cfff0030441fb" title="finish TCP connection on raw interface (not SQL interface) " alt="" coords="515,112,733,141"/>
+<area shape="rect" id="node15" href="$class_mboxes.html#a91b938e3db8b15f7dffbe9a3b04b8d1a" title="produce Message for specific actor " alt="" coords="565,165,683,195"/>
+<area shape="rect" id="node17" href="$class_mbox_producer.html#a9ca818bdf4ef9bacbaa6cb1d63a68dbd" title="produce Message onto mailbox " alt="" coords="783,139,948,168"/>
+<area shape="rect" id="node28" href="$class_message.html#a8f4edea412ed3bbaa8d3cf2d1d48b8b3" title="put addresses in Message variant envelope " alt="" coords="788,192,943,221"/>
+<area shape="rect" id="node19" href="$class_mbox.html#a5311178f7221ffa942fa128424ac9a86" title="create 128bit integer from Message object " alt="" coords="997,32,1184,61"/>
+<area shape="rect" id="node21" href="$class_mbox.html#ae545aa094bc902b10f9b1e042c24e42b" title="return Message pointer from 128bit integer " alt="" coords="1043,85,1139,115"/>
+<area shape="rect" id="node23" href="$class_mboxes.html#abaaf6c0d67c235bcb17e7f9e935861cf" title="send batched Message objects destined to remote nodes " alt="" coords="1013,139,1168,168"/>
+<area shape="rect" id="node26" href="$class_message.html#a4508c42d7366a86327ca3076eb1ff007" title="return serialized Message variant string " alt="" coords="1028,192,1153,221"/>
+</map>

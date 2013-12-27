@@ -1,0 +1,16 @@
+<map id="DeadlockMgr" name="DeadlockMgr">
+<area shape="rect" id="node2" href="$class_topology.html" title="Topology" alt="" coords="1892,817,1967,847"/>
+<area shape="rect" id="node40" href="$class_mboxes.html" title="collection of producers " alt="" coords="1131,312,1197,341"/>
+<area shape="rect" id="node18" href="$struct_topology_1_1partition_address.html" title="Topology::partitionAddress" alt="" coords="1076,1017,1252,1047"/>
+<area shape="rect" id="node10" title="STL class. " alt="" coords="584,924,664,953"/>
+<area shape="rect" id="node50" href="$struct_message_batch_serialized_1_1msgbatch__s.html" title="structure of serialized messages and destination node " alt="" coords="799,303,964,350"/>
+<area shape="rect" id="node12" title="STL class. " alt="" coords="304,915,429,962"/>
+<area shape="rect" id="node21" href="$class_mbox.html" title="create mailbox " alt="" coords="855,667,908,696"/>
+<area shape="rect" id="node33" href="$struct_topology_1_1actor__s.html" title="characteristics for each actor " alt="" coords="1101,663,1227,692"/>
+<area shape="rect" id="node45" href="$class_mbox_producer.html" title="mailbox producer " alt="" coords="1512,339,1619,368"/>
+<area shape="rect" id="node23" href="$class_message.html" title="create Message object " alt="" coords="587,323,661,352"/>
+<area shape="rect" id="node47" href="$class_message_batch_serialized.html" title="Message variant containing multiple serialized Message variants. " alt="" coords="1081,177,1247,207"/>
+<area shape="rect" id="node25" href="$struct_message_1_1message__s.html" title="Message POD (serializable by memcpy) data members. " alt="" coords="292,323,441,352"/>
+<area shape="rect" id="node27" href="$struct_topology_1_1address_struct.html" title="Topology::addressStruct" alt="" coords="7,323,169,352"/>
+<area shape="rect" id="node43" href="$struct_mboxes_1_1location__s.html" title="address and MboxProducer for an actor " alt="" coords="1863,141,1996,171"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="getPartitionid" name="getPartitionid">
+<area shape="rect" id="node3" href="$class_transaction_agent.html#ae981321663354b6ed9fc6353bdd9f08b" title="for replica to apply transaction changes synchronously " alt="" coords="152,13,371,43"/>
+<area shape="rect" id="node5" href="$class_transaction_agent.html#abe6035d3eb84620ebbdcdfce3d34fc3b" title="TransactionAgent::Transaction\lAgent" alt="" coords="419,5,619,51"/>
+</map>

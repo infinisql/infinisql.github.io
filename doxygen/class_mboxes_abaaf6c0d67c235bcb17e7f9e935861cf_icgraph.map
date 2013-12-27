@@ -1,0 +1,51 @@
+<map id="Mboxes::sendObBatch" name="Mboxes::sendObBatch">
+<area shape="rect" id="node3" href="$class_deadlock_mgr.html#a5c8f452651eff47d9cf41d745fcfe123" title="execute Deadlock Manager actor " alt="" coords="208,5,392,35"/>
+<area shape="rect" id="node5" href="$class_engine.html#a7011d511bfa3f3f7d5c4d9fde79c364e" title="execute Engine actor " alt="" coords="1493,1136,1603,1165"/>
+<area shape="rect" id="node7" href="$class_mbox_producer.html#a9ca818bdf4ef9bacbaa6cb1d63a68dbd" title="produce Message onto mailbox " alt="" coords="217,751,383,780"/>
+<area shape="rect" id="node28" href="$class_transaction_agent.html#abe6035d3eb84620ebbdcdfce3d34fc3b" title="TransactionAgent::Transaction\lAgent" alt="" coords="1448,737,1648,783"/>
+<area shape="rect" id="node101" href="$class_user_schema_mgr.html#afd786170810e7cc8a3518389ce38623c" title="UserSchemaMgr::UserSchemaMgr" alt="" coords="891,109,1117,139"/>
+<area shape="rect" id="node9" href="$class_listener.html#a7451a0ef5a2fac04820d0aaa38565aeb" title="Listener::Listener" alt="" coords="447,804,569,833"/>
+<area shape="rect" id="node11" href="$class_mboxes.html#a91b938e3db8b15f7dffbe9a3b04b8d1a" title="produce Message for specific actor " alt="" coords="449,751,567,780"/>
+<area shape="rect" id="node103" href="$class_mboxes.html#a956f8e7626423edfd33db7a185b8b352" title="produce Message for Engine associated with specific partition " alt="" coords="441,1483,575,1512"/>
+<area shape="rect" id="node13" href="$class_deadlock_mgr.html#a78c7aec43873049cdb8f94de32a7cf80" title="DeadlockMgr::deadlock" alt="" coords="655,347,812,376"/>
+<area shape="rect" id="node17" href="$class_engine.html#a3da7c03f7f6cb46613dfc154a7005d71" title="replicate set of row or index items to data partition " alt="" coords="1232,1068,1333,1097"/>
+<area shape="rect" id="node20" href="$class_ib_gateway.html#a5b071ddb9c3c7a00b5a7ecd5c8a11645" title="process compressed batch of incoming messages " alt="" coords="652,425,815,455"/>
+<area shape="rect" id="node24" href="$class_mboxes.html#ad590feb7f8bacbf2054bfce186ee6f2e" title="produce Message for replica&#39;s UserSchemaMgr " alt="" coords="641,751,825,780"/>
+<area shape="rect" id="node53" href="$class_mboxes.html#ad1d826e7209b73d50101b5928c217f10" title="produce Message for replica&#39;s DeadlockMgr " alt="" coords="652,264,815,293"/>
+<area shape="rect" id="node61" href="$class_mboxes.html#a4c25d9d33e5d4c00a45f6864421de408" title="Mboxes::toAllOfType" alt="" coords="661,529,805,559"/>
+<area shape="rect" id="node69" href="$class_mboxes.html#aa94691ea18b6a5d834ba913a9a7aae07" title="produce Message destined to all actors of type on current replica " alt="" coords="627,1059,840,1088"/>
+<area shape="rect" id="node71" href="$class_sub_transaction.html#ae5f64c4e1385fa0859202ad3f4aaa107" title="reply to calling TransactionAgent " alt="" coords="625,1124,841,1153"/>
+<area shape="rect" id="node82" href="$class_transaction.html#a109bd0f1d70b6ff69cf3abccf7eea8f8" title="COMMIT. " alt="" coords="1212,1736,1353,1765"/>
+<area shape="rect" id="node90" href="$class_transaction_agent.html#a276ba1d319a904b3d2cb5b7760ca7ecc" title="called by loadprocedure " alt="" coords="897,955,1111,984"/>
+<area shape="rect" id="node96" href="$class_transaction_agent.html#ae981321663354b6ed9fc6353bdd9f08b" title="for replica to apply transaction changes synchronously " alt="" coords="624,1349,843,1379"/>
+<area shape="rect" id="node99" href="$class_user_schema_mgr.html#a4dd9d1b0133f8135b7c3c505c10493f6" title="perform operation (currently only login for SQL) " alt="" coords="643,189,824,235"/>
+<area shape="rect" id="node15" href="$class_deadlock_mgr.html#a2d29441e8fedf37dbef97ddf34b51344" title="walk the wait&#45;for graph for items this transactionid is waiting for " alt="" coords="937,323,1071,352"/>
+<area shape="rect" id="node22" href="$class_ib_gateway.html#a1c95ace62b65d00e7170194a2aa9bfb9" title="execute Inbound Gateway " alt="" coords="927,376,1081,405"/>
+<area shape="rect" id="node26" href="$class_transaction_agent.html#abb8479d4599bc129ade4c148e0a813f6" title="login " alt="" coords="1204,852,1361,881"/>
+<area shape="rect" id="node30" href="$class_transaction_agent.html#a5b197a6f45bd8a05994f9252332c3b04" title="change password " alt="" coords="1168,905,1397,935"/>
+<area shape="rect" id="node33" href="$class_transaction_agent.html#ac4b282414d3b2df348c418b87abc6fda" title="create domain " alt="" coords="1177,639,1388,668"/>
+<area shape="rect" id="node36" href="$class_transaction_agent.html#ace0343f70e795b25c7d2202cc9e2d990" title="create user " alt="" coords="1187,692,1379,721"/>
+<area shape="rect" id="node39" href="$class_transaction_agent.html#a59b6245bf3e072c73329764a0b527260" title="delete user " alt="" coords="1187,745,1379,775"/>
+<area shape="rect" id="node42" href="$class_transaction_agent.html#aabd5c9203e13ca31a1a3ea7241bd4f85" title="delete domain " alt="" coords="1179,799,1387,828"/>
+<area shape="rect" id="node45" href="$class_transaction_agent.html#afd3364c54ec5e8432c5bb06f610170f5" title="common code for many operations, such as login, create table, etc " alt="" coords="915,581,1093,627"/>
+<area shape="rect" id="node47" href="$class_transaction_agent.html#a3708411d5f2ecc05c73956df8fd55817" title="create table " alt="" coords="1185,532,1380,561"/>
+<area shape="rect" id="node50" href="$class_transaction_agent.html#a7a3c3c5d2cdd473e05900dd77086ae63" title="add column " alt="" coords="1185,585,1380,615"/>
+<area shape="rect" id="node55" href="$class_transaction.html#a2231ad9b5a2e301fc4997a7c1b1b01ad" title="based on type of lock and other factors, intiate deadlock management " alt="" coords="924,216,1084,245"/>
+<area shape="rect" id="node57" href="$class_transaction.html#a4240edd50851557679a29d6b20e6096c" title="deprecated " alt="" coords="927,269,1081,299"/>
+<area shape="rect" id="node59" href="$class_transaction.html#a719b7a009de355d79d16d68034662bda" title="orphan " alt="" coords="915,163,1093,192"/>
+<area shape="rect" id="node66" href="$class_transaction_agent.html#a9e808c79db27d1222cc8f4f98d866a04" title="compile SQL statement " alt="" coords="1195,453,1371,483"/>
+<area shape="rect" id="node73" href="$class_sub_transaction.html#a5ebf6d9a4c5d0ed4bed429badc2e9a97" title="handle incoming MessageTransaction variant " alt="" coords="1165,1127,1400,1174"/>
+<area shape="rect" id="node76" href="$class_sub_transaction.html#a1fbee5d63e7eaf2288d0d002e205d4ce" title="drain queue of transactions waiting for locked row " alt="" coords="916,1058,1092,1105"/>
+<area shape="rect" id="node79" href="$class_sub_transaction.html#a1b869541c0f2b15909117699906d149e" title="drain queue of transactions waiting for locked unique index entry " alt="" coords="913,1127,1095,1174"/>
+<area shape="rect" id="node84" href="$class_api_interface.html#a95a01b40504d9f5b8024221f2805409c" title="commit transaction " alt="" coords="1477,1789,1619,1819"/>
+<area shape="rect" id="node86" href="$class_pg.html#a5c7a5cc08d6f879c72e2a5e9515ae7a8" title="implicit commit " alt="" coords="1475,1683,1621,1712"/>
+<area shape="rect" id="node88" href="$class_pg.html#a55518b7c783c58e23badcc740e96cd8e" title="explicit commit " alt="" coords="1475,1736,1621,1765"/>
+<area shape="rect" id="node93" href="$class_transaction_agent.html#a7522dec06fd92d63d98b5afff843f0e2" title="load stored procedure " alt="" coords="1176,1009,1389,1039"/>
+<area shape="rect" id="node105" href="$class_transaction.html#a58d291fe5c0ee6984aa71a79c7126376" title="send MessageTransaction variant to Engine " alt="" coords="636,1483,831,1512"/>
+<area shape="rect" id="node115" href="$class_transaction.html#a7466fd171b67232f43e9a540950f2413" title="continuation of COMMIT " alt="" coords="908,1615,1100,1662"/>
+<area shape="rect" id="node118" href="$class_transaction.html#a000e4f0882139eb8470f7472ca14a24e" title="ROLLBACK. " alt="" coords="933,1563,1075,1592"/>
+<area shape="rect" id="node107" href="$class_api_interface.html#ad7927617d71f0bf3175cb96775be8d44" title="deprecated " alt="" coords="925,1509,1083,1539"/>
+<area shape="rect" id="node109" href="$class_api_interface.html#a3de7a816d521ff799e3e4c5131b1cd92" title="deprecated " alt="" coords="923,1349,1085,1379"/>
+<area shape="rect" id="node111" href="$class_ast.html#a229d1f25bd5f15a7f8a2b1a44ea26ed9" title="Ast::evaluate" alt="" coords="955,1403,1053,1432"/>
+<area shape="rect" id="node113" href="$class_statement.html#a4d278eaa6b77688702b33b4ad73baaf8" title="SELECT, INSERT, UPDATE, DELETE, stored proc branch to. " alt="" coords="921,1456,1087,1485"/>
+</map>

@@ -1,0 +1,51 @@
+<map id="Pg::continuePgFunc" name="Pg::continuePgFunc">
+<area shape="rect" id="node3" href="$class_pg.html#a23146f712d62c6b5c4537b55dbc89727" title="close socket " alt="" coords="676,623,791,652"/>
+<area shape="rect" id="node31" href="$class_pg.html#aaa7af6e009006b5eb3c4ff8324ac2d6c" title="output error based on Transaction::resultCode " alt="" coords="215,901,324,931"/>
+<area shape="rect" id="node39" href="$class_pg.html#a8422838d3a7e83f6db18eceb18817588" title="write response messages to socket " alt="" coords="677,849,789,879"/>
+<area shape="rect" id="node44" href="$class_pg.html#af5367b8b342543bd56c310ff0afe2aea" title="write completed command to outbound message buffer " alt="" coords="644,1056,823,1085"/>
+<area shape="rect" id="node48" href="$class_pg.html#a1a74f6c5437f7e8faea3f875fc9a73c4" title="write rows to outbound message buffer " alt="" coords="671,1109,796,1139"/>
+<area shape="rect" id="node52" href="$class_pg.html#aa27e5bcd510d4b5a3203b8a8191273c2" title="write notice to outbound message buffer " alt="" coords="653,1163,813,1192"/>
+<area shape="rect" id="node56" href="$class_pg.html#ab381a3f0ef9beb0470e5aaff768d404d" title="write field names to outbound message buffer " alt="" coords="655,1267,812,1296"/>
+<area shape="rect" id="node60" href="$class_pg.html#a55518b7c783c58e23badcc740e96cd8e" title="explicit commit " alt="" coords="196,516,343,545"/>
+<area shape="rect" id="node106" href="$class_pg.html#a5c7a5cc08d6f879c72e2a5e9515ae7a8" title="implicit commit " alt="" coords="196,425,343,455"/>
+<area shape="rect" id="node114" href="$class_pg.html#a26dfda1f20b2fdaac85986fa3dd7ebca" title="explicit rollback " alt="" coords="195,767,344,796"/>
+<area shape="rect" id="node124" href="$class_pg.html#ac7dab9ff8d6e0a409b2e645605ca52e6" title="implicit rollback " alt="" coords="195,980,344,1009"/>
+<area shape="rect" id="node5" href="$class_api_interface.html#a0ec871d856f976629ce78d5fc3e4e9d5" title="continuation function after implicit commit " alt="" coords="900,553,1065,599"/>
+<area shape="rect" id="node7" href="$class_pg.html#ac6ac0dd94a70fd221b3807ecf908f251" title="more socket closing&#45;related activities " alt="" coords="917,623,1048,652"/>
+<area shape="rect" id="node9" href="$class_transaction.html#a000e4f0882139eb8470f7472ca14a24e" title="ROLLBACK. " alt="" coords="912,676,1053,705"/>
+<area shape="rect" id="node11" href="$class_transaction.html#a58d291fe5c0ee6984aa71a79c7126376" title="send MessageTransaction variant to Engine " alt="" coords="1141,403,1336,432"/>
+<area shape="rect" id="node13" href="$class_mboxes.html#a956f8e7626423edfd33db7a185b8b352" title="produce Message for Engine associated with specific partition " alt="" coords="1393,428,1527,457"/>
+<area shape="rect" id="node29" href="$class_transaction.html#a62cfbd3f256c6b36cfdd16cddf1ab5fe" title="continue back to calling function " alt="" coords="1169,349,1308,379"/>
+<area shape="rect" id="node15" href="$class_mbox_producer.html#a9ca818bdf4ef9bacbaa6cb1d63a68dbd" title="produce Message onto mailbox " alt="" coords="1585,481,1751,511"/>
+<area shape="rect" id="node26" href="$class_message.html#a8f4edea412ed3bbaa8d3cf2d1d48b8b3" title="put addresses in Message variant envelope " alt="" coords="1591,428,1745,457"/>
+<area shape="rect" id="node17" href="$class_mbox.html#a5311178f7221ffa942fa128424ac9a86" title="create 128bit integer from Message object " alt="" coords="1800,428,1987,457"/>
+<area shape="rect" id="node19" href="$class_mbox.html#ae545aa094bc902b10f9b1e042c24e42b" title="return Message pointer from 128bit integer " alt="" coords="1845,481,1941,511"/>
+<area shape="rect" id="node21" href="$class_mboxes.html#abaaf6c0d67c235bcb17e7f9e935861cf" title="send batched Message objects destined to remote nodes " alt="" coords="1816,535,1971,564"/>
+<area shape="rect" id="node24" href="$class_message.html#a4508c42d7366a86327ca3076eb1ff007" title="return serialized Message variant string " alt="" coords="1831,375,1956,404"/>
+<area shape="rect" id="node33" href="$class_pg.html#a79e2585fe00a44c7064745113cf6816a" title="write error to outbound message buffer " alt="" coords="419,901,568,931"/>
+<area shape="rect" id="node35" href="$class_pg.html#aa3859c82746de187e1eaaa2af79763bb" title="write data to outbound message buffer " alt="" coords="951,1069,1015,1099"/>
+<area shape="rect" id="node37" href="$class_pg.html#a3ea550f9d0d24a3c7aeb736b83c86bcb" title="put message for reply into outbound buffer " alt="" coords="933,1136,1032,1165"/>
+<area shape="rect" id="node62" href="$class_pg.html#af53fe07c0c0a879e0291e723dff34926" title="continuation function after explicit commit " alt="" coords="395,624,592,653"/>
+<area shape="rect" id="node67" href="$class_api_interface.html#acc92546b7e795c8d327ac765ff3d2eea" title="continuation function after explicit commit " alt="" coords="411,503,576,550"/>
+<area shape="rect" id="node69" href="$class_transaction.html#a109bd0f1d70b6ff69cf3abccf7eea8f8" title="COMMIT. " alt="" coords="663,344,804,373"/>
+<area shape="rect" id="node71" href="$class_transaction.html#abfb2d360e416bdf8dc2453a4642c93b8" title="generate unique, always incrementing id for pending command " alt="" coords="872,339,1093,368"/>
+<area shape="rect" id="node73" href="$class_transaction.html#a7466fd171b67232f43e9a540950f2413" title="continuation of COMMIT " alt="" coords="887,257,1079,303"/>
+<area shape="rect" id="node100" href="$class_transaction.html#aaaab2fa0d5c4c49e970461eabca86783" title="create MessageDispatch for synchronous replication " alt="" coords="892,391,1073,438"/>
+<area shape="rect" id="node102" href="$class_mboxes.html#a91b938e3db8b15f7dffbe9a3b04b8d1a" title="produce Message for specific actor " alt="" coords="1401,481,1519,511"/>
+<area shape="rect" id="node75" href="$class_transaction.html#aa741adabd498325416959375fb3ac6c2" title="add entry (row or field) to list for Engine processing " alt="" coords="1169,243,1308,272"/>
+<area shape="rect" id="node77" href="$class_table.html#a1f82fb5350dd9409ba854b73efe569ee" title="extract fields from row string " alt="" coords="1175,296,1303,325"/>
+<area shape="rect" id="node79" href="$defs_8h.html#a1893cfdf91d0c9c964e3791c550894c8" title="trimspace" alt="" coords="1200,139,1277,168"/>
+<area shape="rect" id="node81" href="$class_transaction.html#a43be7c7b2347ad858b594ab1c6537b64" title="get engineid/partitionid based on hash of this fieldValues " alt="" coords="1156,85,1321,115"/>
+<area shape="rect" id="node83" href="$class_spooky_hash.html#acabbc1948064bffaf1c7ed4e78cc1a30" title="SpookyHash::Hash64" alt="" coords="1385,85,1535,115"/>
+<area shape="rect" id="node85" href="$class_spooky_hash.html#a9d8973d46becbc8036c458fae3efc3a5" title="SpookyHash::Hash128" alt="" coords="1589,85,1747,115"/>
+<area shape="rect" id="node87" href="$class_spooky_hash.html#af9b11a6c6092014a571c337db7a0dac8" title="SpookyHash::Short" alt="" coords="1825,32,1961,61"/>
+<area shape="rect" id="node93" href="$class_spooky_hash.html#a749e6012af3d67884a323e227105e032" title="SpookyHash::Mix" alt="" coords="1831,85,1956,115"/>
+<area shape="rect" id="node95" href="$class_spooky_hash.html#ae93bdc4013fbfa7d4ce9bfadf8fe953b" title="SpookyHash::End" alt="" coords="1829,139,1957,168"/>
+<area shape="rect" id="node89" href="$class_spooky_hash.html#a2a18b61b405f43f283ba9a20016b5b9f" title="SpookyHash::ShortMix" alt="" coords="2036,5,2193,35"/>
+<area shape="rect" id="node91" href="$class_spooky_hash.html#a5b01b1a2b3270e9c11244a6702b0db59" title="SpookyHash::ShortEnd" alt="" coords="2036,59,2193,88"/>
+<area shape="rect" id="node108" href="$class_pg.html#adc7f4444738cd3201d51fd254c28f353" title="continuation function after implicit commit " alt="" coords="395,451,592,480"/>
+<area shape="rect" id="node116" href="$class_pg.html#a5bdee216f5c823ca136fee3c50a53d7c" title="continuation function after explicit rollback " alt="" coords="392,797,595,827"/>
+<area shape="rect" id="node121" href="$class_api_interface.html#a4a2fa36d3536536a94b1a84165cb946e" title="continuation function after explicit rollback " alt="" coords="411,727,576,774"/>
+<area shape="rect" id="node126" href="$class_pg.html#a23d0ef3e3908161087c7452d459da402" title="continuation function after implicit rollback " alt="" coords="392,1005,595,1035"/>
+<area shape="rect" id="node128" href="$class_api_interface.html#a0b9c5cae7628c13a1680bb75502b702b" title="continuation function after implicit rollback " alt="" coords="411,1058,576,1105"/>
+</map>

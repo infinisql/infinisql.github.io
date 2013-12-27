@@ -1,0 +1,28 @@
+var searchData=
+[
+  ['abstimeoid',['ABSTIMEOID',['../pgoids_8h.html#a76a0a3d727bacc3a3b88aa06089d217f',1,'pgoids.h']]],
+  ['aclitemoid',['ACLITEMOID',['../pgoids_8h.html#a60d0c67640c5d0e0c7905f90246603de',1,'pgoids.h']]],
+  ['addflag',['ADDFLAG',['../_message_8h.html#a5c7919529fc24b81f7b1647904ce31f9',1,'Message.h']]],
+  ['aggregate_5favg',['AGGREGATE_AVG',['../defs_8h.html#a9a42b6a8c1d88f73673a635a87af1f0c',1,'defs.h']]],
+  ['aggregate_5fcount',['AGGREGATE_COUNT',['../defs_8h.html#adb83264dcaddff51f0019385b00e52e2',1,'defs.h']]],
+  ['aggregate_5fmax',['AGGREGATE_MAX',['../defs_8h.html#a646d7cb7e3df941f880fe0942afb039a',1,'defs.h']]],
+  ['aggregate_5fmin',['AGGREGATE_MIN',['../defs_8h.html#a60664fdfa29311352d3cb7c1ab7d414b',1,'defs.h']]],
+  ['aggregate_5fsum',['AGGREGATE_SUM',['../defs_8h.html#a8098500af6be4b7a63af6b297d7b5238',1,'defs.h']]],
+  ['allow_5funaligned_5freads',['ALLOW_UNALIGNED_READS',['../spooky_8cc.html#a3a68e57d8423fae2c17b76895fc4807d',1,'spooky.cc']]],
+  ['anyarrayoid',['ANYARRAYOID',['../pgoids_8h.html#a6997f61cb12d51e24ef07b2fc15585f7',1,'pgoids.h']]],
+  ['anyelementoid',['ANYELEMENTOID',['../pgoids_8h.html#ab5484e1ef8c3cf6d8b01153b76c3b329',1,'pgoids.h']]],
+  ['anyenumoid',['ANYENUMOID',['../pgoids_8h.html#a3849411a04480b9409f3c0948066481c',1,'pgoids.h']]],
+  ['anynonarrayoid',['ANYNONARRAYOID',['../pgoids_8h.html#af180d809c04b565c5f66280e4bf4e0ff',1,'pgoids.h']]],
+  ['anyoid',['ANYOID',['../pgoids_8h.html#ad54e36d3a0934d1d7dff0b1d35f343bc',1,'pgoids.h']]],
+  ['anyrangeoid',['ANYRANGEOID',['../pgoids_8h.html#ae254170133ba3f14edbce7030997ba10',1,'pgoids.h']]],
+  ['apistatus_5fdeadlock',['APISTATUS_DEADLOCK',['../infinisql_8h.html#a571c7c1dc59ad141952d3c50f05dee92',1,'infinisql.h']]],
+  ['apistatus_5ffield',['APISTATUS_FIELD',['../infinisql_8h.html#ab706feaed09a8f1c80bbdce710239a99',1,'infinisql.h']]],
+  ['apistatus_5ffound',['APISTATUS_FOUND',['../infinisql_8h.html#a7b1852ce4ce7c7636533b31741fd3be9',1,'infinisql.h']]],
+  ['apistatus_5flock',['APISTATUS_LOCK',['../infinisql_8h.html#a3d71642f901001a806f82a69e71b8762',1,'infinisql.h']]],
+  ['apistatus_5fnotok',['APISTATUS_NOTOK',['../infinisql_8h.html#a5532e9f63f016637c4eb0b9fe45e388f',1,'infinisql.h']]],
+  ['apistatus_5fnullconstraint',['APISTATUS_NULLCONSTRAINT',['../infinisql_8h.html#a901908d718d2d48a0b04c0a09a61119f',1,'infinisql.h']]],
+  ['apistatus_5fok',['APISTATUS_OK',['../infinisql_8h.html#a6c73fcab3381288cc82d1dcee520b8ef',1,'infinisql.h']]],
+  ['apistatus_5fpending',['APISTATUS_PENDING',['../infinisql_8h.html#a1b15d5d77ce8329668c96c2ef2cde8b8',1,'infinisql.h']]],
+  ['apistatus_5fstate',['APISTATUS_STATE',['../infinisql_8h.html#a47e5c8fc96ad5054acbdda2f51edc5a3',1,'infinisql.h']]],
+  ['apistatus_5funiqueconstraint',['APISTATUS_UNIQUECONSTRAINT',['../infinisql_8h.html#a25d4d015c0c16a4d1cf32420aed6f1a9',1,'infinisql.h']]]
+];

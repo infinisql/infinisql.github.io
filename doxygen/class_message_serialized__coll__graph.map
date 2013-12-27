@@ -1,0 +1,7 @@
+<map id="MessageSerialized" name="MessageSerialized">
+<area shape="rect" id="node2" href="$class_message.html" title="create Message object " alt="" coords="87,232,161,261"/>
+<area shape="rect" id="node4" href="$struct_message_1_1message__s.html" title="Message POD (serializable by memcpy) data members. " alt="" coords="12,127,161,156"/>
+<area shape="rect" id="node6" href="$struct_topology_1_1address_struct.html" title="Topology::addressStruct" alt="" coords="5,5,168,35"/>
+<area shape="rect" id="node8" title="STL class. " alt="" coords="200,232,280,261"/>
+<area shape="rect" id="node10" title="STL class. " alt="" coords="185,118,311,165"/>
+</map>

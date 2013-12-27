@@ -1,0 +1,5 @@
+<map id="TransactionAgent::ping" name="TransactionAgent::ping">
+<area shape="rect" id="node3" href="$class_transaction_agent.html#afeb56ce4d08a9a26fee880cfb60f0d17" title="send raw protocol TCP responses to builtins, ping, login, logout, etc. " alt="" coords="211,32,429,61"/>
+<area shape="rect" id="node5" href="$_transaction_agent_8cc.html#a6eddc9f5e393af42f14abc5dcd87b218" title="makeSbuf" alt="" coords="547,5,627,35"/>
+<area shape="rect" id="node7" href="$class_transaction_agent.html#a5b15abb67572d7eac45cfff0030441fb" title="finish TCP connection on raw interface (not SQL interface) " alt="" coords="477,59,696,88"/>
+</map>

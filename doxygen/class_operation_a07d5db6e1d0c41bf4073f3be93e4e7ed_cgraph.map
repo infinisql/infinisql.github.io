@@ -1,0 +1,22 @@
+<map id="Operation::handleOperation" name="Operation::handleOperation">
+<area shape="rect" id="node3" href="$class_pg.html#aee8ca6d9759c75c81a8d41679744b31e" title="continuation after login operation " alt="" coords="236,164,361,193"/>
+<area shape="rect" id="node5" href="$class_pg.html#a9b16e732905412fd19a9b1c75e62ced3" title="write authenticationok status to outbound message buffer " alt="" coords="412,137,575,167"/>
+<area shape="rect" id="node47" href="$class_pg.html#a79e2585fe00a44c7064745113cf6816a" title="write error to outbound message buffer " alt="" coords="419,191,568,220"/>
+<area shape="rect" id="node7" href="$class_pg.html#aa3859c82746de187e1eaaa2af79763bb" title="write data to outbound message buffer " alt="" coords="885,73,949,103"/>
+<area shape="rect" id="node9" href="$class_pg.html#a3ea550f9d0d24a3c7aeb736b83c86bcb" title="put message for reply into outbound buffer " alt="" coords="868,151,967,180"/>
+<area shape="rect" id="node11" href="$class_pg.html#afbe09ff203b419a42ad234f906959c8a" title="write server parameters in status message to outbound message buffer " alt="" coords="624,35,787,64"/>
+<area shape="rect" id="node15" href="$class_pg.html#a8422838d3a7e83f6db18eceb18817588" title="write response messages to socket " alt="" coords="649,189,761,219"/>
+<area shape="rect" id="node19" href="$class_pg.html#a23146f712d62c6b5c4537b55dbc89727" title="close socket " alt="" coords="648,293,763,323"/>
+<area shape="rect" id="node21" href="$class_pg.html#ac6ac0dd94a70fd221b3807ecf908f251" title="more socket closing&#45;related activities " alt="" coords="852,347,983,376"/>
+<area shape="rect" id="node23" href="$class_api_interface.html#a0ec871d856f976629ce78d5fc3e4e9d5" title="continuation function after implicit commit " alt="" coords="835,223,1000,270"/>
+<area shape="rect" id="node25" href="$class_transaction.html#a000e4f0882139eb8470f7472ca14a24e" title="ROLLBACK. " alt="" coords="847,293,988,323"/>
+<area shape="rect" id="node27" href="$class_transaction.html#a58d291fe5c0ee6984aa71a79c7126376" title="send MessageTransaction variant to Engine " alt="" coords="1048,241,1243,271"/>
+<area shape="rect" id="node29" href="$class_mboxes.html#a956f8e7626423edfd33db7a185b8b352" title="produce Message for Engine associated with specific partition " alt="" coords="1292,268,1425,297"/>
+<area shape="rect" id="node45" href="$class_transaction.html#a62cfbd3f256c6b36cfdd16cddf1ab5fe" title="continue back to calling function " alt="" coords="1076,345,1215,375"/>
+<area shape="rect" id="node31" href="$class_mbox_producer.html#a9ca818bdf4ef9bacbaa6cb1d63a68dbd" title="produce Message onto mailbox " alt="" coords="1476,241,1641,271"/>
+<area shape="rect" id="node42" href="$class_message.html#a8f4edea412ed3bbaa8d3cf2d1d48b8b3" title="put addresses in Message variant envelope " alt="" coords="1481,295,1636,324"/>
+<area shape="rect" id="node33" href="$class_mbox.html#a5311178f7221ffa942fa128424ac9a86" title="create 128bit integer from Message object " alt="" coords="1691,135,1877,164"/>
+<area shape="rect" id="node35" href="$class_mbox.html#ae545aa094bc902b10f9b1e042c24e42b" title="return Message pointer from 128bit integer " alt="" coords="1736,188,1832,217"/>
+<area shape="rect" id="node37" href="$class_mboxes.html#abaaf6c0d67c235bcb17e7f9e935861cf" title="send batched Message objects destined to remote nodes " alt="" coords="1707,241,1861,271"/>
+<area shape="rect" id="node40" href="$class_message.html#a4508c42d7366a86327ca3076eb1ff007" title="return serialized Message variant string " alt="" coords="1721,295,1847,324"/>
+</map>

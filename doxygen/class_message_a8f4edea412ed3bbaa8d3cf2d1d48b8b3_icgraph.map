@@ -1,0 +1,51 @@
+<map id="Message::setEnvelope" name="Message::setEnvelope">
+<area shape="rect" id="node3" href="$class_mboxes.html#a91b938e3db8b15f7dffbe9a3b04b8d1a" title="produce Message for specific actor " alt="" coords="217,717,335,747"/>
+<area shape="rect" id="node96" href="$class_mboxes.html#a956f8e7626423edfd33db7a185b8b352" title="produce Message for Engine associated with specific partition " alt="" coords="209,253,343,283"/>
+<area shape="rect" id="node5" href="$class_engine.html#a3da7c03f7f6cb46613dfc154a7005d71" title="replicate set of row or index items to data partition " alt="" coords="1000,389,1101,419"/>
+<area shape="rect" id="node9" href="$class_transaction.html#a109bd0f1d70b6ff69cf3abccf7eea8f8" title="COMMIT. " alt="" coords="980,313,1121,343"/>
+<area shape="rect" id="node17" href="$class_deadlock_mgr.html#a78c7aec43873049cdb8f94de32a7cf80" title="DeadlockMgr::deadlock" alt="" coords="423,1480,580,1509"/>
+<area shape="rect" id="node21" href="$class_transaction_agent.html#ae981321663354b6ed9fc6353bdd9f08b" title="for replica to apply transaction changes synchronously " alt="" coords="392,603,611,632"/>
+<area shape="rect" id="node25" href="$class_ib_gateway.html#a5b071ddb9c3c7a00b5a7ecd5c8a11645" title="process compressed batch of incoming messages " alt="" coords="420,656,583,685"/>
+<area shape="rect" id="node29" href="$class_transaction_agent.html#a276ba1d319a904b3d2cb5b7760ca7ecc" title="called by loadprocedure " alt="" coords="665,1293,879,1323"/>
+<area shape="rect" id="node35" href="$class_user_schema_mgr.html#a4dd9d1b0133f8135b7c3c505c10493f6" title="perform operation (currently only login for SQL) " alt="" coords="411,709,592,755"/>
+<area shape="rect" id="node39" href="$class_sub_transaction.html#ae5f64c4e1385fa0859202ad3f4aaa107" title="reply to calling TransactionAgent " alt="" coords="393,509,609,539"/>
+<area shape="rect" id="node50" href="$class_mboxes.html#a4c25d9d33e5d4c00a45f6864421de408" title="Mboxes::toAllOfType" alt="" coords="429,796,573,825"/>
+<area shape="rect" id="node65" href="$class_mboxes.html#aa94691ea18b6a5d834ba913a9a7aae07" title="produce Message destined to all actors of type on current replica " alt="" coords="395,849,608,879"/>
+<area shape="rect" id="node67" href="$class_mboxes.html#ad1d826e7209b73d50101b5928c217f10" title="produce Message for replica&#39;s DeadlockMgr " alt="" coords="420,1373,583,1403"/>
+<area shape="rect" id="node75" href="$class_mboxes.html#ad590feb7f8bacbf2054bfce186ee6f2e" title="produce Message for replica&#39;s UserSchemaMgr " alt="" coords="409,1059,593,1088"/>
+<area shape="rect" id="node7" href="$class_engine.html#a7011d511bfa3f3f7d5c4d9fde79c364e" title="execute Engine actor " alt="" coords="1261,441,1371,471"/>
+<area shape="rect" id="node11" href="$class_api_interface.html#a95a01b40504d9f5b8024221f2805409c" title="commit transaction " alt="" coords="1245,367,1387,396"/>
+<area shape="rect" id="node13" href="$class_pg.html#a5c7a5cc08d6f879c72e2a5e9515ae7a8" title="implicit commit " alt="" coords="1243,260,1389,289"/>
+<area shape="rect" id="node15" href="$class_pg.html#a55518b7c783c58e23badcc740e96cd8e" title="explicit commit " alt="" coords="1243,313,1389,343"/>
+<area shape="rect" id="node19" href="$class_deadlock_mgr.html#a2d29441e8fedf37dbef97ddf34b51344" title="walk the wait&#45;for graph for items this transactionid is waiting for " alt="" coords="705,1507,839,1536"/>
+<area shape="rect" id="node23" href="$class_transaction_agent.html#abe6035d3eb84620ebbdcdfce3d34fc3b" title="TransactionAgent::Transaction\lAgent" alt="" coords="1216,1049,1416,1095"/>
+<area shape="rect" id="node27" href="$class_ib_gateway.html#a1c95ace62b65d00e7170194a2aa9bfb9" title="execute Inbound Gateway " alt="" coords="695,656,849,685"/>
+<area shape="rect" id="node32" href="$class_transaction_agent.html#a7522dec06fd92d63d98b5afff843f0e2" title="load stored procedure " alt="" coords="944,1343,1157,1372"/>
+<area shape="rect" id="node37" href="$class_user_schema_mgr.html#afd786170810e7cc8a3518389ce38623c" title="UserSchemaMgr::UserSchemaMgr" alt="" coords="659,709,885,739"/>
+<area shape="rect" id="node41" href="$class_sub_transaction.html#a5ebf6d9a4c5d0ed4bed429badc2e9a97" title="handle incoming MessageTransaction variant " alt="" coords="933,454,1168,501"/>
+<area shape="rect" id="node44" href="$class_sub_transaction.html#a1fbee5d63e7eaf2288d0d002e205d4ce" title="drain queue of transactions waiting for locked row " alt="" coords="684,466,860,513"/>
+<area shape="rect" id="node47" href="$class_sub_transaction.html#a1b869541c0f2b15909117699906d149e" title="drain queue of transactions waiting for locked unique index entry " alt="" coords="681,535,863,582"/>
+<area shape="rect" id="node52" href="$class_transaction_agent.html#a7a3c3c5d2cdd473e05900dd77086ae63" title="add column " alt="" coords="953,817,1148,847"/>
+<area shape="rect" id="node55" href="$class_transaction_agent.html#a9e808c79db27d1222cc8f4f98d866a04" title="compile SQL statement " alt="" coords="963,924,1139,953"/>
+<area shape="rect" id="node58" href="$class_transaction_agent.html#a3708411d5f2ecc05c73956df8fd55817" title="create table " alt="" coords="953,871,1148,900"/>
+<area shape="rect" id="node61" href="$class_transaction_agent.html#afd3364c54ec5e8432c5bb06f610170f5" title="common code for many operations, such as login, create table, etc " alt="" coords="683,863,861,910"/>
+<area shape="rect" id="node69" href="$class_transaction.html#a4240edd50851557679a29d6b20e6096c" title="deprecated " alt="" coords="695,1347,849,1376"/>
+<area shape="rect" id="node71" href="$class_transaction.html#a2231ad9b5a2e301fc4997a7c1b1b01ad" title="based on type of lock and other factors, intiate deadlock management " alt="" coords="692,1400,852,1429"/>
+<area shape="rect" id="node73" href="$class_transaction.html#a719b7a009de355d79d16d68034662bda" title="orphan " alt="" coords="683,1453,861,1483"/>
+<area shape="rect" id="node77" href="$class_transaction_agent.html#a5b197a6f45bd8a05994f9252332c3b04" title="change password " alt="" coords="936,977,1165,1007"/>
+<area shape="rect" id="node80" href="$class_transaction_agent.html#ac4b282414d3b2df348c418b87abc6fda" title="create domain " alt="" coords="945,1031,1156,1060"/>
+<area shape="rect" id="node83" href="$class_transaction_agent.html#ace0343f70e795b25c7d2202cc9e2d990" title="create user " alt="" coords="955,1084,1147,1113"/>
+<area shape="rect" id="node86" href="$class_transaction_agent.html#aabd5c9203e13ca31a1a3ea7241bd4f85" title="delete domain " alt="" coords="947,1137,1155,1167"/>
+<area shape="rect" id="node89" href="$class_transaction_agent.html#a59b6245bf3e072c73329764a0b527260" title="delete user " alt="" coords="676,1187,868,1216"/>
+<area shape="rect" id="node92" href="$class_transaction_agent.html#abb8479d4599bc129ade4c148e0a813f6" title="login " alt="" coords="693,1240,851,1269"/>
+<area shape="rect" id="node98" href="$class_transaction.html#a7466fd171b67232f43e9a540950f2413" title="continuation of COMMIT " alt="" coords="676,245,868,291"/>
+<area shape="rect" id="node104" href="$class_transaction.html#a000e4f0882139eb8470f7472ca14a24e" title="ROLLBACK. " alt="" coords="701,85,843,115"/>
+<area shape="rect" id="node114" href="$class_transaction.html#a58d291fe5c0ee6984aa71a79c7126376" title="send MessageTransaction variant to Engine " alt="" coords="404,192,599,221"/>
+<area shape="rect" id="node100" href="$class_transaction.html#a954645efeb9bb7f6a510dd33cc16851f" title="execute continuation based on MessageTransaction reply " alt="" coords="945,243,1156,290"/>
+<area shape="rect" id="node106" href="$class_api_interface.html#ad1d1423391f1dd6d14b537345b3f64cd" title="rollback transaction " alt="" coords="979,5,1123,35"/>
+<area shape="rect" id="node108" href="$class_pg.html#a23146f712d62c6b5c4537b55dbc89727" title="close socket " alt="" coords="993,59,1108,88"/>
+<area shape="rect" id="node110" href="$class_pg.html#ac7dab9ff8d6e0a409b2e645605ca52e6" title="implicit rollback " alt="" coords="976,112,1125,141"/>
+<area shape="rect" id="node112" href="$class_pg.html#a26dfda1f20b2fdaac85986fa3dd7ebca" title="explicit rollback " alt="" coords="976,165,1125,195"/>
+<area shape="rect" id="node116" href="$class_api_interface.html#ad7927617d71f0bf3175cb96775be8d44" title="deprecated " alt="" coords="693,192,851,221"/>
+<area shape="rect" id="node118" href="$class_api_interface.html#a3de7a816d521ff799e3e4c5131b1cd92" title="deprecated " alt="" coords="691,139,853,168"/>
+</map>

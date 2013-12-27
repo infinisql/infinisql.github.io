@@ -1,0 +1,14 @@
+<map id="Pg::sqlrollbackimplicit" name="Pg::sqlrollbackimplicit">
+<area shape="rect" id="node3" href="$class_pg.html#a23d0ef3e3908161087c7452d459da402" title="continuation function after implicit rollback " alt="" coords="203,41,405,71"/>
+<area shape="rect" id="node5" href="$class_api_interface.html#a0b9c5cae7628c13a1680bb75502b702b" title="continuation function after implicit rollback " alt="" coords="221,94,387,141"/>
+<area shape="rect" id="node7" href="$class_transaction.html#a000e4f0882139eb8470f7472ca14a24e" title="ROLLBACK. " alt="" coords="233,164,375,193"/>
+<area shape="rect" id="node9" href="$class_transaction.html#a58d291fe5c0ee6984aa71a79c7126376" title="send MessageTransaction variant to Engine " alt="" coords="453,112,648,141"/>
+<area shape="rect" id="node11" href="$class_mboxes.html#a956f8e7626423edfd33db7a185b8b352" title="produce Message for Engine associated with specific partition " alt="" coords="697,139,831,168"/>
+<area shape="rect" id="node27" href="$class_transaction.html#a62cfbd3f256c6b36cfdd16cddf1ab5fe" title="continue back to calling function " alt="" coords="481,216,620,245"/>
+<area shape="rect" id="node13" href="$class_mbox_producer.html#a9ca818bdf4ef9bacbaa6cb1d63a68dbd" title="produce Message onto mailbox " alt="" coords="881,112,1047,141"/>
+<area shape="rect" id="node24" href="$class_message.html#a8f4edea412ed3bbaa8d3cf2d1d48b8b3" title="put addresses in Message variant envelope " alt="" coords="887,165,1041,195"/>
+<area shape="rect" id="node15" href="$class_mbox.html#a5311178f7221ffa942fa128424ac9a86" title="create 128bit integer from Message object " alt="" coords="1096,5,1283,35"/>
+<area shape="rect" id="node17" href="$class_mbox.html#ae545aa094bc902b10f9b1e042c24e42b" title="return Message pointer from 128bit integer " alt="" coords="1141,59,1237,88"/>
+<area shape="rect" id="node19" href="$class_mboxes.html#abaaf6c0d67c235bcb17e7f9e935861cf" title="send batched Message objects destined to remote nodes " alt="" coords="1112,112,1267,141"/>
+<area shape="rect" id="node22" href="$class_message.html#a4508c42d7366a86327ca3076eb1ff007" title="return serialized Message variant string " alt="" coords="1127,165,1252,195"/>
+</map>

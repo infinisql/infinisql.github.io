@@ -1,0 +1,51 @@
+<map id="TransactionAgent::TransactionAgent" name="TransactionAgent::TransactionAgent">
+<area shape="rect" id="node3" href="$class_transaction_agent.html#a7a3c3c5d2cdd473e05900dd77086ae63" title="add column " alt="" coords="272,59,467,88"/>
+<area shape="rect" id="node13" href="$class_transaction_agent.html#afeb56ce4d08a9a26fee880cfb60f0d17" title="send raw protocol TCP responses to builtins, ping, login, logout, etc. " alt="" coords="813,411,1032,440"/>
+<area shape="rect" id="node15" href="$class_transaction_agent.html#a5b15abb67572d7eac45cfff0030441fb" title="finish TCP connection on raw interface (not SQL interface) " alt="" coords="1080,728,1299,757"/>
+<area shape="rect" id="node23" href="$class_transaction_agent.html#a2bf3540ee2945468e7222a3b965fe801" title="stub for Message variants that can&#39;t be handled otherwise " alt="" coords="267,1039,472,1086"/>
+<area shape="rect" id="node25" href="$class_transaction_agent.html#a5b197a6f45bd8a05994f9252332c3b04" title="change password " alt="" coords="535,357,764,387"/>
+<area shape="rect" id="node31" href="$class_transaction_agent.html#a9e808c79db27d1222cc8f4f98d866a04" title="compile SQL statement " alt="" coords="561,464,737,493"/>
+<area shape="rect" id="node37" href="$class_transaction_agent.html#ac4b282414d3b2df348c418b87abc6fda" title="create domain " alt="" coords="544,411,755,440"/>
+<area shape="rect" id="node43" href="$class_transaction_agent.html#aab53c4bfa995b9022cc36cc15d13aba5" title="create schema " alt="" coords="263,272,476,301"/>
+<area shape="rect" id="node46" href="$class_transaction_agent.html#a3708411d5f2ecc05c73956df8fd55817" title="create table " alt="" coords="272,5,467,35"/>
+<area shape="rect" id="node50" href="$class_transaction_agent.html#ace0343f70e795b25c7d2202cc9e2d990" title="create user " alt="" coords="553,197,745,227"/>
+<area shape="rect" id="node56" href="$class_transaction_agent.html#aabd5c9203e13ca31a1a3ea7241bd4f85" title="delete domain " alt="" coords="545,251,753,280"/>
+<area shape="rect" id="node62" href="$class_transaction_agent.html#a558d5f43203b188965159990809efe3f" title="delete index " alt="" coords="271,112,468,141"/>
+<area shape="rect" id="node65" href="$class_transaction_agent.html#a71760a1ab215c83cdd9ed7ad1fa38ff0" title="delete schema " alt="" coords="263,165,476,195"/>
+<area shape="rect" id="node68" href="$class_transaction_agent.html#a3a53d6669e67de446acf6da315a4be4a" title="delete table " alt="" coords="272,219,467,248"/>
+<area shape="rect" id="node71" href="$class_transaction_agent.html#a59b6245bf3e072c73329764a0b527260" title="delete user " alt="" coords="553,304,745,333"/>
+<area shape="rect" id="node78" href="$class_mbox.html#aae4e39be0a5c2f628793d55d2c64fb3d" title="return count component from 128bit integer " alt="" coords="312,1109,427,1139"/>
+<area shape="rect" id="node80" href="$class_mbox.html#ae545aa094bc902b10f9b1e042c24e42b" title="return Message pointer from 128bit integer " alt="" coords="321,1163,417,1192"/>
+<area shape="rect" id="node82" href="$class_transaction_agent.html#ae981321663354b6ed9fc6353bdd9f08b" title="for replica to apply transaction changes synchronously " alt="" coords="260,784,479,813"/>
+<area shape="rect" id="node93" href="$class_operation.html#a07d5db6e1d0c41bf4073f3be93e4e7ed" title="perform operation (only for SQL logins) " alt="" coords="280,1216,459,1245"/>
+<area shape="rect" id="node97" href="$class_transaction_agent.html#a7522dec06fd92d63d98b5afff843f0e2" title="load stored procedure " alt="" coords="263,731,476,760"/>
+<area shape="rect" id="node99" href="$class_transaction_agent.html#a276ba1d319a904b3d2cb5b7760ca7ecc" title="called by loadprocedure " alt="" coords="543,571,756,600"/>
+<area shape="rect" id="node104" href="$class_transaction_agent.html#abb8479d4599bc129ade4c148e0a813f6" title="login " alt="" coords="571,517,728,547"/>
+<area shape="rect" id="node114" href="$class_transaction_agent.html#a8fdb66b9bdd2755a11beeb8c017ba33f" title="logout " alt="" coords="567,992,732,1021"/>
+<area shape="rect" id="node119" href="$class_transaction_agent.html#aa1768b8a40117b4282d47a1aa07d2d35" title="called by compile to compile SQL statement " alt="" coords="263,1269,476,1299"/>
+<area shape="rect" id="node121" href="$class_pg.html#ac6ac0dd94a70fd221b3807ecf908f251" title="more socket closing&#45;related activities " alt="" coords="304,1323,435,1352"/>
+<area shape="rect" id="node123" href="$class_transaction_agent.html#af613bc9b5c27a3bb79e83249fff16279" title="ping operation " alt="" coords="572,939,727,968"/>
+<area shape="rect" id="node126" href="$class_transaction_agent.html#adce8d70cb7edc29d85df0d6f9b80aa76" title="read socket on raw interface " alt="" coords="271,1376,468,1405"/>
+<area shape="rect" id="node128" href="$class_mboxes.html#abaaf6c0d67c235bcb17e7f9e935861cf" title="send batched Message objects destined to remote nodes " alt="" coords="292,1429,447,1459"/>
+<area shape="rect" id="node131" href="$class_transaction_agent.html#a0d82aaa016a2929b3d69e92f107360de" title="continuation for addcolumn " alt="" coords="264,1483,475,1512"/>
+<area shape="rect" id="node133" href="$class_transaction_agent.html#a609d7a0d69af211f541030c2a551b230" title="continuation function for createschema " alt="" coords="255,1536,484,1565"/>
+<area shape="rect" id="node135" href="$class_transaction_agent.html#adf85a631d7419a162fda6bc80fa90cf6" title="continuation for createtable " alt="" coords="263,1589,476,1619"/>
+<area shape="rect" id="node137" href="$class_transaction_agent.html#abc54267648e414a1d3a1d5361d925a3f" title="continuation for deleteindex " alt="" coords="263,1643,476,1672"/>
+<area shape="rect" id="node139" href="$class_transaction_agent.html#a9795c10a4520371df7fb184f1fde3874" title="continuation for deleteschema " alt="" coords="255,1696,484,1725"/>
+<area shape="rect" id="node141" href="$class_transaction_agent.html#ae76502e778acaa2ffda6132b16408b37" title="continuation for deletetable " alt="" coords="264,1749,475,1779"/>
+<area shape="rect" id="node143" href="$class_mboxes.html#aee6924dc31ac0d04aabce26903860c54" title="update Topology of producers " alt="" coords="312,1803,427,1832"/>
+<area shape="rect" id="node145" href="$class_transaction_agent.html#a41fb78ab79730a6d125e255740ff4fa7" title="update Topology of replicas " alt="" coords="284,1855,455,1902"/>
+<area shape="rect" id="node5" href="$class_transaction_agent.html#afd3364c54ec5e8432c5bb06f610170f5" title="common code for many operations, such as login, create table, etc " alt="" coords="560,127,739,174"/>
+<area shape="rect" id="node19" href="$class_mboxes.html#a4c25d9d33e5d4c00a45f6864421de408" title="Mboxes::toAllOfType" alt="" coords="851,136,995,165"/>
+<area shape="rect" id="node7" href="$class_operation.html#afafab221948ff0ee3e764ada76226a5f" title="get operation identifier " alt="" coords="865,251,980,280"/>
+<area shape="rect" id="node9" href="$class_mboxes.html#ad590feb7f8bacbf2054bfce186ee6f2e" title="produce Message for replica&#39;s UserSchemaMgr " alt="" coords="831,304,1015,333"/>
+<area shape="rect" id="node17" href="$class_transaction_agent.html#ae8bb293a06c1628c075332e70aeab0e5" title="delete Operation, remove from pendingOperations " alt="" coords="819,357,1027,387"/>
+<area shape="rect" id="node11" href="$class_mboxes.html#a91b938e3db8b15f7dffbe9a3b04b8d1a" title="produce Message for specific actor " alt="" coords="1131,463,1248,492"/>
+<area shape="rect" id="node33" href="$defs_8h.html#ab45076c81f7c29fb6899c19ad55c929e" title="convert msgpack to a vector of strings " alt="" coords="863,517,983,547"/>
+<area shape="rect" id="node85" href="$class_table.html#a1f82fb5350dd9409ba854b73efe569ee" title="extract fields from row string " alt="" coords="585,835,713,864"/>
+<area shape="rect" id="node87" href="$class_message_apply.html#a3afe1403343a8fd0a5b70b30fea65e7d" title="set flag for new index entry " alt="" coords="556,624,743,653"/>
+<area shape="rect" id="node89" href="$defs_8h.html#a085239f0251914ffbac1cc2e3e7b2c38" title="hash of field value for partition id " alt="" coords="600,677,699,707"/>
+<area shape="rect" id="node91" href="$class_mboxes.html#a956f8e7626423edfd33db7a185b8b352" title="produce Message for Engine associated with specific partition " alt="" coords="583,781,716,811"/>
+<area shape="rect" id="node95" href="$class_pg.html#aee8ca6d9759c75c81a8d41679744b31e" title="continuation after login operation " alt="" coords="587,1216,712,1245"/>
+<area shape="rect" id="node108" href="$class_operation.html#ac98ec04087f36a79c15b7a379381f1db" title="set domain name " alt="" coords="831,464,1015,493"/>
+</map>

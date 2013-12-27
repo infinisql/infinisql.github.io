@@ -1,0 +1,5 @@
+<map id="/home/infinisql/build/infinisql/infinisqld/SubTransaction.h" name="/home/infinisql/build/infinisql/infinisqld/SubTransaction.h">
+<area shape="rect" id="node3" href="$_engine_8h.html" title="Engine actors store and manipulate data. Each engine interacts with a single partition, and vice versa. " alt="" coords="5,117,141,181"/>
+<area shape="rect" id="node8" href="$_sub_transaction_8cc.html" title="Engine&#39;s class corresponding to TransactionAgent&#39;s Transaction. Each data manipulation activity has a..." alt="" coords="165,117,301,181"/>
+<area shape="rect" id="node5" href="$_engine_8cc.html" title="Engine actors store and manipulate data. Each engine interacts with a single partition, and vice versa. " alt="" coords="5,229,141,293"/>
+</map>

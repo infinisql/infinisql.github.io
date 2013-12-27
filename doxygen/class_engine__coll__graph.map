@@ -1,0 +1,22 @@
+<map id="Engine" name="Engine">
+<area shape="rect" id="node2" href="$class_topology.html" title="Topology" alt="" coords="2175,733,2249,763"/>
+<area shape="rect" id="node40" href="$class_mboxes.html" title="collection of producers " alt="" coords="956,364,1023,393"/>
+<area shape="rect" id="node18" href="$struct_topology_1_1partition_address.html" title="Topology::partitionAddress" alt="" coords="1340,837,1516,867"/>
+<area shape="rect" id="node10" title="STL class. " alt="" coords="327,797,407,827"/>
+<area shape="rect" id="node50" href="$struct_message_batch_serialized_1_1msgbatch__s.html" title="structure of serialized messages and destination node " alt="" coords="595,689,760,735"/>
+<area shape="rect" id="node74" href="$struct_message_dispatch_1_1record__s.html" title="MessageDispatch::record_s" alt="" coords="585,1019,769,1048"/>
+<area shape="rect" id="node81" href="$structfield_value__s.html" title="field contents " alt="" coords="631,1155,724,1184"/>
+<area shape="rect" id="node12" title="STL class. " alt="" coords="25,17,151,63"/>
+<area shape="rect" id="node21" href="$class_mbox.html" title="create mailbox " alt="" coords="963,916,1016,945"/>
+<area shape="rect" id="node33" href="$struct_topology_1_1actor__s.html" title="characteristics for each actor " alt="" coords="1365,956,1491,985"/>
+<area shape="rect" id="node45" href="$class_mbox_producer.html" title="mailbox producer " alt="" coords="1375,313,1481,343"/>
+<area shape="rect" id="node23" href="$class_message.html" title="create Message object " alt="" coords="640,949,715,979"/>
+<area shape="rect" id="node47" href="$class_message_batch_serialized.html" title="Message variant containing multiple serialized Message variants. " alt="" coords="907,697,1072,727"/>
+<area shape="rect" id="node25" href="$struct_message_1_1message__s.html" title="Message POD (serializable by memcpy) data members. " alt="" coords="292,963,441,992"/>
+<area shape="rect" id="node27" href="$struct_topology_1_1address_struct.html" title="Topology::addressStruct" alt="" coords="7,1092,169,1121"/>
+<area shape="rect" id="node43" href="$struct_mboxes_1_1location__s.html" title="address and MboxProducer for an actor " alt="" coords="1765,191,1899,220"/>
+<area shape="rect" id="node70" href="$struct_engine_1_1background__s.html" title="for replication of out&#45;of&#45;order subtransactions " alt="" coords="1757,1153,1907,1183"/>
+<area shape="rect" id="node79" href="$struct_message_apply_1_1applyindex__s.html" title="MessageApply::applyindex_s" alt="" coords="893,1200,1085,1229"/>
+<area shape="rect" id="node84" href="$unionfield_input__u.html" title="contents of a field (other than CHARX or VARCHAR) " alt="" coords="323,1155,411,1184"/>
+<area shape="rect" id="node86" href="$structnon_locking_index_entry__s.html" title="index map value for non&#45;unique indices " alt="" coords="595,1208,760,1237"/>
+</map>

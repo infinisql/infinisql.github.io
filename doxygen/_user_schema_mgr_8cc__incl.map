@@ -1,0 +1,10 @@
+<map id="/home/infinisql/build/infinisql/infinisqld/UserSchemaMgr.cc" name="/home/infinisql/build/infinisql/infinisqld/UserSchemaMgr.cc">
+<area shape="rect" id="node3" href="$_user_schema_mgr_8h.html" title="Actor which maintains user and domain authentication information and schema definitions. There is only 1 active UserSchemaMgr per cluster. " alt="" coords="2173,117,2304,147"/>
+<area shape="rect" id="node5" href="$gch_8h.html" title="Headers for all external dependencies. " alt="" coords="2229,427,2283,456"/>
+<area shape="rect" id="node96" href="$_table_8h.html" title="Table class. Has Fields and Indices. " alt="" coords="2233,272,2297,301"/>
+<area shape="rect" id="node102" href="$_transaction_agent_8h.html" title="Actor which communicates with clients and executes transactions. Coordinates of activities between se..." alt="" coords="2276,195,2409,224"/>
+<area shape="rect" id="node23" href="$spooky_8h.html" title="Spooky Hash from Bob Jenkins. This is public domain. " alt="" coords="1149,504,1224,533"/>
+<area shape="rect" id="node92" href="$_mbox_8h.html" title="Mbox* classes perform inter&#45;actor messaging. Mbox is a lockfree multi producer, single consumer queue..." alt="" coords="4139,504,4203,533"/>
+<area shape="rect" id="node94" href="$defs_8h.html" title="Global struct &amp; enum types, global function declarations, global symbols in general. " alt="" coords="4227,504,4285,533"/>
+<area shape="rect" id="node99" href="$_field_8h.html" title="Data Field class (INT, BOOL, VARCHAR, etc). " alt="" coords="2260,349,2321,379"/>
+</map>

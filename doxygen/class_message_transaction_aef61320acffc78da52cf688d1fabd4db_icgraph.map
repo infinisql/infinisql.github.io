@@ -1,0 +1,7 @@
+<map id="MessageTransaction::package" name="MessageTransaction::package">
+<area shape="rect" id="node3" href="$class_message_subtransaction_cmd.html#a550c8e2a921f7cce1f11f0c2157e6197" title="serialize this " alt="" coords="199,5,388,51"/>
+<area shape="rect" id="node7" href="$class_message_commit_rollback.html#a555f0c75e4f6c01e7f39bfa2d59c215c" title="serialize this " alt="" coords="208,74,379,121"/>
+<area shape="rect" id="node11" href="$class_message_transaction.html#ab33df6d94124e80b7949971cfa8950e2" title="create string with serialized message " alt="" coords="209,144,377,173"/>
+<area shape="rect" id="node5" href="$class_message_subtransaction_cmd.html#a766074dd3b51fb3c5675fa9057fe03fa" title="create string with serialized message " alt="" coords="437,13,653,43"/>
+<area shape="rect" id="node9" href="$class_message_commit_rollback.html#a22ee9b9bf18a7f5fcd1d0d0f3363ac47" title="create string with serialized message " alt="" coords="447,83,644,112"/>
+</map>

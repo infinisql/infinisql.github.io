@@ -1,0 +1,6 @@
+<map id="getdeleteflag" name="getdeleteflag">
+<area shape="rect" id="node3" href="$class_table.html#a95c5621ae9f4f8c2f5d3e5a4b0f64778" title="Table::commitRollbackUnlock" alt="" coords="149,48,347,77"/>
+<area shape="rect" id="node5" href="$class_sub_transaction.html#a5ebf6d9a4c5d0ed4bed429badc2e9a97" title="handle incoming MessageTransaction variant " alt="" coords="395,5,629,51"/>
+<area shape="rect" id="node9" href="$class_sub_transaction.html#a21173b0f16c6ff17389237463b7c6a89" title="commit, rollback, or unlock items " alt="" coords="405,74,619,121"/>
+<area shape="rect" id="node7" href="$class_engine.html#a7011d511bfa3f3f7d5c4d9fde79c364e" title="execute Engine actor " alt="" coords="679,13,788,43"/>
+</map>

@@ -1,0 +1,31 @@
+<map id="UserSchemaMgr::UserSchemaMgr" name="UserSchemaMgr::UserSchemaMgr">
+<area shape="rect" id="node3" href="$class_user_schema_mgr.html#a8f043df82cf418513a25320d0969d251" title="add column " alt="" coords="299,112,488,141"/>
+<area shape="rect" id="node7" href="$class_user_schema_mgr.html#aa5c189e3168812ab0afafbdff16fbcb4" title="change password " alt="" coords="280,165,507,195"/>
+<area shape="rect" id="node10" href="$class_user_schema_mgr.html#a78f1135fcf7826fe46d38db7824b5628" title="create domain " alt="" coords="291,5,496,35"/>
+<area shape="rect" id="node15" href="$class_user_schema_mgr.html#abdf3775da0087f56c6347c3d6520a470" title="create schema " alt="" coords="288,59,499,88"/>
+<area shape="rect" id="node20" href="$class_user_schema_mgr.html#ab548b6a3a6469bf1d7d6d4f44d84dfca" title="create table " alt="" coords="297,539,489,568"/>
+<area shape="rect" id="node27" href="$class_user_schema_mgr.html#a1e440a518936e242b0a3c91c6afefbe8" title="create user " alt="" coords="299,592,488,621"/>
+<area shape="rect" id="node32" href="$class_user_schema_mgr.html#ac87e4b3bc34e142b552ec438e99faa90" title="delete domain " alt="" coords="291,219,496,248"/>
+<area shape="rect" id="node35" href="$class_user_schema_mgr.html#a4fda90405506c285d8c355942b7fa000" title="delete index " alt="" coords="296,272,491,301"/>
+<area shape="rect" id="node38" href="$class_user_schema_mgr.html#a740146ba773d2ba7e4b4c8bbcade5c1e" title="delete schema " alt="" coords="289,325,497,355"/>
+<area shape="rect" id="node41" href="$class_user_schema_mgr.html#a16688e8d33edf383e36398b2e1d29cee" title="delete table " alt="" coords="299,379,488,408"/>
+<area shape="rect" id="node44" href="$class_user_schema_mgr.html#a1d56bc2367b755d0a87e90733798c9c3" title="delete user " alt="" coords="300,432,487,461"/>
+<area shape="rect" id="node47" href="$class_user_schema_mgr.html#a6a36c150f42487446527d7bfbdd71b94" title="login (raw interface) " alt="" coords="316,485,471,515"/>
+<area shape="rect" id="node50" href="$defs_8h.html#ab45076c81f7c29fb6899c19ad55c929e" title="convert msgpack to a vector of strings " alt="" coords="333,645,453,675"/>
+<area shape="rect" id="node52" href="$class_user_schema_mgr.html#a4dd9d1b0133f8135b7c3c505c10493f6" title="perform operation (currently only login for SQL) " alt="" coords="303,698,484,745"/>
+<area shape="rect" id="node64" href="$class_mboxes.html#abaaf6c0d67c235bcb17e7f9e935861cf" title="send batched Message objects destined to remote nodes " alt="" coords="1059,763,1213,792"/>
+<area shape="rect" id="node72" href="$class_mboxes.html#aee6924dc31ac0d04aabce26903860c54" title="update Topology of producers " alt="" coords="336,819,451,848"/>
+<area shape="rect" id="node5" href="$class_transaction_agent.html#aa8b977b4943a2494f949b59489a39bf2" title="reply MessageUserSchema to UserSchemaMgr " alt="" coords="572,299,761,328"/>
+<area shape="rect" id="node13" href="$class_user_schema_mgr.html#a72aa419a9611c22b0ebb00faa9006d26" title="generate unique, ever&#45;increasing domain identifier " alt="" coords="556,5,777,35"/>
+<area shape="rect" id="node17" href="$_schema_8h.html#a5ba160bfb6b74384e355e09f5d5e3ff0" title="creates Schema object, in lieu of constructor " alt="" coords="613,59,720,88"/>
+<area shape="rect" id="node22" href="$class_schema.html#a6fe941e1810b7910fc2a0cb4a9b7a575" title="acquire ever&#45;increasing and unique table identifiers " alt="" coords="588,539,745,568"/>
+<area shape="rect" id="node24" href="$class_schema.html#a76756f00756a7d9e18f455ec80c98d12" title="CREATE TABLE. " alt="" coords="593,485,740,515"/>
+<area shape="rect" id="node30" href="$class_user_schema_mgr.html#a4bef9fe5452aff2cc090096cf0372035" title="generate unique, ever&#45;increasing user identifier " alt="" coords="564,592,769,621"/>
+<area shape="rect" id="node54" href="$class_user_schema_mgr.html#ad0e249b9cea11a8b8327fad5436e94c7" title="login for SQL session " alt="" coords="576,698,757,745"/>
+<area shape="rect" id="node56" href="$class_mboxes.html#a91b938e3db8b15f7dffbe9a3b04b8d1a" title="produce Message for specific actor " alt="" coords="608,645,725,675"/>
+<area shape="rect" id="node58" href="$class_mbox_producer.html#a9ca818bdf4ef9bacbaa6cb1d63a68dbd" title="produce Message onto mailbox " alt="" coords="828,703,993,732"/>
+<area shape="rect" id="node69" href="$class_message.html#a8f4edea412ed3bbaa8d3cf2d1d48b8b3" title="put addresses in Message variant envelope " alt="" coords="833,645,988,675"/>
+<area shape="rect" id="node60" href="$class_mbox.html#a5311178f7221ffa942fa128424ac9a86" title="create 128bit integer from Message object " alt="" coords="1043,603,1229,632"/>
+<area shape="rect" id="node62" href="$class_mbox.html#ae545aa094bc902b10f9b1e042c24e42b" title="return Message pointer from 128bit integer " alt="" coords="1088,656,1184,685"/>
+<area shape="rect" id="node67" href="$class_message.html#a4508c42d7366a86327ca3076eb1ff007" title="return serialized Message variant string " alt="" coords="1073,709,1199,739"/>
+</map>

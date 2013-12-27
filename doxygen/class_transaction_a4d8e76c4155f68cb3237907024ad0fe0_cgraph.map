@@ -1,0 +1,12 @@
+<map id="Transaction::rollback" name="Transaction::rollback">
+<area shape="rect" id="node3" href="$class_transaction.html#a62cfbd3f256c6b36cfdd16cddf1ab5fe" title="continue back to calling function " alt="" coords="208,85,347,115"/>
+<area shape="rect" id="node5" href="$class_transaction.html#a728a292f0310aefd8932826345e83d19" title="likely deprecated " alt="" coords="199,139,356,168"/>
+<area shape="rect" id="node7" href="$class_transaction.html#a58d291fe5c0ee6984aa71a79c7126376" title="send MessageTransaction variant to Engine " alt="" coords="405,139,600,168"/>
+<area shape="rect" id="node9" href="$class_mboxes.html#a956f8e7626423edfd33db7a185b8b352" title="produce Message for Engine associated with specific partition " alt="" coords="649,139,783,168"/>
+<area shape="rect" id="node11" href="$class_mbox_producer.html#a9ca818bdf4ef9bacbaa6cb1d63a68dbd" title="produce Message onto mailbox " alt="" coords="833,112,999,141"/>
+<area shape="rect" id="node22" href="$class_message.html#a8f4edea412ed3bbaa8d3cf2d1d48b8b3" title="put addresses in Message variant envelope " alt="" coords="839,165,993,195"/>
+<area shape="rect" id="node13" href="$class_mbox.html#a5311178f7221ffa942fa128424ac9a86" title="create 128bit integer from Message object " alt="" coords="1048,5,1235,35"/>
+<area shape="rect" id="node15" href="$class_mbox.html#ae545aa094bc902b10f9b1e042c24e42b" title="return Message pointer from 128bit integer " alt="" coords="1093,59,1189,88"/>
+<area shape="rect" id="node17" href="$class_mboxes.html#abaaf6c0d67c235bcb17e7f9e935861cf" title="send batched Message objects destined to remote nodes " alt="" coords="1064,112,1219,141"/>
+<area shape="rect" id="node20" href="$class_message.html#a4508c42d7366a86327ca3076eb1ff007" title="return serialized Message variant string " alt="" coords="1079,165,1204,195"/>
+</map>

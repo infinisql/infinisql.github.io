@@ -1,0 +1,16 @@
+<map id="Mboxes::toUserSchemaMgr" name="Mboxes::toUserSchemaMgr">
+<area shape="rect" id="node3" href="$class_transaction_agent.html#a5b197a6f45bd8a05994f9252332c3b04" title="change password " alt="" coords="500,5,729,35"/>
+<area shape="rect" id="node7" href="$class_transaction_agent.html#ac4b282414d3b2df348c418b87abc6fda" title="create domain " alt="" coords="240,57,451,87"/>
+<area shape="rect" id="node10" href="$class_transaction_agent.html#ace0343f70e795b25c7d2202cc9e2d990" title="create user " alt="" coords="249,111,441,140"/>
+<area shape="rect" id="node13" href="$class_transaction_agent.html#aabd5c9203e13ca31a1a3ea7241bd4f85" title="delete domain " alt="" coords="241,164,449,193"/>
+<area shape="rect" id="node16" href="$class_transaction_agent.html#a59b6245bf3e072c73329764a0b527260" title="delete user " alt="" coords="249,217,441,247"/>
+<area shape="rect" id="node19" href="$class_transaction_agent.html#abb8479d4599bc129ade4c148e0a813f6" title="login " alt="" coords="267,271,424,300"/>
+<area shape="rect" id="node22" href="$class_transaction_agent.html#afd3364c54ec5e8432c5bb06f610170f5" title="common code for many operations, such as login, create table, etc " alt="" coords="256,413,435,459"/>
+<area shape="rect" id="node5" href="$class_transaction_agent.html#abe6035d3eb84620ebbdcdfce3d34fc3b" title="TransactionAgent::Transaction\lAgent" alt="" coords="779,281,979,327"/>
+<area shape="rect" id="node24" href="$class_transaction_agent.html#aab53c4bfa995b9022cc36cc15d13aba5" title="create schema " alt="" coords="508,315,721,344"/>
+<area shape="rect" id="node27" href="$class_transaction_agent.html#a3708411d5f2ecc05c73956df8fd55817" title="create table " alt="" coords="517,368,712,397"/>
+<area shape="rect" id="node30" href="$class_transaction_agent.html#a7a3c3c5d2cdd473e05900dd77086ae63" title="add column " alt="" coords="517,421,712,451"/>
+<area shape="rect" id="node33" href="$class_transaction_agent.html#a558d5f43203b188965159990809efe3f" title="delete index " alt="" coords="516,475,713,504"/>
+<area shape="rect" id="node36" href="$class_transaction_agent.html#a3a53d6669e67de446acf6da315a4be4a" title="delete table " alt="" coords="517,528,712,557"/>
+<area shape="rect" id="node39" href="$class_transaction_agent.html#a71760a1ab215c83cdd9ed7ad1fa38ff0" title="delete schema " alt="" coords="508,581,721,611"/>
+</map>

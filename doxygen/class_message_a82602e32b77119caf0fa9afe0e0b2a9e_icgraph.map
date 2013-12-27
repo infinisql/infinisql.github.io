@@ -1,0 +1,12 @@
+<map id="Message::clear" name="Message::clear">
+<area shape="rect" id="node3" href="$class_message_socket.html#a6094276c11613217494bc2f64e606c40" title="clear contents of this " alt="" coords="173,5,325,35"/>
+<area shape="rect" id="node5" href="$class_message_user_schema.html#a345d63e0d5e518beab5ee9b981adf70e" title="clear contents of this " alt="" coords="171,58,328,105"/>
+<area shape="rect" id="node7" href="$class_message_deadlock.html#a3404900042c59e1a2172e0d79f2a9104" title="clear contents of this " alt="" coords="167,128,332,157"/>
+<area shape="rect" id="node9" href="$class_message_transaction.html#a10504c9bd83218c8715324ebe4896abd" title="clear contents of this " alt="" coords="179,181,320,227"/>
+<area shape="rect" id="node15" href="$class_message_dispatch.html#ae72913b98b8fbc4a8bd5ed134e493cb3" title="clear contents of this " alt="" coords="168,251,331,280"/>
+<area shape="rect" id="node17" href="$class_message_ack_dispatch.html#a34234a4a88e4fe83cd0bed57cba59e42" title="clear contents of this " alt="" coords="175,303,324,350"/>
+<area shape="rect" id="node19" href="$class_message_apply.html#a980ef0879efbb16067cb88dcff03f607" title="clear contents of this " alt="" coords="177,373,321,403"/>
+<area shape="rect" id="node21" href="$class_message_ack_apply.html#a4a41759ebd12f6f6b5d16b440d354985" title="clear contents of this " alt="" coords="167,427,332,456"/>
+<area shape="rect" id="node11" href="$class_message_subtransaction_cmd.html#af1b59d7966b601a920e28c0def1641b9" title="clear contents of this " alt="" coords="383,146,572,193"/>
+<area shape="rect" id="node13" href="$class_message_commit_rollback.html#a2183177019a6a6133e8b18c0df846d71" title="clear contents of this " alt="" coords="392,215,563,262"/>
+</map>

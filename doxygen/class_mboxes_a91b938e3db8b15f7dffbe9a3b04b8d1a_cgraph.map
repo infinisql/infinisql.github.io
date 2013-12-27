@@ -1,0 +1,8 @@
+<map id="Mboxes::toActor" name="Mboxes::toActor">
+<area shape="rect" id="node3" href="$class_mbox_producer.html#a9ca818bdf4ef9bacbaa6cb1d63a68dbd" title="produce Message onto mailbox " alt="" coords="175,59,340,88"/>
+<area shape="rect" id="node14" href="$class_message.html#a8f4edea412ed3bbaa8d3cf2d1d48b8b3" title="put addresses in Message variant envelope " alt="" coords="180,112,335,141"/>
+<area shape="rect" id="node5" href="$class_message.html#a4508c42d7366a86327ca3076eb1ff007" title="return serialized Message variant string " alt="" coords="420,5,545,35"/>
+<area shape="rect" id="node7" href="$class_mboxes.html#abaaf6c0d67c235bcb17e7f9e935861cf" title="send batched Message objects destined to remote nodes " alt="" coords="405,59,560,88"/>
+<area shape="rect" id="node10" href="$class_mbox.html#a5311178f7221ffa942fa128424ac9a86" title="create 128bit integer from Message object " alt="" coords="389,112,576,141"/>
+<area shape="rect" id="node12" href="$class_mbox.html#ae545aa094bc902b10f9b1e042c24e42b" title="return Message pointer from 128bit integer " alt="" coords="435,165,531,195"/>
+</map>

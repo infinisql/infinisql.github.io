@@ -1,0 +1,11 @@
+<map id="getPartitionid" name="getPartitionid">
+<area shape="rect" id="node3" href="$class_spooky_hash.html#acabbc1948064bffaf1c7ed4e78cc1a30" title="SpookyHash::Hash64" alt="" coords="153,109,303,139"/>
+<area shape="rect" id="node5" href="$class_spooky_hash.html#a9d8973d46becbc8036c458fae3efc3a5" title="SpookyHash::Hash128" alt="" coords="352,109,509,139"/>
+<area shape="rect" id="node7" href="$class_spooky_hash.html#af9b11a6c6092014a571c337db7a0dac8" title="SpookyHash::Short" alt="" coords="557,56,693,85"/>
+<area shape="rect" id="node16" href="$class_spooky_hash.html#a749e6012af3d67884a323e227105e032" title="SpookyHash::Mix" alt="" coords="563,109,688,139"/>
+<area shape="rect" id="node19" href="$class_spooky_hash.html#ae93bdc4013fbfa7d4ce9bfadf8fe953b" title="SpookyHash::End" alt="" coords="561,163,689,192"/>
+<area shape="rect" id="node9" href="$class_spooky_hash.html#a2a18b61b405f43f283ba9a20016b5b9f" title="SpookyHash::ShortMix" alt="" coords="745,5,903,35"/>
+<area shape="rect" id="node13" href="$class_spooky_hash.html#a5b01b1a2b3270e9c11244a6702b0db59" title="SpookyHash::ShortEnd" alt="" coords="745,59,903,88"/>
+<area shape="rect" id="node11" href="$class_spooky_hash.html#a2b3b07af28a0b4f0f920fdb3a31a0c87" title="SpookyHash::Rot64" alt="" coords="956,85,1095,115"/>
+<area shape="rect" id="node21" href="$class_spooky_hash.html#a9799c4b36e1c73e895e4e7293eb94521" title="SpookyHash::EndPartial" alt="" coords="741,163,907,192"/>
+</map>

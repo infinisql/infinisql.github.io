@@ -1,0 +1,4 @@
+<map id="Pg::putNoticeResponse" name="Pg::putNoticeResponse">
+<area shape="rect" id="node3" href="$class_pg.html#aa3859c82746de187e1eaaa2af79763bb" title="write data to outbound message buffer " alt="" coords="233,5,297,35"/>
+<area shape="rect" id="node5" href="$class_pg.html#a3ea550f9d0d24a3c7aeb736b83c86bcb" title="put message for reply into outbound buffer " alt="" coords="216,59,315,88"/>
+</map>

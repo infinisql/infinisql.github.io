@@ -1,0 +1,5 @@
+<map id="IbGateway::removefds" name="IbGateway::removefds">
+<area shape="rect" id="node3" href="$class_ib_gateway.html#a1c95ace62b65d00e7170194a2aa9bfb9" title="execute Inbound Gateway " alt="" coords="209,5,364,35"/>
+<area shape="rect" id="node5" href="$_topology_mgr_8cc.html#aa6842d6fdd55682e558b638bfee2ebf1" title="launch IbGateway actor " alt="" coords="415,5,497,35"/>
+<area shape="rect" id="node7" href="$class_topology_mgr.html#a8cefb84682f0ff0637513e97dc79dc3c" title="TopologyMgr::TopologyMgr" alt="" coords="548,5,727,35"/>
+</map>

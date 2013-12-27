@@ -1,0 +1,4 @@
+<map id="TopologyMgr::updateGlobalConfig" name="TopologyMgr::updateGlobalConfig">
+<area shape="rect" id="node3" href="$class_topology_mgr.html#af38f97de75ad392dccd32a785e5922b4" title="tell all local actors to update their versions of Topology " alt="" coords="235,13,435,43"/>
+<area shape="rect" id="node5" href="$class_mboxes.html#aee6924dc31ac0d04aabce26903860c54" title="update Topology of producers " alt="" coords="483,13,597,43"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="ApiInterface::unlock" name="ApiInterface::unlock">
+<area shape="rect" id="node3" href="$class_transaction.html#abfb2d360e416bdf8dc2453a4642c93b8" title="generate unique, always incrementing id for pending command " alt="" coords="192,5,413,35"/>
+<area shape="rect" id="node5" href="$class_transaction.html#a62cfbd3f256c6b36cfdd16cddf1ab5fe" title="continue back to calling function " alt="" coords="233,59,372,88"/>
+<area shape="rect" id="node7" href="$class_api_interface.html#ad34d67f168ca1f406dcb5e55892e973a" title="set continuation target back to ApiInterface object " alt="" coords="220,112,385,141"/>
+</map>

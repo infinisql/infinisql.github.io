@@ -1,0 +1,29 @@
+<map id="like2Regex" name="like2Regex">
+<area shape="rect" id="node3" href="$class_statement.html#a0ffb8f37248c531f61d49347d1014d1a" title="Statement::andPredicate" alt="" coords="143,485,308,515"/>
+<area shape="rect" id="node61" href="$class_index.html#a8cdefc009a85999d67bed57d8df97e90" title="return index entries matching LIKE search " alt="" coords="184,592,267,621"/>
+<area shape="rect" id="node72" href="$class_index.html#a77756259b47493dfb9e099aae25d02c5" title="return index entries maching NOT LIKE search " alt="" coords="176,539,275,568"/>
+<area shape="rect" id="node5" href="$class_ast.html#a229d1f25bd5f15a7f8a2b1a44ea26ed9" title="Ast::evaluate" alt="" coords="405,485,504,515"/>
+<area shape="rect" id="node7" href="$class_statement.html#a9f0b670dfa46844eb90de3ca3444d2d2" title="perform search expression " alt="" coords="607,485,801,515"/>
+<area shape="rect" id="node10" href="$class_statement.html#a4d278eaa6b77688702b33b4ad73baaf8" title="SELECT, INSERT, UPDATE, DELETE, stored proc branch to. " alt="" coords="891,369,1056,399"/>
+<area shape="rect" id="node13" href="$class_statement.html#a0a683e44fb4dfcf9063a476428490ada" title="begin query execution " alt="" coords="1140,241,1289,271"/>
+<area shape="rect" id="node27" href="$class_transaction.html#af1b4585435a240cae71c2f819ce5bc91" title="continuation of SQL predicate search " alt="" coords="1580,389,1745,435"/>
+<area shape="rect" id="node57" href="$class_transaction.html#a3d0b71c4ec2701fb542956f3d1e493f8" title="SQL predicate search. " alt="" coords="888,548,1059,577"/>
+<area shape="rect" id="node15" href="$class_statement.html#a42ca63333686087acb579354fce0720f" title="execute SQL statement " alt="" coords="1361,59,1497,88"/>
+<area shape="rect" id="node24" href="$class_statement.html#abb110d0dc3abf1f5dcbb33ff33a7174b" title="continuation for SELECT statement " alt="" coords="1341,393,1517,423"/>
+<area shape="rect" id="node34" href="$class_statement.html#a61c903a35c6032860f06e40116fd3da1" title="continuation for DELETE statement " alt="" coords="1341,332,1517,361"/>
+<area shape="rect" id="node41" href="$class_statement.html#ab44eeb418a8a7b4fba8000accc66c81a" title="continuation for UPDATE statement " alt="" coords="1339,259,1520,288"/>
+<area shape="rect" id="node51" href="$class_statement.html#a7fde4b03e1c3bdbeeb8b5514bbb80fab" title="continuation for INSERT statement " alt="" coords="1344,163,1515,192"/>
+<area shape="rect" id="node17" href="$class_api_interface.html#aa98cd6da46180185e425a6efa84bf950" title="execute SQL statement " alt="" coords="1569,59,1756,88"/>
+<area shape="rect" id="node19" href="$class_pg.html#af7204d6b309e5d68f8bd37fdbcc5929e" title="tokenize, parse, compile and execute SQL query " alt="" coords="1587,5,1739,35"/>
+<area shape="rect" id="node21" href="$class_pg.html#a1d9453abb6c088797e14baea3f2c241b" title="wire protocol handling " alt="" coords="1877,5,1947,35"/>
+<area shape="rect" id="node31" href="$class_transaction.html#acc68e7f9e766d98f3c7318780405f465" title="get all rows from a table " alt="" coords="1580,459,1745,488"/>
+<area shape="rect" id="node29" href="$class_transaction.html#a954645efeb9bb7f6a510dd33cc16851f" title="execute continuation based on MessageTransaction reply " alt="" coords="1807,250,2017,297"/>
+<area shape="rect" id="node38" href="$class_transaction.html#af8446c93fc62749f913208ec60a381e8" title="continuation of DELETE " alt="" coords="1580,319,1745,366"/>
+<area shape="rect" id="node45" href="$class_transaction.html#a675020eec1986710d1865eacbba6e81f" title="continuation of UPDATE " alt="" coords="1580,250,1745,297"/>
+<area shape="rect" id="node48" href="$class_transaction.html#a579df7cbb28d6f8d4ddc869ff68ed066" title="continuation of REPLACE (update of field 0 in a row) " alt="" coords="1580,181,1745,227"/>
+<area shape="rect" id="node53" href="$class_transaction.html#a34c98cae060191022da8c08f63875412" title="continuation of INSERT " alt="" coords="1580,111,1745,158"/>
+<area shape="rect" id="node63" href="$class_sub_transaction.html#a97198ca271f50534498247ad21ac7ff3" title="SubTransaction::indexSearch" alt="" coords="359,591,551,620"/>
+<area shape="rect" id="node65" href="$class_sub_transaction.html#a5ebf6d9a4c5d0ed4bed429badc2e9a97" title="handle incoming MessageTransaction variant " alt="" coords="856,611,1091,658"/>
+<area shape="rect" id="node69" href="$class_sub_transaction.html#ae1a06344c0f1e09fc65f99c9199b46d0" title="search index for and return matching rows " alt="" coords="601,641,807,671"/>
+<area shape="rect" id="node67" href="$class_engine.html#a7011d511bfa3f3f7d5c4d9fde79c364e" title="execute Engine actor " alt="" coords="1160,620,1269,649"/>
+</map>

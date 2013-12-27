@@ -1,0 +1,12 @@
+<map id="Larxer::consumeInobject" name="Larxer::consumeInobject">
+<area shape="rect" id="node3" href="$class_larxer.html#a1c46fac97cb30693de0a91b37de6f24d" title="extract expression from stack " alt="" coords="219,94,403,124"/>
+<area shape="rect" id="node5" href="$class_larxer.html#a4559e82633855f6143826cd53849a169" title="extract HAVING clause from stack " alt="" coords="451,68,611,97"/>
+<area shape="rect" id="node18" href="$class_larxer.html#a71490bda4fa0dbc989f731159cc15c6a" title="extract INSERT query from stack " alt="" coords="455,225,607,254"/>
+<area shape="rect" id="node21" href="$class_larxer.html#a60a6bcd15a5ddc13cd4925ca6d33e4d8" title="extract UPDATE query from stack " alt="" coords="660,174,820,204"/>
+<area shape="rect" id="node24" href="$class_larxer.html#a544218ca37a03480d1b231f45438f2ed" title="extract WHERE clause from stack " alt="" coords="452,121,609,150"/>
+<area shape="rect" id="node7" href="$class_larxer.html#a5b0948618498f0ddd0b217aff6f84c4e" title="extract SELECT query from stack " alt="" coords="663,68,817,97"/>
+<area shape="rect" id="node9" href="$class_larxer.html#a8e083331565d1cdff7d421b9df97a034" title="consume entire stack " alt="" coords="900,148,1015,177"/>
+<area shape="rect" id="node13" href="$class_larxer.html#a35c542ecb83affebfd66c2ece93f62f6" title="extract subquery from stack " alt="" coords="871,16,1044,45"/>
+<area shape="rect" id="node11" href="$class_larxer.html#a46d02af65d4fa91826ee4823776edd54" title="tokenize, parse, and compile SQL statement " alt="" coords="1095,148,1196,177"/>
+<area shape="rect" id="node28" href="$class_larxer.html#a405eeb11a75a34afa7807b605faab58f" title="extract DELETE query from stack " alt="" coords="661,121,819,150"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="subtransactionCmd_s" name="subtransactionCmd_s">
+<area shape="rect" id="node2" href="$structfield_value__s.html" title="field contents " alt="" coords="361,36,455,65"/>
+<area shape="rect" id="node4" title="STL class. " alt="" coords="189,136,269,165"/>
+<area shape="rect" id="node12" href="$structreturn_row__s.html" title="row and metadata for being returned to client from SELECT or stored proc " alt="" coords="360,219,456,248"/>
+<area shape="rect" id="node15" href="$structsearch_params__s.html" title="describes how to perform an SQL search expression predicate " alt="" coords="1024,108,1144,137"/>
+<area shape="rect" id="node6" title="STL class. " alt="" coords="7,127,132,174"/>
+<area shape="rect" id="node8" href="$unionfield_input__u.html" title="contents of a field (other than CHARX or VARCHAR) " alt="" coords="185,16,273,45"/>
+<area shape="rect" id="node25" href="$structnon_locking_index_entry__s.html" title="index map value for non&#45;unique indices " alt="" coords="583,341,748,371"/>
+</map>

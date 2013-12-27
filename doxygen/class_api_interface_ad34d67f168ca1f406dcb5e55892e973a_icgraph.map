@@ -1,0 +1,13 @@
+<map id="ApiInterface::setReEntry" name="ApiInterface::setReEntry">
+<area shape="rect" id="node3" href="$class_api_interface.html#a95a01b40504d9f5b8024221f2805409c" title="commit transaction " alt="" coords="245,5,387,35"/>
+<area shape="rect" id="node5" href="$class_api_interface.html#a3de7a816d521ff799e3e4c5131b1cd92" title="deprecated " alt="" coords="235,59,397,88"/>
+<area shape="rect" id="node7" href="$class_api_interface.html#a88365d878191d1d0f7fc220ad0fdd8cd" title="deprecated " alt="" coords="235,112,397,141"/>
+<area shape="rect" id="node9" href="$class_api_interface.html#ad7927617d71f0bf3175cb96775be8d44" title="deprecated " alt="" coords="237,165,395,195"/>
+<area shape="rect" id="node11" href="$class_api_interface.html#af91175a5e7f6bc4c704ab89a13a3e722" title="deprecated " alt="" coords="232,219,400,248"/>
+<area shape="rect" id="node13" href="$class_api_interface.html#ac7238843bdaf0d0d0a04c40501486b2e" title="deprecated " alt="" coords="249,272,383,301"/>
+<area shape="rect" id="node15" href="$class_api_interface.html#ad1d1423391f1dd6d14b537345b3f64cd" title="rollback transaction " alt="" coords="244,325,388,355"/>
+<area shape="rect" id="node17" href="$class_api_interface.html#ad69182d0b279da241cd4b8efd84fe0b3" title="deprecated " alt="" coords="232,379,400,408"/>
+<area shape="rect" id="node19" href="$class_api_interface.html#a829573330c6958169c752878c3d717f4" title="unlock row " alt="" coords="247,432,385,461"/>
+<area shape="rect" id="node21" href="$class_api_interface.html#a431c71ff495e0821ed348846b05539f1" title="deprecated " alt="" coords="233,485,399,515"/>
+<area shape="rect" id="node23" href="$class_api_interface.html#a7f54064551b6d5159c3e859626719fd1" title="deprecated " alt="" coords="221,538,411,585"/>
+</map>

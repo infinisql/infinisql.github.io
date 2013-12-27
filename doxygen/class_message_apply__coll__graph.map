@@ -1,0 +1,13 @@
+<map id="MessageApply" name="MessageApply">
+<area shape="rect" id="node2" href="$class_message.html" title="create Message object " alt="" coords="1263,43,1337,72"/>
+<area shape="rect" id="node4" href="$struct_message_1_1message__s.html" title="Message POD (serializable by memcpy) data members. " alt="" coords="787,27,936,56"/>
+<area shape="rect" id="node6" href="$struct_topology_1_1address_struct.html" title="Topology::addressStruct" alt="" coords="367,24,529,53"/>
+<area shape="rect" id="node10" href="$struct_message_dispatch_1_1record__s.html" title="MessageDispatch::record_s" alt="" coords="556,195,740,224"/>
+<area shape="rect" id="node12" title="STL class. " alt="" coords="189,165,269,195"/>
+<area shape="rect" id="node22" href="$structfield_value__s.html" title="field contents " alt="" coords="401,131,495,160"/>
+<area shape="rect" id="node14" title="STL class. " alt="" coords="7,157,132,203"/>
+<area shape="rect" id="node16" href="$struct_message_apply_1_1apply__s.html" title="MessageApply POD (serializable by memcpy) data members. " alt="" coords="1220,253,1380,283"/>
+<area shape="rect" id="node20" href="$struct_message_apply_1_1applyindex__s.html" title="MessageApply::applyindex_s" alt="" coords="765,127,957,156"/>
+<area shape="rect" id="node25" href="$unionfield_input__u.html" title="contents of a field (other than CHARX or VARCHAR) " alt="" coords="185,83,273,112"/>
+<area shape="rect" id="node27" href="$structnon_locking_index_entry__s.html" title="index map value for non&#45;unique indices " alt="" coords="365,77,531,107"/>
+</map>

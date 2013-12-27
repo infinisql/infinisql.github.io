@@ -1,0 +1,15 @@
+<map id="getlocktype" name="getlocktype">
+<area shape="rect" id="node3" href="$class_table.html#a95c5621ae9f4f8c2f5d3e5a4b0f64778" title="Table::commitRollbackUnlock" alt="" coords="144,36,341,65"/>
+<area shape="rect" id="node11" href="$class_table.html#af59a98527997d3d1e00d7b6252a7cc89" title="delete row " alt="" coords="184,96,301,125"/>
+<area shape="rect" id="node18" href="$class_table.html#a794d88293e1d7d866bea915c775a3b7e" title="orphan? " alt="" coords="189,149,296,178"/>
+<area shape="rect" id="node20" href="$class_table.html#a4209e298924ac386ac40ec57e552ae47" title="return rows for select based on index hits " alt="" coords="180,202,305,232"/>
+<area shape="rect" id="node28" href="$class_table.html#ab8d046d1ba86f19d4b6e0fd600c3c152" title="modify row " alt="" coords="436,254,559,284"/>
+<area shape="rect" id="node5" href="$class_sub_transaction.html#a5ebf6d9a4c5d0ed4bed429badc2e9a97" title="handle incoming MessageTransaction variant " alt="" coords="909,140,1144,187"/>
+<area shape="rect" id="node9" href="$class_sub_transaction.html#a21173b0f16c6ff17389237463b7c6a89" title="commit, rollback, or unlock items " alt="" coords="391,27,604,74"/>
+<area shape="rect" id="node7" href="$class_engine.html#a7011d511bfa3f3f7d5c4d9fde79c364e" title="execute Engine actor " alt="" coords="1193,149,1303,178"/>
+<area shape="rect" id="node13" href="$class_sub_transaction.html#a14f669de4a67c57bb61fc810cf3475c6" title="delete row " alt="" coords="669,96,845,125"/>
+<area shape="rect" id="node16" href="$class_table.html#a9d0b037233cd332fdef055de7b90bfe0" title="delete row part of replacement " alt="" coords="439,148,556,177"/>
+<area shape="rect" id="node22" href="$class_sub_transaction.html#abebe45047c9b6400a84df473d5071fc6" title="return rows " alt="" coords="405,201,589,230"/>
+<area shape="rect" id="node25" href="$class_sub_transaction.html#ae1a06344c0f1e09fc65f99c9199b46d0" title="search index for and return matching rows " alt="" coords="655,201,860,230"/>
+<area shape="rect" id="node30" href="$class_sub_transaction.html#a29c2071fe178c0730483b5c33cd070a3" title="SubTransaction::updaterow" alt="" coords="667,254,848,284"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="/home/infinisql/build/infinisql/infinisqld/UserSchemaMgr.h" name="/home/infinisql/build/infinisql/infinisqld/UserSchemaMgr.h">
+<area shape="rect" id="node3" href="$gch_8h.html" title="Headers for all external dependencies. " alt="" coords="2229,349,2283,379"/>
+<area shape="rect" id="node94" href="$_table_8h.html" title="Table class. Has Fields and Indices. " alt="" coords="2215,195,2279,224"/>
+<area shape="rect" id="node100" href="$_transaction_agent_8h.html" title="Actor which communicates with clients and executes transactions. Coordinates of activities between se..." alt="" coords="2275,117,2408,147"/>
+<area shape="rect" id="node21" href="$spooky_8h.html" title="Spooky Hash from Bob Jenkins. This is public domain. " alt="" coords="1149,427,1224,456"/>
+<area shape="rect" id="node90" href="$_mbox_8h.html" title="Mbox* classes perform inter&#45;actor messaging. Mbox is a lockfree multi producer, single consumer queue..." alt="" coords="4139,427,4203,456"/>
+<area shape="rect" id="node92" href="$defs_8h.html" title="Global struct &amp; enum types, global function declarations, global symbols in general. " alt="" coords="4227,427,4285,456"/>
+<area shape="rect" id="node97" href="$_field_8h.html" title="Data Field class (INT, BOOL, VARCHAR, etc). " alt="" coords="2225,272,2287,301"/>
+<area shape="rect" id="node103" href="$_operation_8h.html" title="Class for non&#45;transactional, user and schema&#45;related activities, such as login, createuser, createtable, and so on. " alt="" coords="2361,195,2449,224"/>
+</map>

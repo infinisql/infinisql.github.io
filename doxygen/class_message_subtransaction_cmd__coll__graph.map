@@ -1,0 +1,15 @@
+<map id="MessageSubtransactionCmd" name="MessageSubtransactionCmd">
+<area shape="rect" id="node2" href="$class_message_transaction.html" title="Message variant for transaction processing. " alt="" coords="1200,85,1341,115"/>
+<area shape="rect" id="node4" href="$class_message.html" title="create Message object " alt="" coords="815,25,889,55"/>
+<area shape="rect" id="node6" href="$struct_message_1_1message__s.html" title="Message POD (serializable by memcpy) data members. " alt="" coords="471,25,620,55"/>
+<area shape="rect" id="node8" href="$struct_topology_1_1address_struct.html" title="Topology::addressStruct" alt="" coords="185,25,348,55"/>
+<area shape="rect" id="node10" href="$struct_message_transaction_1_1transaction__s.html" title="MessageTransaction POD (serializable by memcpy) data members. " alt="" coords="781,78,923,125"/>
+<area shape="rect" id="node12" href="$structfield_value__s.html" title="field contents " alt="" coords="499,332,592,361"/>
+<area shape="rect" id="node14" title="STL class. " alt="" coords="227,232,307,261"/>
+<area shape="rect" id="node22" href="$structreturn_row__s.html" title="row and metadata for being returned to client from SELECT or stored proc " alt="" coords="497,148,593,177"/>
+<area shape="rect" id="node25" href="$structsearch_params__s.html" title="describes how to perform an SQL search expression predicate " alt="" coords="1211,315,1331,344"/>
+<area shape="rect" id="node16" title="STL class. " alt="" coords="7,223,132,270"/>
+<area shape="rect" id="node18" href="$unionfield_input__u.html" title="contents of a field (other than CHARX or VARCHAR) " alt="" coords="223,348,311,377"/>
+<area shape="rect" id="node35" href="$structnon_locking_index_entry__s.html" title="index map value for non&#45;unique indices " alt="" coords="769,480,935,509"/>
+<area shape="rect" id="node38" href="$struct_message_subtransaction_cmd_1_1subtransaction__s.html" title="MessageSubtransactionCmd POD (serializable by memcpy) data members. " alt="" coords="1176,541,1365,587"/>
+</map>

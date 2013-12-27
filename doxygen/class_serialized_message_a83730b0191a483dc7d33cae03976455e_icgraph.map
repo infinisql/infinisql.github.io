@@ -1,0 +1,15 @@
+<map id="SerializedMessage::sersize" name="SerializedMessage::sersize">
+<area shape="rect" id="node3" href="$class_serialized_message.html#abb3d9fb606c45775b479980539b3f13c" title="SerializedMessage::\lsersize" alt="" coords="196,5,335,51"/>
+<area shape="rect" id="node5" href="$class_message.html#afa81916488d4f809e4077769de66a50c" title="get Message size " alt="" coords="212,352,319,381"/>
+<area shape="rect" id="node9" href="$class_message_socket.html#ae9d2e6aed0b5e21870a9b220b39ef995" title="get Message size " alt="" coords="403,125,549,155"/>
+<area shape="rect" id="node11" href="$class_message_user_schema.html#a3bd8c7c843b8cfbfc86e95a148851dfc" title="get Message size " alt="" coords="385,179,567,208"/>
+<area shape="rect" id="node13" href="$class_message_deadlock.html#a1ba7e35ea8a800ab9fcf3460c35d3d86" title="get Message size " alt="" coords="395,232,557,261"/>
+<area shape="rect" id="node15" href="$class_message_transaction.html#ae5e3a95a6ffa6414aeb4879904d70f78" title="get Message size " alt="" coords="405,285,547,331"/>
+<area shape="rect" id="node17" href="$class_message_subtransaction_cmd.html#adc0b6a6960279a5e75b6a38d39678f10" title="get Message size " alt="" coords="617,182,807,229"/>
+<area shape="rect" id="node19" href="$class_message_commit_rollback.html#acf79ebf67bbd131decf8852ba6eb912e" title="get Message size " alt="" coords="627,387,797,434"/>
+<area shape="rect" id="node21" href="$class_message_dispatch.html#a4e6b9cd03465be036c1b925441abd820" title="get Message size " alt="" coords="397,408,555,437"/>
+<area shape="rect" id="node23" href="$class_message_ack_dispatch.html#a8991616dadd91f54803005a6f265cbf4" title="get Message size " alt="" coords="401,461,551,507"/>
+<area shape="rect" id="node25" href="$class_message_apply.html#acb539e3840405f1f211baca08d5b60d0" title="get Message size " alt="" coords="407,531,545,560"/>
+<area shape="rect" id="node27" href="$class_message_ack_apply.html#adaa6ceac2ff41a7661427346f30ca400" title="get Message size " alt="" coords="395,584,557,613"/>
+<area shape="rect" id="node7" href="$class_ob_gateway.html#ae3fe3aa6dd0a4ee646084e270e5c27e9" title="ObGateway::ObGateway" alt="" coords="392,355,560,384"/>
+</map>

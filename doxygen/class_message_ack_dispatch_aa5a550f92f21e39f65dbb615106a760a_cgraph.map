@@ -1,0 +1,6 @@
+<map id="MessageAckDispatch::ser" name="MessageAckDispatch::ser">
+<area shape="rect" id="node3" href="$class_serialized_message.html#a9b7ee5e457a10593dcdc754ee65229c5" title="SerializedMessage::\lgetpayloadtype" alt="" coords="236,5,375,51"/>
+<area shape="rect" id="node5" href="$class_message_ack_dispatch.html#a49c63236f71440f0d62d99cbed2e6d9b" title="serialize this " alt="" coords="231,74,380,121"/>
+<area shape="rect" id="node7" href="$class_message.html#a3560a7e2578246a225468cafb1c8c87f" title="serialize this " alt="" coords="431,56,561,85"/>
+<area shape="rect" id="node9" href="$class_serialized_message.html#a7148bff70bff133d84b0c09662cf1a78" title="SerializedMessage::ser" alt="" coords="612,83,769,112"/>
+</map>

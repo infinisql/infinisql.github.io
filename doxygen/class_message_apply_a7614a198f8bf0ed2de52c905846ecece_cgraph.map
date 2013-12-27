@@ -1,0 +1,6 @@
+<map id="MessageApply::ser" name="MessageApply::ser">
+<area shape="rect" id="node3" href="$class_serialized_message.html#a9b7ee5e457a10593dcdc754ee65229c5" title="SerializedMessage::\lgetpayloadtype" alt="" coords="203,5,341,51"/>
+<area shape="rect" id="node5" href="$class_message_apply.html#abd38c18274aac7bb4dd50d38944ee72e" title="serialize this " alt="" coords="189,75,355,104"/>
+<area shape="rect" id="node7" href="$class_message.html#a3560a7e2578246a225468cafb1c8c87f" title="serialize this " alt="" coords="404,48,535,77"/>
+<area shape="rect" id="node9" href="$class_serialized_message.html#a7148bff70bff133d84b0c09662cf1a78" title="SerializedMessage::ser" alt="" coords="585,75,743,104"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="setdeleteflag" name="setdeleteflag">
+<area shape="rect" id="node3" href="$class_table.html#af59a98527997d3d1e00d7b6252a7cc89" title="delete row " alt="" coords="151,40,268,69"/>
+<area shape="rect" id="node5" href="$class_sub_transaction.html#a14f669de4a67c57bb61fc810cf3475c6" title="delete row " alt="" coords="319,13,495,43"/>
+<area shape="rect" id="node11" href="$class_table.html#a9d0b037233cd332fdef055de7b90bfe0" title="delete row part of replacement " alt="" coords="348,67,465,96"/>
+<area shape="rect" id="node7" href="$class_sub_transaction.html#a5ebf6d9a4c5d0ed4bed429badc2e9a97" title="handle incoming MessageTransaction variant " alt="" coords="544,5,779,51"/>
+<area shape="rect" id="node9" href="$class_engine.html#a7011d511bfa3f3f7d5c4d9fde79c364e" title="execute Engine actor " alt="" coords="828,13,937,43"/>
+</map>

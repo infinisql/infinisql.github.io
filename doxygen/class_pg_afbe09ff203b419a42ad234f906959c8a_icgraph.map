@@ -1,0 +1,6 @@
+<map id="Pg::putParameterStatus" name="Pg::putParameterStatus">
+<area shape="rect" id="node3" href="$class_pg.html#a9b16e732905412fd19a9b1c75e62ced3" title="write authenticationok status to outbound message buffer " alt="" coords="217,13,380,43"/>
+<area shape="rect" id="node5" href="$class_pg.html#aee8ca6d9759c75c81a8d41679744b31e" title="continuation after login operation " alt="" coords="431,13,556,43"/>
+<area shape="rect" id="node7" href="$class_operation.html#a07d5db6e1d0c41bf4073f3be93e4e7ed" title="perform operation (only for SQL logins) " alt="" coords="607,13,785,43"/>
+<area shape="rect" id="node9" href="$class_transaction_agent.html#abe6035d3eb84620ebbdcdfce3d34fc3b" title="TransactionAgent::Transaction\lAgent" alt="" coords="835,5,1035,51"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="TransactionAgent::sendResponse" name="TransactionAgent::sendResponse">
+<area shape="rect" id="node3" href="$class_transaction_agent.html#a5b15abb67572d7eac45cfff0030441fb" title="finish TCP connection on raw interface (not SQL interface) " alt="" coords="272,5,491,35"/>
+<area shape="rect" id="node5" href="$_transaction_agent_8cc.html#a6eddc9f5e393af42f14abc5dcd87b218" title="makeSbuf" alt="" coords="341,59,421,88"/>
+</map>

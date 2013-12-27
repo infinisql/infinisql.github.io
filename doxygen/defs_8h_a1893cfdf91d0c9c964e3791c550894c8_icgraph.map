@@ -1,0 +1,47 @@
+<map id="trimspace" name="trimspace">
+<area shape="rect" id="node3" href="$class_index.html#af5a0093fc92fdd686ac6486bf9e36f58" title="return index entries matching BETWEEN expression " alt="" coords="176,49,285,79"/>
+<area shape="rect" id="node5" href="$class_index.html#a518115b01c1987d8fb4aab51a5265346" title="return index entries matching &lt;,&gt;,&lt;=, or &gt;= expression " alt="" coords="167,103,295,132"/>
+<area shape="rect" id="node7" href="$class_transaction.html#a7466fd171b67232f43e9a540950f2413" title="continuation of COMMIT " alt="" coords="135,155,327,202"/>
+<area shape="rect" id="node22" href="$class_index.html#add255d4f405e762da8924a67d19b2991" title="delete entry from non&#45;unique index " alt="" coords="136,225,325,255"/>
+<area shape="rect" id="node24" href="$class_index.html#a70895b99df52ce158270d7d31990316e" title="delete entry from unique index " alt="" coords="147,279,315,308"/>
+<area shape="rect" id="node26" href="$class_transaction.html#a817fce7776e16ad79f9d72f4aa7899f7" title="get engine/partitionid based on hash of input " alt="" coords="153,332,308,361"/>
+<area shape="rect" id="node86" href="$class_transaction.html#a7b59e886a514d9485ed119b2f8855029" title="get engine/partitionid based on hash of input " alt="" coords="148,385,313,415"/>
+<area shape="rect" id="node88" href="$class_index.html#a310a2371305446f342234a83b3d847c5" title="perform activity to check for equality " alt="" coords="169,439,292,468"/>
+<area shape="rect" id="node90" href="$class_index.html#af98053a501048a92b1bec796627e98fc" title="return index entries matching inequality expression " alt="" coords="167,492,295,521"/>
+<area shape="rect" id="node92" href="$class_index.html#a5599195054d31f606514375526badf40" title="return index entries matching NOT IN expression " alt="" coords="177,545,284,575"/>
+<area shape="rect" id="node94" href="$class_index.html#a5b2bd3c667f37d176164052e9c026f99" title="insert entry into non&#45;unique index " alt="" coords="137,599,324,628"/>
+<area shape="rect" id="node96" href="$class_index.html#a8cdefc009a85999d67bed57d8df97e90" title="return index entries matching LIKE search " alt="" coords="189,863,272,892"/>
+<area shape="rect" id="node107" href="$class_index.html#a77756259b47493dfb9e099aae25d02c5" title="return index entries maching NOT LIKE search " alt="" coords="181,703,280,732"/>
+<area shape="rect" id="node110" href="$class_index.html#ad06fd0ace87644210cc654d06508607e" title="replace index value in non&#45;unique index " alt="" coords="148,756,313,785"/>
+<area shape="rect" id="node112" href="$class_index.html#a41d15b73b08065543d1bde9c76aea315" title="replace index value " alt="" coords="159,809,303,839"/>
+<area shape="rect" id="node114" href="$class_sub_transaction.html#a41f9efcbfe11bf61fad932b7b5c43d10" title="new unique index entry " alt="" coords="379,804,568,833"/>
+<area shape="rect" id="node9" href="$class_transaction.html#a954645efeb9bb7f6a510dd33cc16851f" title="execute continuation based on MessageTransaction reply " alt="" coords="1625,358,1836,405"/>
+<area shape="rect" id="node11" href="$class_transaction.html#a109bd0f1d70b6ff69cf3abccf7eea8f8" title="COMMIT. " alt="" coords="403,85,544,115"/>
+<area shape="rect" id="node13" href="$class_api_interface.html#a95a01b40504d9f5b8024221f2805409c" title="commit transaction " alt="" coords="652,59,793,88"/>
+<area shape="rect" id="node15" href="$class_pg.html#a5c7a5cc08d6f879c72e2a5e9515ae7a8" title="implicit commit " alt="" coords="649,5,796,35"/>
+<area shape="rect" id="node19" href="$class_pg.html#a55518b7c783c58e23badcc740e96cd8e" title="explicit commit " alt="" coords="649,112,796,141"/>
+<area shape="rect" id="node17" href="$class_pg.html#ac132fbe1a0c46c68ece5004366dd8a62" title="after SQL activity is performed " alt="" coords="923,59,1061,88"/>
+<area shape="rect" id="node28" href="$class_statement.html#a4d278eaa6b77688702b33b4ad73baaf8" title="SELECT, INSERT, UPDATE, DELETE, stored proc branch to. " alt="" coords="391,480,556,509"/>
+<area shape="rect" id="node63" href="$class_statement.html#ab44eeb418a8a7b4fba8000accc66c81a" title="continuation for UPDATE statement " alt="" coords="1157,309,1339,339"/>
+<area shape="rect" id="node70" href="$class_transaction.html#a579df7cbb28d6f8d4ddc869ff68ed066" title="continuation of REPLACE (update of field 0 in a row) " alt="" coords="1399,227,1564,274"/>
+<area shape="rect" id="node75" href="$class_transaction.html#a34c98cae060191022da8c08f63875412" title="continuation of INSERT " alt="" coords="1399,665,1564,711"/>
+<area shape="rect" id="node30" href="$class_statement.html#a9f0b670dfa46844eb90de3ca3444d2d2" title="perform search expression " alt="" coords="625,595,820,624"/>
+<area shape="rect" id="node36" href="$class_statement.html#a0a683e44fb4dfcf9063a476428490ada" title="begin query execution " alt="" coords="917,471,1067,500"/>
+<area shape="rect" id="node32" href="$class_ast.html#a229d1f25bd5f15a7f8a2b1a44ea26ed9" title="Ast::evaluate" alt="" coords="1199,689,1297,719"/>
+<area shape="rect" id="node50" href="$class_transaction.html#af1b4585435a240cae71c2f819ce5bc91" title="continuation of SQL predicate search " alt="" coords="1399,419,1564,466"/>
+<area shape="rect" id="node78" href="$class_transaction.html#a3d0b71c4ec2701fb542956f3d1e493f8" title="SQL predicate search. " alt="" coords="907,625,1077,655"/>
+<area shape="rect" id="node38" href="$class_statement.html#a42ca63333686087acb579354fce0720f" title="execute SQL statement " alt="" coords="1180,583,1316,612"/>
+<area shape="rect" id="node47" href="$class_statement.html#abb110d0dc3abf1f5dcbb33ff33a7174b" title="continuation for SELECT statement " alt="" coords="1160,421,1336,451"/>
+<area shape="rect" id="node56" href="$class_statement.html#a61c903a35c6032860f06e40116fd3da1" title="continuation for DELETE statement " alt="" coords="1160,476,1336,505"/>
+<area shape="rect" id="node73" href="$class_statement.html#a7fde4b03e1c3bdbeeb8b5514bbb80fab" title="continuation for INSERT statement " alt="" coords="1163,636,1333,665"/>
+<area shape="rect" id="node40" href="$class_api_interface.html#aa98cd6da46180185e425a6efa84bf950" title="execute SQL statement " alt="" coords="1388,559,1575,588"/>
+<area shape="rect" id="node42" href="$class_pg.html#af7204d6b309e5d68f8bd37fdbcc5929e" title="tokenize, parse, compile and execute SQL query " alt="" coords="1405,612,1557,641"/>
+<area shape="rect" id="node44" href="$class_pg.html#a1d9453abb6c088797e14baea3f2c241b" title="wire protocol handling " alt="" coords="1696,612,1765,641"/>
+<area shape="rect" id="node53" href="$class_transaction.html#acc68e7f9e766d98f3c7318780405f465" title="get all rows from a table " alt="" coords="1399,367,1564,396"/>
+<area shape="rect" id="node60" href="$class_transaction.html#af8446c93fc62749f913208ec60a381e8" title="continuation of DELETE " alt="" coords="1399,489,1564,535"/>
+<area shape="rect" id="node67" href="$class_transaction.html#a675020eec1986710d1865eacbba6e81f" title="continuation of UPDATE " alt="" coords="1399,297,1564,343"/>
+<area shape="rect" id="node98" href="$class_sub_transaction.html#a97198ca271f50534498247ad21ac7ff3" title="SubTransaction::indexSearch" alt="" coords="377,860,569,889"/>
+<area shape="rect" id="node100" href="$class_sub_transaction.html#a5ebf6d9a4c5d0ed4bed429badc2e9a97" title="handle incoming MessageTransaction variant " alt="" coords="875,846,1109,893"/>
+<area shape="rect" id="node104" href="$class_sub_transaction.html#ae1a06344c0f1e09fc65f99c9199b46d0" title="search index for and return matching rows " alt="" coords="620,907,825,936"/>
+<area shape="rect" id="node102" href="$class_engine.html#a7011d511bfa3f3f7d5c4d9fde79c364e" title="execute Engine actor " alt="" coords="1193,855,1303,884"/>
+</map>

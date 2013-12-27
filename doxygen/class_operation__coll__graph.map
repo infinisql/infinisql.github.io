@@ -1,0 +1,19 @@
+<map id="Operation" name="Operation">
+<area shape="rect" id="node2" href="$class_transaction_agent.html" title="execute Transaction Agent actor " alt="" coords="2245,296,2368,325"/>
+<area shape="rect" id="node5" href="$class_topology.html" title="Topology" alt="" coords="2004,725,2079,755"/>
+<area shape="rect" id="node44" href="$class_mboxes.html" title="collection of producers " alt="" coords="1216,1316,1283,1345"/>
+<area shape="rect" id="node21" href="$struct_topology_1_1partition_address.html" title="Topology::partitionAddress" alt="" coords="1161,324,1337,353"/>
+<area shape="rect" id="node13" title="STL class. " alt="" coords="640,361,720,391"/>
+<area shape="rect" id="node54" href="$struct_message_batch_serialized_1_1msgbatch__s.html" title="structure of serialized messages and destination node " alt="" coords="855,798,1020,845"/>
+<area shape="rect" id="node72" href="$structauth_info.html" title="authentication information, uniquely identifying a user " alt="" coords="903,453,972,483"/>
+<area shape="rect" id="node15" title="STL class. " alt="" coords="304,353,429,399"/>
+<area shape="rect" id="node24" href="$class_mbox.html" title="create mailbox " alt="" coords="911,675,964,704"/>
+<area shape="rect" id="node36" href="$struct_topology_1_1actor__s.html" title="characteristics for each actor " alt="" coords="1187,689,1312,719"/>
+<area shape="rect" id="node49" href="$class_mbox_producer.html" title="mailbox producer " alt="" coords="1597,1107,1704,1136"/>
+<area shape="rect" id="node26" href="$class_message.html" title="create Message object " alt="" coords="643,617,717,647"/>
+<area shape="rect" id="node51" href="$class_message_batch_serialized.html" title="Message variant containing multiple serialized Message variants. " alt="" coords="1167,1061,1332,1091"/>
+<area shape="rect" id="node28" href="$struct_message_1_1message__s.html" title="Message POD (serializable by memcpy) data members. " alt="" coords="292,508,441,537"/>
+<area shape="rect" id="node30" href="$struct_topology_1_1address_struct.html" title="Topology::addressStruct" alt="" coords="7,181,169,211"/>
+<area shape="rect" id="node47" href="$struct_mboxes_1_1location__s.html" title="address and MboxProducer for an actor " alt="" coords="1975,1495,2108,1524"/>
+<area shape="rect" id="node82" href="$structschemastruct.html" title="state information for Operations between TransactionAgent and UserSchemaMgr " alt="" coords="1600,216,1701,245"/>
+</map>

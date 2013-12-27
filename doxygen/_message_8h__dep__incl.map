@@ -1,0 +1,44 @@
+<map id="/home/infinisql/build/infinisql/infinisqld/Message.h" name="/home/infinisql/build/infinisql/infinisqld/Message.h">
+<area shape="rect" id="node3" href="$_mbox_8h.html" title="Mbox* classes perform inter&#45;actor messaging. Mbox is a lockfree multi producer, single consumer queue..." alt="" coords="627,117,763,181"/>
+<area shape="rect" id="node111" href="$_message_8cc.html" title="Message objects of varying types. Each type eventually inherits from the Message base class..." alt="" coords="787,117,923,181"/>
+<area shape="rect" id="node5" href="$gch_8h.html" title="Headers for all external dependencies. " alt="" coords="880,230,1040,277"/>
+<area shape="rect" id="node94" href="$_mbox_8cc.html" title="Mbox* classes perform inter&#45;actor messaging. Mbox is a lockfree multi producer, single consumer queue..." alt="" coords="5,325,141,389"/>
+<area shape="rect" id="node7" href="$api_8cc.html" title="API for creating stored procedures. Pg objects also inherit from this class, because they perform the..." alt="" coords="1184,549,1320,613"/>
+<area shape="rect" id="node10" href="$_transaction_8h.html" title="Class which performs transactions. Associated with the TransactionAgent which connected to the client..." alt="" coords="1000,437,1136,501"/>
+<area shape="rect" id="node13" href="$_transaction_agent_8h.html" title="Actor which communicates with clients and executes transactions. Coordinates of activities between se..." alt="" coords="1065,773,1204,837"/>
+<area shape="rect" id="node16" href="$_operation_8h.html" title="Class for non&#45;transactional, user and schema&#45;related activities, such as login, createuser, createtable, and so on. " alt="" coords="1381,885,1517,949"/>
+<area shape="rect" id="node21" href="$_applier_8cc.html" title="Applies transactional data modifications as part of synchronous replication. " alt="" coords="488,885,624,949"/>
+<area shape="rect" id="node23" href="$_engine_8h.html" title="Engine actors store and manipulate data. Each engine interacts with a single partition, and vice versa. " alt="" coords="240,885,376,949"/>
+<area shape="rect" id="node27" href="$_sub_transaction_8h.html" title="Engine&#39;s class corresponding to TransactionAgent&#39;s Transaction. Each data manipulation activity has a..." alt="" coords="176,997,312,1061"/>
+<area shape="rect" id="node36" href="$_user_schema_mgr_8h.html" title="Actor which maintains user and domain authentication information and schema definitions. There is only 1 active UserSchemaMgr per cluster. " alt="" coords="735,885,871,949"/>
+<area shape="rect" id="node40" href="$_asts_8cc.html" title="Abstract Syntax Tree class and Statement class. A SQL statement turns into these in order to be execu..." alt="" coords="789,549,925,613"/>
+<area shape="rect" id="node46" href="$_table_8h.html" title="Table class. Has Fields and Indices. " alt="" coords="368,549,504,613"/>
+<area shape="rect" id="node49" href="$_schema_8h.html" title="Schema class. Contains tables (fields (indices)). One schemata per domain. Corresponds to tablespace ..." alt="" coords="579,661,715,725"/>
+<area shape="rect" id="node58" href="$_field_8h.html" title="Data Field class (INT, BOOL, VARCHAR, etc). " alt="" coords="368,437,504,501"/>
+<area shape="rect" id="node63" href="$_index_8h.html" title="Index type class (UNIQUE, NONUNIQUE, etc.) " alt="" coords="528,325,664,389"/>
+<area shape="rect" id="node69" href="$_larxer_8h.html" title="Portmanteau of &quot;lexer&quot; and &quot;parser&quot;. This class tokenizes, parses and converts SQL into executable St..." alt="" coords="1152,325,1288,389"/>
+<area shape="rect" id="node72" href="$_larxer_8cc.html" title="Portmanteau of &quot;lexer&quot; and &quot;parser&quot;. This class tokenizes, parses and converts SQL into executable St..." alt="" coords="1211,437,1347,501"/>
+<area shape="rect" id="node74" href="$_deadlock_mgr_8h.html" title="Actor which resolves deadlocks. " alt="" coords="840,325,976,389"/>
+<area shape="rect" id="node83" href="$_ib_gateway_8h.html" title="Inbound Gateway actor. Counterpart to ObGateway. Receives messages over the network from remote sende..." alt="" coords="1312,325,1448,389"/>
+<area shape="rect" id="node88" href="$_listener_8h.html" title="On each host, this actor accepts new connections and distributes incoming network traffic from client..." alt="" coords="1632,325,1768,389"/>
+<area shape="rect" id="node92" href="$main_8cc.html" title="Contains main and various global function definitions. " alt="" coords="1472,325,1608,389"/>
+<area shape="rect" id="node96" href="$_ob_gateway_8h.html" title="Outbound Gateway actor. Counterpart to IbGateway. Receives messages from actors on current node bound..." alt="" coords="1792,325,1928,389"/>
+<area shape="rect" id="node100" href="$_pg_8h.html" title="Objects created for every SQL login and associated with a specific TransactionAgent. Takes incoming requests, has them processed and responds to client. " alt="" coords="2149,782,2304,829"/>
+<area shape="rect" id="node105" href="$_topology_mgr_8h.html" title="Actor which receives configuration commands over 0mq and MessagePack from infinisqlmgr.py. " alt="" coords="2003,325,2139,389"/>
+<area shape="rect" id="node42" href="$_transaction_8cc.html" title="Class which performs transactions. Associated with the TransactionAgent which connected to the client..." alt="" coords="949,549,1085,613"/>
+<area shape="rect" id="node32" href="$_pg_8cc.html" title="Objects created for every SQL login and associated with a specific TransactionAgent. Takes incoming requests, has them processed and responds to client. " alt="" coords="1948,894,2111,941"/>
+<area shape="rect" id="node34" href="$_transaction_agent_8cc.html" title="Actor which communicates with clients and executes transactions. Coordinates of activities between se..." alt="" coords="1699,885,1845,949"/>
+<area shape="rect" id="node19" href="$_operation_8cc.html" title="Class for non&#45;transactional, user and schema&#45;related activities, such as login, createuser, createtable, and so on. " alt="" coords="1749,997,1885,1061"/>
+<area shape="rect" id="node25" href="$_engine_8cc.html" title="Engine actors store and manipulate data. Each engine interacts with a single partition, and vice versa. " alt="" coords="336,997,472,1061"/>
+<area shape="rect" id="node30" href="$_sub_transaction_8cc.html" title="Engine&#39;s class corresponding to TransactionAgent&#39;s Transaction. Each data manipulation activity has a..." alt="" coords="176,1109,312,1173"/>
+<area shape="rect" id="node38" href="$_user_schema_mgr_8cc.html" title="Actor which maintains user and domain authentication information and schema definitions. There is only 1 active UserSchemaMgr per cluster. " alt="" coords="732,997,873,1061"/>
+<area shape="rect" id="node55" href="$_table_8cc.html" title="Table class. Has Fields and Indices. " alt="" coords="368,661,504,725"/>
+<area shape="rect" id="node52" href="$_schema_8cc.html" title="Schema class. Contains tables (fields (indices)). One schemata per domain. Corresponds to tablespace ..." alt="" coords="579,773,715,837"/>
+<area shape="rect" id="node61" href="$_field_8cc.html" title="Data Field class (INT, BOOL, VARCHAR, etc). " alt="" coords="528,549,664,613"/>
+<area shape="rect" id="node66" href="$_index_8cc.html" title="Index type class (UNIQUE, NONUNIQUE, etc.) " alt="" coords="528,437,664,501"/>
+<area shape="rect" id="node77" href="$_deadlock_mgr_8cc.html" title="Actor which resolves deadlocks. " alt="" coords="840,437,976,501"/>
+<area shape="rect" id="node85" href="$_ib_gateway_8cc.html" title="Inbound Gateway actor. Counterpart to ObGateway.Receives messages over the network from remote sender..." alt="" coords="1421,437,1557,501"/>
+<area shape="rect" id="node90" href="$_listener_8cc.html" title="On each host, this actor accepts new connections and distributes incoming network traffic from client..." alt="" coords="1632,437,1768,501"/>
+<area shape="rect" id="node98" href="$_ob_gateway_8cc.html" title="Outbound Gateway actor. Counterpart to IbGateway. Receives messages from actors on current node bound..." alt="" coords="1792,437,1928,501"/>
+<area shape="rect" id="node107" href="$_topology_mgr_8cc.html" title="Actor which receives configuration commands over 0mq and MessagePack from infinisqlmgr.py. " alt="" coords="2003,437,2139,501"/>
+</map>
